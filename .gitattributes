@@ -1,0 +1,7 @@
+# Yama dosyasi (tt01.pc) LF satir sonu ile kalmali - git DONUSTURMESIN
+*.pc -text
+*.IGN -text
+*.mp4 binary
+
+# Diger metin dosyalari icin otomatik
+* text=auto

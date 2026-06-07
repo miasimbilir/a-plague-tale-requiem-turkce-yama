@@ -1,0 +1,12 @@
+# Oyun tarafindan uretilen yedek dosyalari
+*.orijinal_yedek
+*.bak
+
+# Python derleme artiklari
+__pycache__/
+*.pyc
+
+# Isletim sistemi
+Thumbs.db
+desktop.ini
+.DS_Store
