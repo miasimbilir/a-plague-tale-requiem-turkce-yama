@@ -70,7 +70,3 @@ A Plague Tale: Requiem oyununun **arayüz ve altyazılarını Türkçeleştiren*
 ## 📜 Yasal uyarı
 
 Bu, **gayriresmî bir hayran çevirisidir**. Focus Entertainment veya Asobo Studio ile bir ilişkisi, onayı yoktur. A Plague Tale: Requiem ve tüm ilgili haklar sahiplerine aittir. Yama yalnızca oyunun yasal bir kopyasına sahip kullanıcılar içindir; ticari amaçla kullanılamaz/satılamaz.
-
-## 🙏 Teşekkür
-
-Türkçe çeviri ve yama: **MiAsimBilir**
