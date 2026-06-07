@@ -1,7 +1,7 @@
-# Yama dosyasi (tt01.pc) LF satir sonu ile kalmali - git DONUSTURMESIN
+# Once genel kural, SONRA ozel istisnalar (git son eslesen kurali uygular)
+* text=auto
+
+# Yama/oyun dosyalari her zaman LF kalmali - git DONUSTURMESIN (binary muamelesi)
 *.pc -text
 *.IGN -text
 *.mp4 binary
-
-# Diger metin dosyalari icin otomatik
-* text=auto
