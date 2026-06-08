@@ -3948,7 +3948,7 @@ TT 3944 "Nasilsin?" VO__AMICIA__CH02__RTC__100_AN_ALCHEMIST__195__M__1
 TT 3945 "Anne..." VO__AMICIA__CH02__RTC__100_AN_ALCHEMIST__250__M__1
 TT 3946 "Muhafiz. Bir sey yapamam. Sessizce geçelim." VO__AMICIA__CH03__CHATTER__1ST_TOWER_REMPART__020__M__1
 TT 3947 "Bu da ne...?" VO__AMICIA__CH03__CHATTER__2ND_STREET__030__M__1
-TT 3948 "Çok yakin... Asagi inmenin bir yolunu bulmali." VO__AMICIA__CH03__CHATTER__2ND_TOWER_REMPART__020__M__1
+TT 3948 "Çok yakin... Asagi inmenin bir yolunu bulmaliyim." VO__AMICIA__CH03__CHATTER__2ND_TOWER_REMPART__020__M__1
 TT 3949 "Annem çok öfkelenecek... Herkesi hayal kirikligina ugrattim..." VO__AMICIA__CH03__CHATTER__2ND_TOWER_REMPART__040__M__1
 TT 3950 "Öyleyiz..." VO__AMICIA__CH03__CHATTER__2ND_TOWER_SUCCESSFUL__020__M__1
 TT 3951 "Ne?" VO__AMICIA__CH03__CHATTER__ABOUT_BALLISTA__010__M__1
@@ -4125,7 +4125,7 @@ TT 4121 "Gidelim." VO__AMICIA__CH03__CHATTER__HIDE_TABLE__040__M__1
 TT 4122 "Sakin bana kenar mahalleleri de temizlediklerini söyleme! Lanet olsun!" VO__AMICIA__CH03__CHATTER__HIGHER_SQUARE__030__M__1
 TT 4123 "Hiç bitmiyor..." VO__AMICIA__CH03__CHATTER__HIGHER_SQUARE__050__M__1
 TT 4124 "Evet, beni takip et... Iyi köpek..." VO__AMICIA__CH03__CHATTER__IDLE_CHASE_01__010__M__1
-TT 4125 "Seni öldürenin sadece bir çocuk olmasi!" VO__AMICIA__CH03__CHATTER__IDLE_CHASE_01__030__M__1
+TT 4125 "Hem de seni öldüren sadece bir çocuk!" VO__AMICIA__CH03__CHATTER__IDLE_CHASE_01__030__M__1
 TT 4126 "Sabret... yakinda sira sana gelecek!" VO__AMICIA__CH03__CHATTER__IDLE_CHASE_02__010__M__1
 TT 4127 "Evet, gel! Gel dene!" VO__AMICIA__CH03__CHATTER__IDLE_CHASE_02__030__M__1
 TT 4128 "Bak! Artik böyle yürüyor! Kurallari ben koyuyorum!" VO__AMICIA__CH03__CHATTER__IDLE_CHASE_03__010__M__1
@@ -16567,7 +16567,7 @@ TT 16563 "Bu da ne be?!" VO__SOLDIER_B1__CH03__CHATTER__SMOKE_TUTO__030__M__1
 TT 16564 "Hiçbir sey göremiyorum!" VO__SOLDIER_B1__CH03__CHATTER__SMOKE_TUTO__060__M__1
 TT 16565 "Sen! Burada kal ve devriye gez! Tek bir lanet fare bile görürsen haber ver!" VO__SOLDIER_B1__CH03__RTC__118_CONTROL_LOST__005__M__1
 TT 16566 "Digerleri benimle! Degerli ne varsa arayin! Yiyecek, ilaç... her türlü mal lazim!" VO__SOLDIER_B1__CH03__RTC__118_CONTROL_LOST__007__M__1
-TT 16567 "Adamlarimi öldürmeyi gösterecegim sana!" VO__SOLDIER_B1__CH03__RTC__120_JAIL__040__M__1
+TT 16567 "Adamlarimi öldürmek ne demekmis, gösterecegim sana!" VO__SOLDIER_B1__CH03__RTC__120_JAIL__040__M__1
 TT 16568 "Seninle isimizin bittigini sanma." VO__SOLDIER_B1__CH03__RTC__120_JAIL__050__M__1
 TT 16569 "onom" VO__SOLDIER_B1__CH03__RTC__120_JAIL_ONOM__010__M__1
 TT 16570 "Yaptiklarindan sonra çabuk bir ölüm bekleme! Asilmadan önce seninle biraz vakit geçirsin diye cellata para ödedik..." VO__SOLDIER_B1__CH03__RTC__121_JAIL__010__M__1
