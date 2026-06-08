@@ -3337,7 +3337,7 @@ TT 3333 "Simdilik... sadece dikkatli olalim." VO__AMICIA__CH01__CHATTER__ENTER_C
 TT 3334 "Ha... ha... Incindin mi?!" VO__AMICIA__CH01__CHATTER__ENTER_CASTLE_FALLEN__010__M__1
 TT 3335 "Ben... katiliyorum. Bugünlük bu kadar yeter." VO__AMICIA__CH01__CHATTER__ENTER_CASTLE_FALLEN__030__M__1
 TT 3336 "Yanindayim, merak etme." VO__AMICIA__CH01__CHATTER__ENTER_CASTLE_FLOOR__010__M__1
-TT 3337 "Ah, sanirim büyücünün adamlari yakinda..." VO__AMICIA__CH01__CHATTER__ENTER_CASTLE_FLOOR__030__M__1
+TT 3337 "Ah, sanirim büyücünün adamlari yakinimizda..." VO__AMICIA__CH01__CHATTER__ENTER_CASTLE_FLOOR__030__M__1
 TT 3338 "Ne?!..." VO__AMICIA__CH01__CHATTER__ENTER_CASTLE_OUTSIDE__010__M__1
 TT 3339 "Yeni olmus..." VO__AMICIA__CH01__CHATTER__ENTER_CASTLE_OUTSIDE__030__M__1
 TT 3340 "Bu sepetler... ari kovani bunlar..." VO__AMICIA__CH01__CHATTER__ENTER_CASTLE_OUTSIDE__050__M__1
@@ -3357,7 +3357,7 @@ TT 3353 "Kaç!" VO__AMICIA__CH01__CHATTER__FIRE_SPREAD__012__M__1
 TT 3354 "Ev!" VO__AMICIA__CH01__CHATTER__FIRE_SPREAD__020__M__1
 TT 3355 "Uzun bir yol oldu. Bacaklarini açmaya hakkin var!" VO__AMICIA__CH01__CHATTER__FIRST_STEPS__020__M__1
 TT 3356 "Suna bak..." VO__AMICIA__CH01__CHATTER__FIRST_STEPS__050__M__1
-TT 3357 "Hâllederi! Gitmeliyiz Hugo! Yakalarlarsa bizi öldürürler!" VO__AMICIA__CH01__CHATTER__HELP_TONIN__020__M__1
+TT 3357 "Hâlleder! Gitmeliyiz Hugo! Yakalarlarsa bizi öldürürler!" VO__AMICIA__CH01__CHATTER__HELP_TONIN__020__M__1
 TT 3358 "Sst! Sessiz ol!" VO__AMICIA__CH01__CHATTER__HELP_TONIN__040__M__1
 TT 3359 "Amazon Amicia!" VO__AMICIA__CH01__CHATTER__HIDESEEK_BEGIN__050__M__1
 TT 3360 "Evet... Onlari da kullanabiliriz." VO__AMICIA__CH01__CHATTER__HIDESEEK_BEGIN__075__M__1
@@ -13791,7 +13791,7 @@ TT 13787 "Dokuuuz!" VO__LUCAS__CH01__CHATTER__HIDESEEK_COUNTING__090__M__1
 TT 13788 "On!" VO__LUCAS__CH01__CHATTER__HIDESEEK_COUNTING__110__M__1
 TT 13789 "Sekiz! Dokuz! On!" VO__LUCAS__CH01__CHATTER__HIDESEEK_COUNTING__115__M__1
 TT 13790 "Geliyoruuum!" VO__LUCAS__CH01__CHATTER__HIDESEEK_COUNTING__120__M__1
-TT 13791 "Yeterince adil. Neyse, ben simdi çalismaya döneyim." VO__LUCAS__CH01__CHATTER__HIDESEEK_END__010__M__1
+TT 13791 "Peki o zaman. Neyse, ben simdi çalismaya döneyim." VO__LUCAS__CH01__CHATTER__HIDESEEK_END__010__M__1
 TT 13792 "Sey, simyaci olmak istiyorsam..." VO__LUCAS__CH01__CHATTER__HIDESEEK_END__030__M__1
 TT 13793 "Aman!" VO__LUCAS__CH01__CHATTER__HIDESEEK_END__040__M__1
 TT 13794 "Hâlâ annenin çiragiyim." VO__LUCAS__CH01__CHATTER__HIDESEEK_END__050__M__1
@@ -15709,7 +15709,7 @@ TT 15705 "Bizden çalmadan önce bunu düsünseydiniz!" VO__PEOPLE_M2__CH01__CHA
 TT 15706 "Geri gelmediklerinden böyle emin oluruz iste!" VO__PEOPLE_M2__CH01__CHATTER__BROTHERS_ARRIVAL__170__M__1
 TT 15707 "Git kapinin kilitli oldugundan emin ol." VO__PEOPLE_M2__CH01__CHATTER__BROTHERS_ARRIVAL__180__M__1
 TT 15708 "Burada nöbet tut! Yarina kadar sirayla nöbetlesiriz!" VO__PEOPLE_M2__CH01__CHATTER__BROTHERS_BACK__005__M__1
-TT 15709 "Tonin nerede?! Babam ondan önce ben ellerime geçireyim onu..." VO__PEOPLE_M2__CH01__CHATTER__BROTHERS_BACK__020__M__1
+TT 15709 "Tonin nerede?! Babamdan önce onu ben ellerime geçireyim..." VO__PEOPLE_M2__CH01__CHATTER__BROTHERS_BACK__020__M__1
 TT 15710 "Eninde sonunda geri gelir." VO__PEOPLE_M2__CH01__CHATTER__BROTHERS_BACK__060__M__1
 TT 15711 "Ne rezalet!" VO__PEOPLE_M2__CH01__CHATTER__CROUCH_PROGRESS__040__M__1
 TT 15712 "Simdi etimiz ve balimiz ne isine yarayacak, ha? Öldün sen." VO__PEOPLE_M2__CH01__CHATTER__CROUCH_PROGRESS__050__M__1
@@ -15930,7 +15930,7 @@ TT 15926 "Sizi asla geri alamayiz sandiniz, degil mi?!" VO__PEOPLE_M3__CH01__CHA
 TT 15927 "Sizi lanet hirsizlar... emegimizi çalmaya çalisiyorsunuz..." VO__PEOPLE_M3__CH01__CHATTER__IDLE_TRACKING_3__010__M__1
 TT 15928 "Hey! Ikisini kaybettim, bir oglanla bir kiz! Onlari görmediniz mi?!" VO__PEOPLE_M3__CH01__CHATTER__NEMESIS_BACK__010__M__1
 TT 15929 "Bulursaniz öldürün onlari!" VO__PEOPLE_M3__CH01__CHATTER__NEMESIS_BACK__030__M__1
-TT 15930 "Mathias! Gel! Dedeyi fena hâlde benzettiler!" VO__PEOPLE_M3__CH01__CHATTER__WHEELBARROW__010__M__1
+TT 15930 "Mathias! Gel! Dedeyi fena hâlde yaralamislar!" VO__PEOPLE_M3__CH01__CHATTER__WHEELBARROW__010__M__1
 TT 15931 "Çok öfkelenecek..." VO__PEOPLE_M3__CH01__CHATTER__WHEELBARROW__040__M__1
 TT 15932 "Kapana kisildiniz! Hiçbir yere gidemezsiniz!" VO__PEOPLE_M3__CH01__CHATTER__WRONG_WAY__030__M__1
 TT 15933 "Hey!" VO__PEOPLE_M3__CH01__RTC__021_BEEKEEPER__020__M__1
