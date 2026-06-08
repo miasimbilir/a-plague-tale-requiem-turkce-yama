@@ -632,7 +632,7 @@ T = {
 "VO__SOLDIER_N3__CH06__CHATTER__2ND_ENCOUNTER_ENTRANCE__040__M__1": "Bu insanları silip süpürmüşler...",
 "VO__SOLDIER_N3__CH06__CHATTER__BEGINNING_RATMOVE__040__M__1": "Bu senin için sonun!",
 "VO__SOLDIER_N3__CH06__CHATTER__BEGINNING_RATMOVE__100__M__1": "Onları çocuk kontrol ediyor olmalı! Öldürün şu canavarları!",
-"VO__SOLDIER_N3__CH06__CHATTER__MORE_MEN_TALKING__030__M__1": "İçine cin kaçmış! Cesedini yakmamız gerekecek!",
+"VO__SOLDIER_N3__CH06__CHATTER__MORE_MEN_TALKING__030__M__1": "İçine cin kaçmış! Bedenini yakmamız gerekecek!",
 "VO__SOLDIER_N3__CH06__CHATTER__REINFORCEMENTS__020__M__1": "Anlaşıldı!",
 "VO__SOLDIER_N3__CH06__CHATTER__SOLDIER_INTERROGATION__030__M__1": "İki çocuk. Bir kız ve küçük bir oğlan.",
 "VO__SOLDIER_N3__CH06__CHATTER__SOLDIER_INTERROGATION__050__M__1": "O zaman düşün!",

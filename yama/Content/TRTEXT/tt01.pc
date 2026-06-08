@@ -18273,7 +18273,7 @@ TT 18269 "Hazir olun çocuklar! Yükümüzü yakinda rihtima tasiyacagiz!" VO__S
 TT 18270 "Bu insanlari silip süpürmüsler..." VO__SOLDIER_N3__CH06__CHATTER__2ND_ENCOUNTER_ENTRANCE__040__M__1
 TT 18271 "Bu senin için sonun!" VO__SOLDIER_N3__CH06__CHATTER__BEGINNING_RATMOVE__040__M__1
 TT 18272 "Onlari çocuk kontrol ediyor olmali! Öldürün su canavarlari!" VO__SOLDIER_N3__CH06__CHATTER__BEGINNING_RATMOVE__100__M__1
-TT 18273 "Içine cin kaçmis! Cesedini yakmamiz gerekecek!" VO__SOLDIER_N3__CH06__CHATTER__MORE_MEN_TALKING__030__M__1
+TT 18273 "Içine cin kaçmis! Bedenini yakmamiz gerekecek!" VO__SOLDIER_N3__CH06__CHATTER__MORE_MEN_TALKING__030__M__1
 TT 18274 "Anlasildi!" VO__SOLDIER_N3__CH06__CHATTER__REINFORCEMENTS__020__M__1
 TT 18275 "Iki çocuk. Bir kiz ve küçük bir oglan." VO__SOLDIER_N3__CH06__CHATTER__SOLDIER_INTERROGATION__030__M__1
 TT 18276 "O zaman düsün!" VO__SOLDIER_N3__CH06__CHATTER__SOLDIER_INTERROGATION__050__M__1
