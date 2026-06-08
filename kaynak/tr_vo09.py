@@ -284,7 +284,7 @@ T = {
 "VO__AMICIA__CH09__CHATTER__TO_SANCTUARY_2__050__M__1": "Bu kan bağı. Bu şey... zamanın başına dek uzanıyor. Haksızlık ama... Bu gerçek, Sophia. Guyenne'de Engizisyon bunun için peşimize düştü! Buraya zar zor geldik.",
 "VO__AMICIA__CH09__CHATTER__TO_SANCTUARY_2__070__M__1": "Teşekkürler...",
 "VO__AMICIA__CH09__CHATTER__TORCH_BEARER_HOME__010__M__1": "O fresk evde annemin laboratuvarındaydı!",
-"VO__AMICIA__CH09__CHATTER__TORCH_BEARER_HOME__030__M__1": "Oynuyormuş gibi yapmalıyız. Hadi... geçelim.",
+"VO__AMICIA__CH09__CHATTER__TORCH_BEARER_HOME__030__M__1": "Oyuna uymalıyız. Hadi... geçelim.",
 "VO__AMICIA__CH09__CHATTER__TORCH_EXTINGUISHED__030__M__1": "Ama başardın!",
 "VO__AMICIA__CH09__CHATTER__TORCH_EXTINGUISHED__050__M__1": "Sakin ol... Artık iyisin.",
 "VO__AMICIA__CH09__CHATTER__TOWER__010__M__1": "Gerçekten epey sağlam görünüyor.",

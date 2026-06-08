@@ -5961,7 +5961,7 @@ TT 5957 "Hugo'nun hastaligi... özel. Annemiz bir simyaci ama buna bir sey yapam
 TT 5958 "Bu kan bagi. Bu sey... zamanin basina dek uzaniyor. Haksizlik ama... Bu gerçek, Sophia. Guyenne'de Engizisyon bunun için pesimize düstü! Buraya zar zor geldik." VO__AMICIA__CH09__CHATTER__TO_SANCTUARY_2__050__M__1
 TT 5959 "Tesekkürler..." VO__AMICIA__CH09__CHATTER__TO_SANCTUARY_2__070__M__1
 TT 5960 "O fresk evde annemin laboratuvarindaydi!" VO__AMICIA__CH09__CHATTER__TORCH_BEARER_HOME__010__M__1
-TT 5961 "Oynuyormus gibi yapmaliyiz. Hadi... geçelim." VO__AMICIA__CH09__CHATTER__TORCH_BEARER_HOME__030__M__1
+TT 5961 "Oyuna uymaliyiz. Hadi... geçelim." VO__AMICIA__CH09__CHATTER__TORCH_BEARER_HOME__030__M__1
 TT 5962 "Ama basardin!" VO__AMICIA__CH09__CHATTER__TORCH_EXTINGUISHED__030__M__1
 TT 5963 "Sakin ol... Artik iyisin." VO__AMICIA__CH09__CHATTER__TORCH_EXTINGUISHED__050__M__1
 TT 5964 "Gerçekten epey saglam görünüyor." VO__AMICIA__CH09__CHATTER__TOWER__010__M__1
@@ -17428,7 +17428,7 @@ TT 17424 "Dikkat! Geri durun!" VO__SOLDIER_N1__CH12__CHATTER__RATS_CHARIOT__030_
 TT 17425 "Sessizlik! Tartismanin zamani degil!" VO__SOLDIER_N1__CH12__CHATTER__REFUGEES_TALK__010__M__1
 TT 17426 "Su lanet kizi öldürün! Ne pahasina olursa olsun!" VO__SOLDIER_N1__CH12__CHATTER__SECOND_WAVE__040__M__1
 TT 17427 "Yukarida yaralilarimiz var, hos bir manzara degil. Çocuk... baska tarafa baksa iyi olur." VO__SOLDIER_N1__CH12__CHATTER__STAIRS__010__M__1
-TT 17428 "Burasi paramparça oluyor! Cellatin cani cehenneme!" VO__SOLDIER_N1__CH13__CHATTER__BEFORE_EXECUTION__015__M__1
+TT 17428 "Burasi yikiliyor! Cellatin cani cehenneme!" VO__SOLDIER_N1__CH13__CHATTER__BEFORE_EXECUTION__015__M__1
 TT 17429 "Emredersiniz, efendim!" VO__SOLDIER_N1__CH13__CHATTER__BELFRY_FALL__030__M__1
 TT 17430 "Iste bu kadar! Bitti! Yeterince zarar verdin!" VO__SOLDIER_N1__CH13__CHATTER__FURIOUS_RATSTRIKE_INTRO__020__M__1
 TT 17431 "Çocugu teslim et, sana çabuk bir ölüm bagislayalim!" VO__SOLDIER_N1__CH13__CHATTER__FURIOUS_RATSTRIKE_INTRO__030__M__1

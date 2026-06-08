@@ -345,7 +345,7 @@ T = {
 "VO__SOLDIER_B2__CH13__CHATTER__MORE_WAVE_1__010__M__1": "Hadi! Yakalayın onları! Diğerlerini uyarın!",
 "VO__SOLDIER_B2__CH13__CHATTER__MORE_WAVE_1__030__M__1": "Arles Kontu Victor için! Köz Çocuğu için!",
 "VO__SOLDIER_B2__CH13__CHATTER__MORE_WAVE_2__010__M__1": "Bu sadece bizim için değil! Bu Çocuk tüm dünyaya ait! O bizim geleceğimiz! Onun için savaşın!",
-"VO__SOLDIER_N1__CH13__CHATTER__BEFORE_EXECUTION__015__M__1": "Burası paramparça oluyor! Cellatın canı cehenneme!",
+"VO__SOLDIER_N1__CH13__CHATTER__BEFORE_EXECUTION__015__M__1": "Burası yıkılıyor! Cellatın canı cehenneme!",
 "VO__SOLDIER_N1__CH13__CHATTER__BELFRY_FALL__030__M__1": "Emredersiniz, efendim!",
 "VO__SOLDIER_N1__CH13__CHATTER__FURIOUS_RATSTRIKE_INTRO__020__M__1": "İşte bu kadar! Bitti! Yeterince zarar verdin!",
 "VO__SOLDIER_N1__CH13__CHATTER__FURIOUS_RATSTRIKE_INTRO__030__M__1": "Çocuğu teslim et, sana çabuk bir ölüm bağışlayalım!",
