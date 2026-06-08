@@ -1873,15 +1873,15 @@ TT 1869 "Kategorinin açiklamasi" GAME__CODEX_CATEGORY_1_DESC
 TT 1870 "Papatya" GAME__CODEX_CATEGORY_1_ITEM_1
 TT 1871 "Papatya, masumiyet ve safligin simgesidir; ününü muhtemelen taç yapraklarinin beyazligina borçludur. Yatistirici ve sindirimi kolaylastirici özellikleri olan demlemelerde kullanilir, ayrica yara izlerinin iyilesmesine yardimci oldugu bilinirdi. Papatya taç yapraklari salatalarda da kullanilir ve hafif biberimsi tatlari sayesinde hem soylular hem de halk arasinda ragbet görürdü." GAME__CODEX_CATEGORY_1_ITEM_1_DESC
 TT 1872 "Karanfiller" GAME__CODEX_CATEGORY_1_ITEM_2
-TT 1873 "Bazi dillerde "Tanri'nin çiçegi" olarak anilir. Kimi bu lakabi güzelligine, kimi ise Mesih'in yaralarinin kanindan ya da Meryem Ana'nin gözyaslarindan dogdugu efsanelerine baglar. Böylece askin, tutkunun ve bagliligin simgesi hâline gelmistir. Taç yapraklari, ates düsürmekte kullanildiginda terlemeyi artiriyor gibi görünür; ayrica hiyarciklari temizlemek için sirkesi yapilir, bu da ününe katkida bulunmustur." GAME__CODEX_CATEGORY_1_ITEM_2_DESC
+TT 1873 "Bazi dillerde “Tanri'nin çiçegi” olarak anilir. Kimi bu lakabi güzelligine, kimi ise Mesih'in yaralarinin kanindan ya da Meryem Ana'nin gözyaslarindan dogdugu efsanelerine baglar. Böylece askin, tutkunun ve bagliligin simgesi hâline gelmistir. Taç yapraklari, ates düsürmekte kullanildiginda terlemeyi artiriyor gibi görünür; ayrica hiyarciklari temizlemek için sirkesi yapilir, bu da ününe katkida bulunmustur." GAME__CODEX_CATEGORY_1_ITEM_2_DESC
 TT 1874 "Haseki Küpesi" GAME__CODEX_CATEGORY_1_ITEM_3
-TT 1875 "Pençeye benzeyen taç yapraklarinin biçiminden ötürü, Latincede kartal anlamina gelen "aquila" sözcügünden adini alir. Haseki küpesi; hüznün, huzursuz ruhlarin, hatta deliligin simgesidir. Çiçekleri tatli ve yenilebilir olsa da kökleri ve saplari son derece zehirlidir. Yutuldugunda tüm sindirim sisteminin iltihaplanmasina yol açar ve tehlikeli çarpintilara neden olabilir." GAME__CODEX_CATEGORY_1_ITEM_3_DESC
+TT 1875 "Pençeye benzeyen taç yapraklarinin biçiminden ötürü, Latincede kartal anlamina gelen “aquila” sözcügünden adini alir. Haseki küpesi; hüznün, huzursuz ruhlarin, hatta deliligin simgesidir. Çiçekleri tatli ve yenilebilir olsa da kökleri ve saplari son derece zehirlidir. Yutuldugunda tüm sindirim sisteminin iltihaplanmasina yol açar ve tehlikeli çarpintilara neden olabilir." GAME__CODEX_CATEGORY_1_ITEM_3_DESC
 TT 1876 "Kuzgunkilici" GAME__CODEX_CATEGORY_1_ITEM_4
 TT 1877 "Hem bakimli bahçelerde hem de yabani tarlalarda bulunur; pek çok türü zehirlidir, ama bir tanesi yemeklerde tüketilir ve ilaçlarda kullanilirdi. Gladius kilicini andiran yapraklarinin biçimi, onu Roma döneminde kahramanlarin ve gladyatörlerin çiçegi yapti: güç ve dinçlik simgesi." GAME__CODEX_CATEGORY_1_ITEM_4_DESC
 TT 1878 "Akdiken" GAME__CODEX_CATEGORY_1_ITEM_5
 TT 1879 "Bahçelerin ve mülklerin sinirlarini belirlemekte kullanilan dikenli bir çali olan akdiken, temkinli umudun simgesi hâline gelmistir. Pek çok efsaneye konu olur; bunlarin en saygini onu Mesih'in dikenli taci olarak betimler. Demlenip içildiginde kalp atisini düzenler ve nefes darligiyla savasir." GAME__CODEX_CATEGORY_1_ITEM_5_DESC
 TT 1880 "Sari Kantaron" GAME__CODEX_CATEGORY_1_ITEM_6
-TT 1881 ""Aziz Yahya otu" olarak da adlandirilan sari kantaron, düsmanligin oldugu kadar korumanin ve isigin da simgesidir; melankoliye ve diger ruhsal rahatsizliklara bir derman sayilir. "Seytan avcisi" lakabina ragmen, yutulmasi yine de kalp ritmini ciddi biçimde bozarak aritmiye ve tasikardiye yol açabilir." GAME__CODEX_CATEGORY_1_ITEM_6_DESC
+TT 1881 "“Aziz Yahya otu” olarak da adlandirilan sari kantaron, düsmanligin oldugu kadar korumanin ve isigin da simgesidir; melankoliye ve diger ruhsal rahatsizliklara bir derman sayilir. “Seytan avcisi” lakabina ragmen, yutulmasi yine de kalp ritmini ciddi biçimde bozarak aritmiye ve tasikardiye yol açabilir." GAME__CODEX_CATEGORY_1_ITEM_6_DESC
 TT 1882 "Lavanta" GAME__CODEX_CATEGORY_1_ITEM_7
 TT 1883 "Lavanta, kokusuyla ve dokumacilar arasinda rengiyle yaygin olarak bilinir. Iyi egitimliler ayrica arindirici degerleri için onu birçok lapada kullanir. Zehri zayiflatmak için engerek isiriklarina ya da bitle savasmak için çocuklarin saçli derisine sürülürdü. Zamanla adanmisligin ve sadakatin simgesi hâline gelmistir." GAME__CODEX_CATEGORY_1_ITEM_7_DESC
 TT 1884 "Ormangülü" GAME__CODEX_CATEGORY_1_ITEM_8
@@ -1891,22 +1891,22 @@ TT 1887 "Adini taç yapraklarinin sayisina borçludur: bir eldeki parmaklar gibi
 TT 1888 "Nergis" GAME__CODEX_CATEGORY_1_ITEM_10
 TT 1889 "Kendi yansimasina bakarken ölen mitolojik bir figür olan Narkissos'un kalintilarindan bittigi söylenir. Bencilligi ve hodgâmligi simgeler. Antik Çag'dan beri insanligin bildigi belirgin zehirleme potansiyeline ragmen, birçok Avrupa ülkesi onu tümörleri, sara nöbetlerini ve saç dökülmesini tedavi etmekte kullanmistir—degisen basari derecelerinde." GAME__CODEX_CATEGORY_1_ITEM_10_DESC
 TT 1890 "Köpek Üzümü" GAME__CODEX_CATEGORY_1_ITEM_11
-TT 1891 "Bir hakikat simgesi olan ve kimilerince seytani büyücülükle iliskilendirilen köpek üzümünün kaygi verici pek çok lakabi vardir: "seytan otu", "ölüm kirazlari" ve "güzel ölüm". Meyvelerinin zehirliligi elbette bunda bir etken; onlari yemek ölüme yol açabilir." GAME__CODEX_CATEGORY_1_ITEM_11_DESC
+TT 1891 "Bir hakikat simgesi olan ve kimilerince seytani büyücülükle iliskilendirilen köpek üzümünün kaygi verici pek çok lakabi vardir: “seytan otu”, “ölüm kirazlari” ve “güzel ölüm”. Meyvelerinin zehirliligi elbette bunda bir etken; onlari yemek ölüme yol açabilir." GAME__CODEX_CATEGORY_1_ITEM_11_DESC
 TT 1892 "Taskiran" GAME__CODEX_CATEGORY_1_ITEM_12
-TT 1893 ""Tas kiran" olarak da bilinen taskiran, çogunlukla soguk, daglik ortamlarda bulunur ve dondan korunmak için kaya çatlaklarina sizar. Kaçinilmazligi ve bir tür çaresizligi simgeler. Bu lakap, böbrek taslarini eritmenin bir yolu sayilmasindan gelir." GAME__CODEX_CATEGORY_1_ITEM_12_DESC
+TT 1893 "“Tas kiran” olarak da bilinen taskiran, çogunlukla soguk, daglik ortamlarda bulunur ve dondan korunmak için kaya çatlaklarina sizar. Kaçinilmazligi ve bir tür çaresizligi simgeler. Bu lakap, böbrek taslarini eritmenin bir yolu sayilmasindan gelir." GAME__CODEX_CATEGORY_1_ITEM_12_DESC
 TT 1894 "Noel Gülü" GAME__CODEX_CATEGORY_1_ITEM_13
 TT 1895 "Antik Çag'dan beri bunamayi ve bazi felç türlerini tedavi etmekte kullanilan bitki, kisa sürede kayginin ve huzursuzlugun simgesi hâline geldi—bu muhtemelen zehirliliginden ötürüdür, zira çiplak elle tutulmasi siddetli tahrislere, yutulmasi ise daha da agir tepkilere yol açar. Tuhaftir ki Noel zamani dogum tasvirlerinde yer alir. Yeni dogan Mesih'e bir armagan sunmaya can atan genç çoban kiz Madelon'un gözyaslarindan dogdugu söylenir." GAME__CODEX_CATEGORY_1_ITEM_13_DESC
 TT 1896 "Hugo'nun koleksiyonu" GAME__CODEX_CATEGORY_2
 TT 1897 "Ok Otu" GAME__CODEX_CATEGORY_2_ITEM_1
-TT 1898 "Bu minik, beyaz yildiz; çogunlukla sig göllerde ve kale hendeklerinde bulunan, koloni olusturan, suda yetisen bir kir çiçegidir. Cins adi "sagitta", Latincede "ok" anlamina gelir ve yapraklarinin biçiminden gelir. Genellikle haslanarak yenen yumrular ürettigi için "ördek patatesi" olarak da bilinir. Simyadaki yedi "saf metal"den ikisi olan bakir ya da kursun gibi agir metalik ögeleri büyük miktarlarda emdigi söylenir." GAME__CODEX_CATEGORY_2_ITEM_1_DESC
+TT 1898 "Bu minik, beyaz yildiz; çogunlukla sig göllerde ve kale hendeklerinde bulunan, koloni olusturan, suda yetisen bir kir çiçegidir. Cins adi “sagitta”, Latincede “ok” anlamina gelir ve yapraklarinin biçiminden gelir. Genellikle haslanarak yenen yumrular ürettigi için “ördek patatesi” olarak da bilinir. Simyadaki yedi “saf metal”den ikisi olan bakir ya da kursun gibi agir metalik ögeleri büyük miktarlarda emdigi söylenir." GAME__CODEX_CATEGORY_2_ITEM_1_DESC
 TT 1899 "Mayis Papatyasi" GAME__CODEX_CATEGORY_2_ITEM_2
 TT 1900 "Dogada minik papatya baslarini andirir; tarlalari beyaz ve sari çiçeklerle benekler. Geleneksel olarak sifacilar onu güçlü bir uyku yardimcisi olarak önerir. Koruyucu özelliklerinin büyüleri savusturduguna da inanilir ve çiçekleri sik sik sansla ve mali basariyla iliskilendirilir: birçok kumarbaz, para çekmek için ellerini ondan yapilan çayda yikardi." GAME__CODEX_CATEGORY_2_ITEM_2_DESC
 TT 1901 "Centiyane" GAME__CODEX_CATEGORY_2_ITEM_3
 TT 1902 "Yasli Plinius'a göre adini, yaralari temizlemekte kullanirken onun özel sifali etkilerini deneyimleyen Illirya'nin son krali Gentius'tan alir. Alpler kökenli olan bazi türlerinin kökleri, müshil ve canlandirici etkileri için istah açici olarak içilen mayhos bir liköre dönüstürülür. Daglarin kraliçesi olan bu çiçegin parlak, koyu rengi açikça keder ve aciyla baglantilidir. Bir centiyane buketi sunmak, küçümsemenizi ifade eder." GAME__CODEX_CATEGORY_2_ITEM_3_DESC
 TT 1903 "Anemon" GAME__CODEX_CATEGORY_2_ITEM_4
-TT 1904 "Akdeniz kiyilarinda gürleyen "Anemôné", Yunancada "rüzgârin kizi" anlamina gelir. Rüzgâr çiçegi olarak da anilir; sert havalarda açar, ardindan tüy gibi tohumlarini büyük mesafelere savurur. Yunan mitolojisinde terk edilmislikle iliskilendirilir ve tanriça Afrodit'in Adonis'in ölümüne yas tutarken döktügü gözyaslarindan dogdugu söylenir. Köylü inançlarina göre anemonun kapanmasi, yaklasan bir yagmurun isaretidir." GAME__CODEX_CATEGORY_2_ITEM_4_DESC
+TT 1904 "Akdeniz kiyilarinda gürleyen “Anemôné”, Yunancada “rüzgârin kizi” anlamina gelir. Rüzgâr çiçegi olarak da anilir; sert havalarda açar, ardindan tüy gibi tohumlarini büyük mesafelere savurur. Yunan mitolojisinde terk edilmislikle iliskilendirilir ve tanriça Afrodit'in Adonis'in ölümüne yas tutarken döktügü gözyaslarindan dogdugu söylenir. Köylü inançlarina göre anemonun kapanmasi, yaklasan bir yagmurun isaretidir." GAME__CODEX_CATEGORY_2_ITEM_4_DESC
 TT 1905 "Karanfil" GAME__CODEX_CATEGORY_2_ITEM_5
-TT 1906 ""Tanrilarin çiçegi"nin kökenleri Antik Çag'a dek uzanabilir. Yunanlar taç giyme törenlerinde "corone" (çiçek çelenkleri) sunar, Romalilar ise üstün performanslari için sporculari "Jüpiter'in Çiçekleri"yle ödüllendirirdi. Hristiyan efsanelerinde Meryem'in oglunun yasini tutarken döktügü gözyaslari pembe karanfillere dönüsmüs, "carnis" sözcügü ise Mesih'in tenine isaret eder olmustur. Safligin ve sükranin simgesi olan buketleri, bir zamanlar bir annenin sevgisini onurlandirirdi." GAME__CODEX_CATEGORY_2_ITEM_5_DESC
+TT 1906 "“Tanrilarin çiçegi”nin kökenleri Antik Çag'a dek uzanabilir. Yunanlar taç giyme törenlerinde “corone” (çiçek çelenkleri) sunar, Romalilar ise üstün performanslari için sporculari “Jüpiter'in Çiçekleri”yle ödüllendirirdi. Hristiyan efsanelerinde Meryem'in oglunun yasini tutarken döktügü gözyaslari pembe karanfillere dönüsmüs, “carnis” sözcügü ise Mesih'in tenine isaret eder olmustur. Safligin ve sükranin simgesi olan buketleri, bir zamanlar bir annenin sevgisini onurlandirirdi." GAME__CODEX_CATEGORY_2_ITEM_5_DESC
 TT 1907 "Alakarga" GAME__CODEX_CATEGORY_2_ITEM_6
 TT 1908 "Ormanin nöbetçisi olan alakarganin gür çagrisi, avcilar yaklastiginda çevredeki tüm canlilari uyarir. Efsaneye göre bir zamanlar diger kuslar tarafindan haksiz yere suçlanmis ve her biri ona bir tüy bagislamaya mahkûm edilmis. Belki de bu yüzden, renkli ve parlak tüyleriyle en karanlik yerleri bile aydinlatan isigin amblemi sayilir. Tüyünü bulursan, sana iyilesme ve asla pes etmeme enerjisini getirir." GAME__CODEX_CATEGORY_2_ITEM_6_DESC
 TT 1909 "Karabas Marti" GAME__CODEX_CATEGORY_2_ITEM_7
@@ -1918,7 +1918,7 @@ TT 1914 "Hayalet gibi solgun ve kara gözlü olan bu beyaz hanim, terk edilmis a
 TT 1915 "Kuzgun" GAME__CODEX_CATEGORY_2_ITEM_10
 TT 1916 "Tarihî çaglardan beri batil inanç onu kötü alametlerle ve büyücülükle iliskilendirir; bunun bir nedeni tedirgin edici, yanardöner tüyleri, bir digeri ise karsilastigi her lesten kendine bir sölen çikarmasidir. ~Rüyada gelen bir kuzgun, kisinin kendini dönüstürmesinin simgesidir: bu ruh rehberi, zihnimizin karanliginda yatan güçleri kesfetmemize yardim eder. Tüyü, büyük degisimlerin üstesinden gelme gücünü ve hayatin çetin yolculugunda birinin bizi gözettigi vaadini getirir." GAME__CODEX_CATEGORY_2_ITEM_10_DESC
 TT 1917 "Saka Kusu" GAME__CODEX_CATEGORY_2_ITEM_11
-TT 1918 "Hos ötüsü ve parlak limon rengiyle bu sevimli dost, genellikle taskin ovalarinda yasadigindan magaralarda yolunu kaybetmis olmali. Gagalamasi için ona kenger tohumu sunarsan bahçeni ziyaret eder—yaygin adlarindan biri de "diken ispinozu"dur. Dinî geleneklerde dirilisi ve canliligi simgeler; eski pagan inançlari ise onun veba belasina karsi güçlü bir koruma getirebilecegini bile düsünürdü." GAME__CODEX_CATEGORY_2_ITEM_11_DESC
+TT 1918 "Hos ötüsü ve parlak limon rengiyle bu sevimli dost, genellikle taskin ovalarinda yasadigindan magaralarda yolunu kaybetmis olmali. Gagalamasi için ona kenger tohumu sunarsan bahçeni ziyaret eder—yaygin adlarindan biri de “diken ispinozu”dur. Dinî geleneklerde dirilisi ve canliligi simgeler; eski pagan inançlari ise onun veba belasina karsi güçlü bir koruma getirebilecegini bile düsünürdü." GAME__CODEX_CATEGORY_2_ITEM_11_DESC
 TT 1919 "Boz Kaz" GAME__CODEX_CATEGORY_2_ITEM_12
 TT 1920 "Avlumuzdaki kazlarin bu atasi, birçok Avrupa sulak alaninda bulunabilir. Çok eskiden Roma'da, Juno tapinaginin kutsal kazlarinin tehlikeyi sezdigi söylenir ve saldirilara karsi uyarida bulunurlardi. Halk folklorunda ayrica maceraya çagriyi ve efsanevi yerlere yolculuklari simgeler. Geleneksel olarak yazi yazmak için tercih edilen tüyleri, sana aileni izlemen ve köklerini asla unutmaman gerektigini hatirlatir." GAME__CODEX_CATEGORY_2_ITEM_12_DESC
 TT 1921 "Hatiralar" GAME__CODEX_CATEGORY_3
@@ -2154,7 +2154,7 @@ TT 2150 "CANAVAR:" HUD__SUBTITLE_SPEAKER_WOLF
 TT 2151 "EN KÜÇÜK KARDES:" HUD__SUBTITLE_SPEAKER_YOUNG_BROTHER
 TT 2152 "1349. Amicia ve Hugo De Rune; savas, fareler ve genç çocuga, miras aldigi dogaüstü güce el koymak isteyen Engizisyon güçleri tarafindan harap edilmis topraklarindan kaçar. Kir yollarinda, anneleri Beatrice ve çirak bir simyaci olan yoldaslari Lucas'la birlikte bir nebze huzur bulurlar. Simdi, Hugo'nun damarlarinda dolasan hastalik olan Macula hakkinda daha fazlasini ögrenmeyi umduklari Provence Kontlugu'nu kesfediyorlar." LOADING__CHAPTER__1
 TT 2153 "Köylülerle yasanan trajik bir olay Amicia'yi yeniden öldürmeye zorlarken, Hugo, Macula'nin çaresini barindirabilecek hayalî bir adanin imgesine siginir. Kurbaninin yakinlarina yakalanan Amicia, kendisini travmaya sürükleyen acimasiz bir çatismada ailesini kurtarmak zorunda kalir. Simdi kizil sehrin esiginde, dördü de Beatrice'in Hugo'nun hastaligi konusunda danismak istedigi Düzen'in Magisteri Vaudin'i ariyor." LOADING__CHAPTER__2
-TT 2154 "Hugo'yu muayene edecek simyaci Vaudin'le bulusmaya giderken Amicia ve Lucas, kizil sehrin, sakinleri karantinaya alinip Isirik'la kirilmis yoksul bir mahallesini bulur. Orada, hem parali askerlerle hem de derinliklerden yükselip ortaligi kasip kavuran binlerce fareyle yüzlesirler. Laboratuvarinda Vaudin, Amicia'ya, Düzen'in Macula Tasiyicisi'yla bagini belirtmek için verdigi unvanla "Koruyucu" der. Simdi üçünün de Hugo'ya katilma vakti." LOADING__CHAPTER__3
+TT 2154 "Hugo'yu muayene edecek simyaci Vaudin'le bulusmaya giderken Amicia ve Lucas, kizil sehrin, sakinleri karantinaya alinip Isirik'la kirilmis yoksul bir mahallesini bulur. Orada, hem parali askerlerle hem de derinliklerden yükselip ortaligi kasip kavuran binlerce fareyle yüzlesirler. Laboratuvarinda Vaudin, Amicia'ya, Düzen'in Macula Tasiyicisi'yla bagini belirtmek için verdigi unvanla “Koruyucu” der. Simdi üçünün de Hugo'ya katilma vakti." LOADING__CHAPTER__3
 TT 2155 "Vaudin, Hugo'nun hastaligini incelemeye baslar, ama tedavisi çocugun nöbet geçirmesine yol açar. Amicia ve Lucas yatistirici otlar aramaya gider. Farelerin kizil sehrin bazi bölgelerine saldirmaya basladigini ögrenir ve isirigi kontrol altina almak için sakinler üzerinde kör bir temizlige girisen Kont'un ordusuna karsi savasirlar. Amicia yeniden, kendisini bunaltan ve tutuklanmalarina yol açan bir siddete dalar. Ikili ölüme mahkûm edilir, ama Lucas Amicia'ya sorumluluklarini hatirlatir ve o kendini toparlar. Ikisi de tam vaktinde kaçip bitkileri geri getirir." LOADING__CHAPTER__4
 TT 2156 "Vaudin, Hugo'nun kurtulamayacagini düsünür ve Beatrice'i, oglunun yikici gücünün dizginlenebilecegi Marsilya'daki Düzen karargâhina gitmeye ikna eder. Amicia buna karsidir, yine de Lucas'in limana ve onlari gemisine alacak tekne kaptani Joseph'e ulasmasina yardim eder. Bilinçsiz hâldeki Hugo, sehri yutan devasa fare dalgalari salar. Amicia kardesini yatistirmayi basaramadan Vaudin ölür. Çocuk, sevdigi bu sehre yaptigi sey karsisinda dehsete düsmüstür. Yeniden bir araya gelen aile simdi Marsilya'ya dogru yola koyulur." LOADING__CHAPTER__5
 TT 2157 "Marsilya'ya giden durgun su yollari boyunca De Rune'lerin teknesi, kizil sehirde daha önce yüzlestikleri parali askerlerin pususuna düser. Amicia gemiyi kurtarmaya çalisir, ama çete lideri Arnaud, Hugo kardesini kurtarmak için fareleri saldirganlarinin üzerine salmadan önce basini fena hâlde yaralar. Kiyida kalan kardesler, gemiyi uzaklasmaya birakmaya karar verir; böylece anneleri Beatrice'i ve hocasini terk etmek istemeyen Lucas'i geride birakirlar. Amicia ile Hugo artik ikisi birlikte Hugo'nun rüyalarindaki adayi ariyor." LOADING__CHAPTER__6
@@ -3876,7 +3876,7 @@ TT 3872 "Eyvah... Sunu duyuyor musun..?!" VO__AMICIA__CH02__CHATTER__USING_LIFT_
 TT 3873 "Bir karsi agirlik var..." VO__AMICIA__CH02__CHATTER__USING_LIFT_WRONG__010__M__1
 TT 3874 "Annemin pisirme seklini sevmiyor musun?" VO__AMICIA__CH02__CHATTER__VEGETABLES_SELLER__030__M__1
 TT 3875 "Dogru!" VO__AMICIA__CH02__CHATTER__VEGETABLES_SELLER__050__M__1
-TT 3876 "Bu bölgedeki topragin bazi yerlerde kirmizi oldugunu duydum! Ona "Asi Boyalari" diyorlar!" VO__AMICIA__CH02__CHATTER__VISTA_WALLS__020__M__1
+TT 3876 "Bu bölgedeki topragin bazi yerlerde kirmizi oldugunu duydum! Ona “Asi Boyalari” diyorlar!" VO__AMICIA__CH02__CHATTER__VISTA_WALLS__020__M__1
 TT 3877 "Ah, bu sarap..." VO__AMICIA__CH02__CHATTER__WINESTAND_INTERACT__010__M__1
 TT 3878 "Ama o bu sarabi severdi." VO__AMICIA__CH02__CHATTER__WINESTAND_INTERACT__040__M__1
 TT 3879 "Öyleydi. Tesekkürler." VO__AMICIA__CH02__CHATTER__WINESTAND_INTERACT__060__M__1
@@ -4386,7 +4386,7 @@ TT 4382 "Kimsenin sehirden kaçmadigindan emin oluyorlar..." VO__AMICIA__CH04__C
 TT 4383 "Evet..." VO__AMICIA__CH04__CHATTER__FIRS_STEPS_JETTY__020__M__1
 TT 4384 "Ben yaparim." VO__AMICIA__CH04__CHATTER__FIRST_STEPS__015__M__1
 TT 4385 "Bir sey yok... Uyumaya dön..." VO__AMICIA__CH04__CHATTER__FIRST_STEPS__030__M__1
-TT 4386 "Öylesine "olmadi" bu, Anne!" VO__AMICIA__CH04__CHATTER__FIRST_STEPS__050__M__1
+TT 4386 "Öylesine “olmadi” bu, Anne!" VO__AMICIA__CH04__CHATTER__FIRST_STEPS__050__M__1
 TT 4387 "Bunu biz yaptik..." VO__AMICIA__CH04__CHATTER__FIRST_STEPS__070__M__1
 TT 4388 "Gel!" VO__AMICIA__CH04__CHATTER__FIRST_STEPS_BEA__020__M__1
 TT 4389 "Sipere!" VO__AMICIA__CH04__CHATTER__FLAMES__030__M__1
@@ -4431,7 +4431,7 @@ TT 4427 "En azindan Düzen ise yarar bir sey yapti..." VO__AMICIA__CH04__CHATTER
 TT 4428 "Biri eksildi... Devam edelim!" VO__AMICIA__CH04__CHATTER__JOSEPH_6TH_KILL__010__M__1
 TT 4429 "Dayan... Hugo! Neredeyse... vardik..." VO__AMICIA__CH04__CHATTER__LAST_RUN__010__M__1
 TT 4430 "Sunu çabuk yapalim..." VO__AMICIA__CH04__CHATTER__LAST_WORKBENCH__010__M__1
-TT 4431 "Evet, simdi onlara "denetiminin" ne demek oldugunu anlat..." VO__AMICIA__CH04__CHATTER__LINES_PATROL__040__M__1
+TT 4431 "Evet, simdi onlara “denetiminin” ne demek oldugunu anlat..." VO__AMICIA__CH04__CHATTER__LINES_PATROL__040__M__1
 TT 4432 "Demek artik katran yapiyoruz..." VO__AMICIA__CH04__CHATTER__LOCK_SHOT__020__M__1
 TT 4433 "Hadi, ise koyulalim..." VO__AMICIA__CH04__CHATTER__LOCK_SHOT__040__M__1
 TT 4434 "Lucas gelebilirsin, yol açik!" VO__AMICIA__CH04__CHATTER__LUCAS_SHOULD_JOIN__010__M__1
@@ -4571,7 +4571,7 @@ TT 4567 "Hayir. Hayir... Bir yol olmali... Lucas basardi..." VO__AMICIA__CH04__R
 TT 4568 "Durun! Bir ada var! Durmadan bir adadan bahsediyor. Belki Macula onun ardindadir. Bizim..." VO__AMICIA__CH04__RTC__124_CONDEMNED__180__M__1
 TT 4569 "Peki bir çocugun hayalinin laboratuvarinizin duvarinda ne isi var?!" VO__AMICIA__CH04__RTC__124_CONDEMNED__200__M__1
 TT 4570 "Evet... Orada ne var?!" VO__AMICIA__CH04__RTC__124_CONDEMNED__210__M__1
-TT 4571 ""Düzen"iniz hiç umurumda degil! Sizi tanimiyorum ve sizin için çalismiyorum! Birakin onu göreyim!" VO__AMICIA__CH04__RTC__124_CONDEMNED__230__M__1
+TT 4571 "“Düzen”iniz hiç umurumda degil! Sizi tanimiyorum ve sizin için çalismiyorum! Birakin onu göreyim!" VO__AMICIA__CH04__RTC__124_CONDEMNED__230__M__1
 TT 4572 "Birakin geçeyim!" VO__AMICIA__CH04__RTC__124_CONDEMNED__250__M__1
 TT 4573 "EMPTY" VO__AMICIA__CH04__RTC__124_CONDEMNED__270__M__1
 TT 4574 "onom" VO__AMICIA__CH04__RTC__124_CONDEMNED_ONOM__010__M__1
@@ -4593,7 +4593,7 @@ TT 4589 "onom" VO__AMICIA__CH04__RTC__140_FIRST_OUTBURST_ONOM__030__M__1
 TT 4590 "onom" VO__AMICIA__CH04__RTC__140_FIRST_OUTBURST_ONOM__040__M__1
 TT 4591 "Birak ben!" VO__AMICIA__CH04__RTC__150_JUST_A_NIGHTMARE__060__M__1
 TT 4592 "Hugo! Hugo, buradayim!" VO__AMICIA__CH04__RTC__150_JUST_A_NIGHTMARE__070__M__1
-TT 4593 "Sss... Asagi in, lütfen. Lütfen!" VO__AMICIA__CH04__RTC__150_JUST_A_NIGHTMARE__075__M__1
+TT 4593 "Sss... Sakinles, lütfen. Lütfen!" VO__AMICIA__CH04__RTC__150_JUST_A_NIGHTMARE__075__M__1
 TT 4594 "Neden üzgün oldugunu biliyorum... Ssss... Hugo, lütfen! Ssss..." VO__AMICIA__CH04__RTC__150_JUST_A_NIGHTMARE__080__M__1
 TT 4595 "Hey." VO__AMICIA__CH04__RTC__150_JUST_A_NIGHTMARE__090__M__1
 TT 4596 "Biliyorum..." VO__AMICIA__CH04__RTC__150_JUST_A_NIGHTMARE__110__M__1
@@ -4732,7 +4732,7 @@ TT 4728 "Simdi, burada bir saman balyamiz daha var! Onu yakiyorum—Kosuyoruz!" 
 TT 4729 "Sicak kal!" VO__AMICIA__CH05__CHATTER__LUCAS_2ND_RUN__030__M__1
 TT 4730 "Hazir misin?" VO__AMICIA__CH05__CHATTER__LUCAS_2ND_RUN__040__M__1
 TT 4731 "Hadi! Hadi!" VO__AMICIA__CH05__CHATTER__LUCAS_2ND_RUN__060__M__1
-TT 4732 "Basardik! Bu arada "savas narana" bayildim!" VO__AMICIA__CH05__CHATTER__LUCAS_2ND_RUN__080__M__1
+TT 4732 "Basardik! Bu arada “savas narana” bayildim!" VO__AMICIA__CH05__CHATTER__LUCAS_2ND_RUN__080__M__1
 TT 4733 "Iste! Hazir!" VO__AMICIA__CH05__CHATTER__LUCAS_CHAIN__030__M__1
 TT 4734 "Onunla ben ilgilenirim!" VO__AMICIA__CH05__CHATTER__LUCAS_STUCK_LOCK__020__M__1
 TT 4735 "O neydi?!" VO__AMICIA__CH05__CHATTER__MIDDLE__020__M__1
@@ -4852,7 +4852,7 @@ TT 4848 "Hugo, nöbet geçiriyordun." VO__AMICIA__CH05__RTC__190_AFTER_CARNAGE__
 TT 4849 "Annem senden..." VO__AMICIA__CH05__RTC__190_AFTER_CARNAGE__085__M__1
 TT 4850 "Hey hey hey... Biliyorum! Senin için iyi olani yapacagim. Yapacagim." VO__AMICIA__CH05__RTC__190_AFTER_CARNAGE__110__M__1
 TT 4851 "Onu yine kilit altina almak istiyorsun, bu ayni sey degil." VO__AMICIA__CH05__RTC__190_AFTER_CARNAGE__170__M__1
-TT 4852 ""Bu", senin ve su Vaudin'in Hugo'ya yaptiklari yüzünden oldu! Anne... Onu kapatip bu iskenceyi sürdürmek onu öldürecek! O bir çocuk, o da bütün bunlarin kurbani!" VO__AMICIA__CH05__RTC__190_AFTER_CARNAGE__190__M__1
+TT 4852 "“Bu”, senin ve su Vaudin'in Hugo'ya yaptiklari yüzünden oldu! Anne... Onu kapatip bu iskenceyi sürdürmek onu öldürecek! O bir çocuk, o da bütün bunlarin kurbani!" VO__AMICIA__CH05__RTC__190_AFTER_CARNAGE__190__M__1
 TT 4853 "Haklisin..." VO__AMICIA__CH05__RTC__190_AFTER_CARNAGE__220__M__1
 TT 4854 "Sadece anlamiyorsun." VO__AMICIA__CH05__RTC__190_AFTER_CARNAGE__230__M__1
 TT 4855 "Bir bakacagim." VO__AMICIA__CH05__RTC__190_AFTER_CARNAGE__250__M__1
@@ -5021,7 +5021,7 @@ TT 5017 "Burada bekleriz, tesekkürler." VO__AMICIA__CH06__CHATTER__MASS_APPROAC
 TT 5018 "Ilahiler... Bir ayine benziyor..." VO__AMICIA__CH06__CHATTER__MASS_FROM_AFAR__020__M__1
 TT 5019 "Görecegiz..." VO__AMICIA__CH06__CHATTER__MASS_FROM_AFAR__040__M__1
 TT 5020 "Tesekkürler." VO__AMICIA__CH06__CHATTER__MASS_OVER__020__M__1
-TT 5021 "Âmin "tesekkürler" demek degil, biliyorsun degil mi?" VO__AMICIA__CH06__CHATTER__MASS_OVER__040__M__1
+TT 5021 "Âmin “tesekkürler” demek degil, biliyorsun degil mi?" VO__AMICIA__CH06__CHATTER__MASS_OVER__040__M__1
 TT 5022 "Onunla konusalim..." VO__AMICIA__CH06__CHATTER__MASS_OVER__060__M__1
 TT 5023 "Buradan nasil çikacagiz?!" VO__AMICIA__CH06__CHATTER__MORE_MEN_CAVE__010__M__1
 TT 5024 "Cehenneme git..." VO__AMICIA__CH06__CHATTER__MORE_MEN_TALKING__040__M__1
@@ -5223,7 +5223,7 @@ TT 5219 "Göreceksin..." VO__AMICIA__CH07__CHATTER__BOLT_FIRE_REACT__040__M__1
 TT 5220 "Demek bu kaçakçilarina çikiyor?" VO__AMICIA__CH07__CHATTER__CAVE_HALLWAY__010__M__1
 TT 5221 "Kisayolunda fareler var, biliyor musun?" VO__AMICIA__CH07__CHATTER__CAVE_HALLWAY__030__M__1
 TT 5222 "Tanrim... Bu hiç hosuma gitmiyor..." VO__AMICIA__CH07__CHATTER__CAVE_HALLWAY__050__M__1
-TT 5223 ""O" mu?!" VO__AMICIA__CH07__CHATTER__CAVE_WRECK__030__M__1
+TT 5223 "“O” mu?!" VO__AMICIA__CH07__CHATTER__CAVE_WRECK__030__M__1
 TT 5224 "Onunla bulusunca görecegiz. Hadi. Son bir gayret..." VO__AMICIA__CH07__CHATTER__CAVE_WRECK__070__M__1
 TT 5225 "Su mu?" VO__AMICIA__CH07__CHATTER__CHANNEL__010__M__1
 TT 5226 "Ah, hadi ama, sadece deniz suyu, bak." VO__AMICIA__CH07__CHATTER__CHANNEL__046__M__1
@@ -5287,7 +5287,7 @@ TT 5283 "Eyvah..." VO__AMICIA__CH07__CHATTER__NEST_REVEAL__020__M__1
 TT 5284 "Bir yuva." VO__AMICIA__CH07__CHATTER__NEST_REVEAL__040__M__1
 TT 5285 "Öyleyiz." VO__AMICIA__CH07__CHATTER__NEST_REVEAL__060__M__1
 TT 5286 "Ya bu ya burada kalmak." VO__AMICIA__CH07__CHATTER__NEST_REVEAL__080__M__1
-TT 5287 ""Enkazin diger tarafindayiz", peki simdi nereye?" VO__AMICIA__CH07__CHATTER__OBJECTIVE_HIDEOUT__010__M__1
+TT 5287 "“Enkazin diger tarafindayiz”, peki simdi nereye?" VO__AMICIA__CH07__CHATTER__OBJECTIVE_HIDEOUT__010__M__1
 TT 5288 "Güzel..." VO__AMICIA__CH07__CHATTER__OBJECTIVE_HIDEOUT__030__M__1
 TT 5289 "Ne? Neden olmasin ki?!" VO__AMICIA__CH07__CHATTER__OBJECTIVE_HIDEOUT__050__M__1
 TT 5290 "Hayir, hayir, hayir... Orada olmak zorunda!" VO__AMICIA__CH07__CHATTER__OBJECTIVE_HIDEOUT__070__M__1
@@ -5402,7 +5402,7 @@ TT 5398 "Hugo, cevap vermedin!" VO__AMICIA__CH07__RTC__290_TRANSPORT__010__M__1
 TT 5399 "Önce nereye gittigimizi söyle." VO__AMICIA__CH07__RTC__290_TRANSPORT__030__M__1
 TT 5400 "Kim?" VO__AMICIA__CH07__RTC__290_TRANSPORT__050__M__1
 TT 5401 "Harika. Daha çok suçlu." VO__AMICIA__CH07__RTC__290_TRANSPORT__070__M__1
-TT 5402 ""Iste dogru tavir bu"..." VO__AMICIA__CH07__RTC__290_TRANSPORT__110__M__1
+TT 5402 "“Iste dogru tavir bu”..." VO__AMICIA__CH07__RTC__290_TRANSPORT__110__M__1
 TT 5403 "Sey, buyur bakalim..." VO__AMICIA__CH07__RTC__300_SMUGGLER__006__M__1
 TT 5404 "Onu bir dene!" VO__AMICIA__CH07__RTC__300_SMUGGLER__090__M__1
 TT 5405 "Güvenli görünüyor." VO__AMICIA__CH07__RTC__302_WAITING_FOR_SOPHIA__010__M__1
@@ -5807,7 +5807,7 @@ TT 5803 "Ah hayir! Çok fazla sorumluluk..." VO__AMICIA__CH09__CHATTER__HUB_PALA
 TT 5804 "Sanirim! Su muhafiza soralim." VO__AMICIA__CH09__CHATTER__HUB_PALACE_LEAVING__020__M__1
 TT 5805 "Tipki evdeki hizmetkârlarimiz gibiler." VO__AMICIA__CH09__CHATTER__HUB_PALACE_NPC_GATE__030__M__1
 TT 5806 "Simdi sana güveniyorum, tamam mi? Bir sey görürsen..." VO__AMICIA__CH09__CHATTER__HUB_PALACE_STAIRS__010__M__1
-TT 5807 "Dört. "Dört gözle bak" deriz." VO__AMICIA__CH09__CHATTER__HUB_PALACE_STAIRS__030__M__1
+TT 5807 "Dört. “Dört gözle bak” deriz." VO__AMICIA__CH09__CHATTER__HUB_PALACE_STAIRS__030__M__1
 TT 5808 "Bu... Evet, korkunç." VO__AMICIA__CH09__CHATTER__HUB_PALACE_STAIRS__050__M__1
 TT 5809 "Kesif için ne mükemmel bir hava..." VO__AMICIA__CH09__CHATTER__HUB_PALACE_STARTDREAM__010__M__1
 TT 5810 "Önce çikisi bulalim." VO__AMICIA__CH09__CHATTER__HUB_PALACE_STARTDREAM__030__M__1
@@ -6052,12 +6052,12 @@ TT 6048 "Biliyor musun, bir daga ilk kez tirmaniyor!" VO__AMICIA__CH09__RTC__420
 TT 6049 "Bu inanilmaz..." VO__AMICIA__CH09__RTC__430_LIGHT__060__M__1
 TT 6050 "Bir çocugun tahti... O... o burada yasadi..." VO__AMICIA__CH09__RTC__430_LIGHT__080__M__1
 TT 6051 "Köz Çocugu diye bir sey yok... Sana Düzen'den bahsetmistim... Burasi onlara aitti. Ve fresklerdeki bu çocuk, o Prima Macula'nin Tasiyicisi." VO__AMICIA__CH09__RTC__430_LIGHT__100__M__1
-TT 6052 "Simyacilar ona "Ilk Yozlasma" diyor. Hugo bebekken kaninda uyandi. Içinde büyümeye devam ediyor..." VO__AMICIA__CH09__RTC__430_LIGHT__120__M__1
+TT 6052 "Simyacilar ona “Ilk Yozlasma” diyor. Hugo bebekken kaninda uyandi. Içinde büyümeye devam ediyor..." VO__AMICIA__CH09__RTC__430_LIGHT__120__M__1
 TT 6053 "Bütün bu yerin amaci bu: bir Macula Tasiyicisi'nin gelisi. Düzen'in onun etrafinda toplanmasi, onu incelemesi, bir çözüm bulmaya çalismasi. Ve fareler..." VO__AMICIA__CH09__RTC__430_LIGHT__140__M__1
 TT 6054 "Sadece o degil... Fareler..." VO__AMICIA__CH09__RTC__430_LIGHT__160__M__1
-TT 6055 "Her neyse, hepsini yanlis anlamislar! Gelip dünyayi kurtaracak bir "Köz Çocugu" yok! Bu, umutlarina uydurmak için yarattiklari bir masal!" VO__AMICIA__CH09__RTC__430_LIGHT__170__M__1
+TT 6055 "Her neyse, hepsini yanlis anlamislar! Gelip dünyayi kurtaracak bir “Köz Çocugu” yok! Bu, umutlarina uydurmak için yarattiklari bir masal!" VO__AMICIA__CH09__RTC__430_LIGHT__170__M__1
 TT 6056 "Bir kismi dogru. Onu kurtarabilecek kisim. Önemi olan tek kisim." VO__AMICIA__CH09__RTC__430_LIGHT__190__M__1
-TT 6057 ""Basilius ve Aelia"." VO__AMICIA__CH09__RTC__430_LIGHT__200__M__1
+TT 6057 "“Basilius ve Aelia”." VO__AMICIA__CH09__RTC__430_LIGHT__200__M__1
 TT 6058 "Su..." VO__AMICIA__CH09__RTC__430_LIGHT__230__M__1
 TT 6059 "Ah, rüyandaki sifali gölet!" VO__AMICIA__CH09__RTC__430_LIGHT__240__M__1
 TT 6060 "Bir sembol gibi, tipki annemin simya çizimleri gibi." VO__AMICIA__CH09__RTC__430_LIGHT__250__M__1
@@ -6094,7 +6094,7 @@ TT 6090 "Edecegim. Devam edelim..." VO__AMICIA__CH10__CHATTER__AFTER_EVENT_KNIFE
 TT 6091 "Bilmiyorum... Egik dur!" VO__AMICIA__CH10__CHATTER__AFTER_FALL__020__M__1
 TT 6092 "Hugo, dinle... Ha..." VO__AMICIA__CH10__CHATTER__AFTER_STRIKE__010__M__1
 TT 6093 "Hugo..." VO__AMICIA__CH10__CHATTER__AFTER_STRIKE__020__M__1
-TT 6094 "Ne yapsaydim?! "Ah, bu arada, kardesim fareleri kontrol ediyor ve onlara insan yedirtiyor..."? Kaçardin! Ve ben... istemedim ki... Yanlisti, evet! Ama düsündüm ki... burasi bize bir sans verir! Düsündüm ki... bizi böyle... görmek zorunda kalmazsin..." VO__AMICIA__CH10__CHATTER__AFTER_STRIKE__040__M__1
+TT 6094 "Ne yapsaydim?! “Ah, bu arada, kardesim fareleri kontrol ediyor ve onlara insan yedirtiyor...”? Kaçardin! Ve ben... istemedim ki... Yanlisti, evet! Ama düsündüm ki... burasi bize bir sans verir! Düsündüm ki... bizi böyle... görmek zorunda kalmazsin..." VO__AMICIA__CH10__CHATTER__AFTER_STRIKE__040__M__1
 TT 6095 "Anliyorum." VO__AMICIA__CH10__CHATTER__AFTER_STRIKE__070__M__1
 TT 6096 "Evet! Buradayim!" VO__AMICIA__CH10__CHATTER__AMICIA_IS_BACK__020__M__1
 TT 6097 "Iyiyim ama öldürmeye niyetliler... Vakit kaybetmeyelim." VO__AMICIA__CH10__CHATTER__AMICIA_IS_BACK__040__M__1
@@ -6327,7 +6327,7 @@ TT 6323 "Öyleyiz." VO__AMICIA__CH10__CHATTER__WATER_WINDOW__030__M__1
 TT 6324 "Lanet..." VO__AMICIA__CH10__CHATTER__WEDGE_DONE__010__M__1
 TT 6325 "Evet..." VO__AMICIA__CH10__CHATTER__WEDGE_DONE__030__M__1
 TT 6326 "Hadi bakalim..." VO__AMICIA__CH10__CHATTER__WEDGE_INTERACT__010__M__1
-TT 6327 "Sey... zaten "isi" bitmis gibi görünüyordu..." VO__AMICIA__CH10__CHATTER__WHERE_IS_MILO__020__M__1
+TT 6327 "Sey... zaten “isi” bitmis gibi görünüyordu..." VO__AMICIA__CH10__CHATTER__WHERE_IS_MILO__020__M__1
 TT 6328 "Aaah!" VO__AMICIA__CH10__ONOM__KNIFE_EVENT__030__M__1
 TT 6329 "Ha!" VO__AMICIA__CH10__ONOM__PULL_SUCCESS__010__M__1
 TT 6330 "Pekâlâ... Hiçbir sey olmamis gibi." VO__AMICIA__CH10__RTC__460_BACK_FROM_SANCTUARY__005__M__1
@@ -6358,7 +6358,7 @@ TT 6354 "Ne?" VO__AMICIA__CH10__RTC__490_ENTER_FORT2__160__M__1
 TT 6355 "Eyvah... simdi olmaz..." VO__AMICIA__CH10__RTC__490_ENTER_FORT2__200__M__1
 TT 6356 "Hadi! Tirman!" VO__AMICIA__CH10__RTC__490_ENTER_FORT2__270__M__1
 TT 6357 "Tutun!" VO__AMICIA__CH10__RTC__490_ENTER_FORT2__275__M__1
-TT 6358 ""Unum tueri omnes tuendo"?" VO__AMICIA__CH10__RTC__495_LEGACY__010__M__1
+TT 6358 "“Unum tueri omnes tuendo”?" VO__AMICIA__CH10__RTC__495_LEGACY__010__M__1
 TT 6359 "Bu Koruyucu'dan... Düzen onu buraya kapatmis..." VO__AMICIA__CH10__RTC__495_LEGACY__030__M__1
 TT 6360 "Bunu o çizmis..." VO__AMICIA__CH10__RTC__495_LEGACY__065__M__1
 TT 6361 "Öfkeli... Tasiyici için korkmus... çok küçük... Onu geri istiyor. Ve onu nereye götürdüklerini biliyor." VO__AMICIA__CH10__RTC__495_LEGACY__070__M__1
@@ -8161,7 +8161,7 @@ TT 8157 "Burada misin?!" VO__ARNAUD__CH05__CHATTER__SEARCHING__080__M__1
 TT 8158 "Seni bulamayacagimi mi saniyorsun?" VO__ARNAUD__CH05__CHATTER__SEARCHING__100__M__1
 TT 8159 "Burada! Daha çok adam topla!" VO__ARNAUD__CH05__CHATTER__SEARCHING_MORE__010__M__1
 TT 8160 "Mmmh." VO__ARNAUD__CH05__ONOM__SEARCHING__090__M__1
-TT 8161 "Demek meshur "sapanli kiz" buymus!" VO__ARNAUD__CH05__RTC__200_EMBUSH__030__M__1
+TT 8161 "Demek meshur “sapanli kiz” buymus!" VO__ARNAUD__CH05__RTC__200_EMBUSH__030__M__1
 TT 8162 "Ama görünüse göre adamlarimi öldürme konusunda epey marifetlisin!" VO__ARNAUD__CH05__RTC__200_EMBUSH__040__M__1
 TT 8163 "Evet. Onu bir dene." VO__ARNAUD__CH05__RTC__200_EMBUSH__055__M__1
 TT 8164 "Adamlar! Yakalayin onlari!" VO__ARNAUD__CH05__RTC__200_EMBUSH__060__M__1
@@ -8217,7 +8217,7 @@ TT 8213 "Tarif istemiyorum, sadece dayanmasini umuyorum!" VO__ARNAUD__CH07__CHAT
 TT 8214 "Evet. Bir kisayol." VO__ARNAUD__CH07__CHATTER__CAVE_HALLWAY__020__M__1
 TT 8215 "Hi, evet... Yani daha az asker. Ve elimizde çocuk var, degil mi?" VO__ARNAUD__CH07__CHATTER__CAVE_HALLWAY__040__M__1
 TT 8216 "Öyle. Neredeyse vardik. Ini su teknenin diger tarafinda." VO__ARNAUD__CH07__CHATTER__CAVE_WRECK__020__M__1
-TT 8217 "Evet... Sophia. "Deniz Akrebi". Lider o." VO__ARNAUD__CH07__CHATTER__CAVE_WRECK__040__M__1
+TT 8217 "Evet... Sophia. “Deniz Akrebi”. Lider o." VO__ARNAUD__CH07__CHATTER__CAVE_WRECK__040__M__1
 TT 8218 "Su lanet isiranlardan daha az korkutucu." VO__ARNAUD__CH07__CHATTER__CAVE_WRECK__060__M__1
 TT 8219 "In tam sonda." VO__ARNAUD__CH07__CHATTER__CHANNEL__011__M__1
 TT 8220 "Hakli!" VO__ARNAUD__CH07__CHATTER__CHANNEL__047__M__1
@@ -8245,7 +8245,7 @@ TT 8241 "Hey! O sey de ne? Onu adamlarima karsi kullandin!" VO__ARNAUD__CH07__CH
 TT 8242 "Yapar. O iyidir." VO__ARNAUD__CH07__CHATTER__HUGO_SUPPORT__030__M__1
 TT 8243 "Bir avuç. Akdeniz'in dört bir yanindan topladigi ayaktakimi. Sophia karanlikta onlarin deniz feneri. Onu bir aziz gibi görüyorlar." VO__ARNAUD__CH07__CHATTER__IDLE_CAVE_1__020__M__1
 TT 8244 "Eyvah..." VO__ARNAUD__CH07__CHATTER__IDLE_CAVE_1__040__M__1
-TT 8245 "Teknesinin adi "la Rascasse"—zehirli dikenleri olan yerel bir balik, deniz akrebi diye de bilinir, yani..." VO__ARNAUD__CH07__CHATTER__IDLE_CAVE_2__010__M__1
+TT 8245 "Teknesinin adi “la Rascasse”—zehirli dikenleri olan yerel bir balik, deniz akrebi diye de bilinir, yani..." VO__ARNAUD__CH07__CHATTER__IDLE_CAVE_2__010__M__1
 TT 8246 "Eminim sokabiliyordur da..." VO__ARNAUD__CH07__CHATTER__IDLE_CAVE_2__030__M__1
 TT 8247 "Peki La Cuna'da ne ariyorsunuz?" VO__ARNAUD__CH07__CHATTER__IDLE_CAVE_3__010__M__1
 TT 8248 "Sehirde kulaklarim vardi. Garnizonda bir karisiklik duydum. Bir kiz ve bir oglan?" VO__ARNAUD__CH07__CHATTER__IDLE_CAVE_3__040__M__1
@@ -8296,7 +8296,7 @@ TT 8292 "Fikrim yok! Deneyebiliriz..." VO__ARNAUD__CH07__CHATTER__ODORIS_SUCCESS
 TT 8293 "Hi... O yemden emin misin?!" VO__ARNAUD__CH07__CHATTER__ODORIS_USELESS__010__M__1
 TT 8294 "Isine yarayacak bir seye benziyor, degil mi? Su arbalet sihrinle?!" VO__ARNAUD__CH07__CHATTER__PLANK_LIFT__010__M__1
 TT 8295 "Hem de nasil yapacagim!" VO__ARNAUD__CH07__CHATTER__PLANK_RELEASE__020__M__1
-TT 8296 "Burada onlara "kahkaha martilari" diyoruz." VO__ARNAUD__CH07__CHATTER__POST_FEATHER__010__M__1
+TT 8296 "Burada onlara “kahkaha martilari” diyoruz." VO__ARNAUD__CH07__CHATTER__POST_FEATHER__010__M__1
 TT 8297 "Gördün mü? Sen de birine dönüsüyorsun..." VO__ARNAUD__CH07__CHATTER__POST_FEATHER__030__M__1
 TT 8298 "Demek... bütün bunlari zaten gördün?" VO__ARNAUD__CH07__CHATTER__PUSH_CHEST_ADD__010__M__1
 TT 8299 "Cehennem iste böyle görünüyor." VO__ARNAUD__CH07__CHATTER__PUSH_CHEST_ADD__030__M__1
@@ -8394,7 +8394,7 @@ TT 8390 "Iki gün oldu... yani..." VO__ARNAUD__CH07__RTC__280_SCAR__115__M__1
 TT 8391 "Güzel. Iyilestin. Bir nevi. Bundan sonra birak nefes alsin yeter." VO__ARNAUD__CH07__RTC__280_SCAR__120__M__1
 TT 8392 "Zaman zaman aciyacak. Sadece nefes al ve rahatla." VO__ARNAUD__CH07__RTC__280_SCAR__130__M__1
 TT 8393 "Bu kadar sert görünmeye çalismayi birak. Bir sey ögrenebilirsin." VO__ARNAUD__CH07__RTC__280_SCAR__150__M__1
-TT 8394 "Kont'un ordusu bizimle—"Provence'in ayaktakimi"yla—savas hâlinde. Adamlarimin çogu... dostlarim... öldürüldü ya da kaçti. Beni yakalamalari an meselesi." VO__ARNAUD__CH07__RTC__280_SCAR__190__M__1
+TT 8394 "Kont'un ordusu bizimle—“Provence'in ayaktakimi”yla—savas hâlinde. Adamlarimin çogu... dostlarim... öldürüldü ya da kaçti. Beni yakalamalari an meselesi." VO__ARNAUD__CH07__RTC__280_SCAR__190__M__1
 TT 8395 "Evet. Ilmik simdiden boynumda ama... sende benimde olmayan bir sey var." VO__ARNAUD__CH07__RTC__280_SCAR__210__M__1
 TT 8396 "En çok aranan adam için bu beladan en güvenli çikis yolu. Adanin nerede oldugunu biliyorum. Tek yapman gereken oraya varana dek beni hayatta tutmak." VO__ARNAUD__CH07__RTC__280_SCAR__230__M__1
 TT 8397 "Gidelim. Buraya manzaranin tadini çikarmaya gelmedik." VO__ARNAUD__CH07__RTC__290_TRANSPORT__020__M__1
@@ -8411,7 +8411,7 @@ TT 8407 "Teknen. La Cuna'ya gitmemiz gerek. Soru sorulmadan." VO__ARNAUD__CH07__
 TT 8408 "O zaman yalniz gel. Sophia, bana borçlusun." VO__ARNAUD__CH07__RTC__300_SMUGGLER__160__M__1
 TT 8409 "Devam et..." VO__ARNAUD__CH07__RTC__300_SMUGGLER__180__M__1
 TT 8410 "Anlastik." VO__ARNAUD__CH07__RTC__300_SMUGGLER__200__M__1
-TT 8411 "Ah! "Denizin Çagrisi", ha?" VO__ARNAUD__CH07__RTC__300_SMUGGLER__220__M__1
+TT 8411 "Ah! “Denizin Çagrisi”, ha?" VO__ARNAUD__CH07__RTC__300_SMUGGLER__220__M__1
 TT 8412 "Tabii." VO__ARNAUD__CH07__RTC__300_SMUGGLER__250__M__1
 TT 8413 "Gidelim." VO__ARNAUD__CH07__RTC__300_SMUGGLER__260__M__1
 TT 8414 "hahahaha" VO__ARNAUD__CH07__RTC__300_SMUGGLER_ONOM__020__M__1
@@ -8453,7 +8453,7 @@ TT 8449 "Köy ta yukariya kadar uzaniyor." VO__ARNAUD__CH08__CHATTER__MARKET_CRI
 TT 8450 "Bu aslinda bir düsmanin aklini karistirmanin iyi bir yolu olurdu." VO__ARNAUD__CH08__CHATTER__MARKET_GOAT_AFTERMEMORY__020__M__1
 TT 8451 "Belki bir dahaki sefere." VO__ARNAUD__CH08__CHATTER__MARKET_GOAT_AFTERMEMORY__040__M__1
 TT 8452 "Seni seviyor!" VO__ARNAUD__CH08__CHATTER__MARKET_GOAT_MEMORY__050__M__1
-TT 8453 "Iste! Keçi dilinde "seni seviyorum" bu." VO__ARNAUD__CH08__CHATTER__MARKET_GOAT_MEMORY__080__M__1
+TT 8453 "Iste! Keçi dilinde “seni seviyorum” bu." VO__ARNAUD__CH08__CHATTER__MARKET_GOAT_MEMORY__080__M__1
 TT 8454 "Tipki bazi adamlarim gibi." VO__ARNAUD__CH08__CHATTER__MARKET_GOAT_TEETH__020__M__1
 TT 8455 "Onlara bunun bir rüya oldugunu söylememelisin. Ve çok fazla kisiye sorma. Hiç belli olmaz." VO__ARNAUD__CH08__CHATTER__MARKET_SPICES_CALL__020__M__1
 TT 8456 "Yerel bir tanri, belli ki. Kitada Aziz Yahya haftasi—Yaz gündönümü, yani muhtemelen bereket ve refahla ilgili." VO__ARNAUD__CH08__CHATTER__PROCESSION_ARNAUDBUSINESS__020__M__1
@@ -11028,7 +11028,7 @@ TT 11024 "Hugo, bu Magister Vaudin." VO__BEATRICE__CH02__RTC__100_AN_ALCHEMIST__
 TT 11025 "Ben hallederim." VO__BEATRICE__CH02__RTC__100_AN_ALCHEMIST__240__M__1
 TT 11026 "Lucas! Gel, hemen!" VO__BEATRICE__CH03__RTC__112_CLOSEDDOOR__010__M__1
 TT 11027 "Iyi tepki vermedi. Nöbet geçiriyor." VO__BEATRICE__CH03__RTC__112_CLOSEDDOOR__040__M__1
-TT 11028 "Amicia, böyle bir sey her zaman olasiydi. Ve "bu adam" var olan en kadim simyacilar toplulugunun yüceltilmis bir üyesi. Düzen, Macula'yi bilir! Hugo yalniz degil. Ben buradayim." VO__BEATRICE__CH03__RTC__112_CLOSEDDOOR__070__M__1
+TT 11028 "Amicia, böyle bir sey her zaman olasiydi. Ve “bu adam” var olan en kadim simyacilar toplulugunun yüceltilmis bir üyesi. Düzen, Macula'yi bilir! Hugo yalniz degil. Ben buradayim." VO__BEATRICE__CH03__RTC__112_CLOSEDDOOR__070__M__1
 TT 11029 "Titremeleri yatistirmak için bir an önce köpek üzümü lazim. Sehrin kenar mahallesinde bir sifaci var. Kasaplar mahallesinin öbür ucunda, bir ormanin kiyisinda; görürsün." VO__BEATRICE__CH03__RTC__112_CLOSEDDOOR__080__M__1
 TT 11030 "Nihayet! Neden bu kadar geciktiniz?" VO__BEATRICE__CH03__RTC__122_GUILT__010__M__1
 TT 11031 "Bunu ona verecegiz." VO__BEATRICE__CH03__RTC__122_GUILT__055__M__1
@@ -11184,7 +11184,7 @@ TT 11180 "onom" VO__BOATMAN__CH05__RTC__210_LANDING_ONOM__010__M__1
 TT 11181 "Nasilsa öleceksin! Hem de ne ugruna?! Geçmis geçmiste kaldi!" VO__COUNT__CH08__CHATTER__ARNAUD_FIGHT__020__M__1
 TT 11182 "Peki nerelisiniz?" VO__COUNT__CH08__CHATTER__BANQUETHALL_FRUIT_END__010__M__1
 TT 11183 "Evet... Aydinlik Günler boyunca, La Cuna'nin tüm halki tek vücut olur, Köz Çocugu etrafinda birlesir." VO__COUNT__CH08__CHATTER__BANQUETHALL_FRUIT_HUGO__020__M__1
-TT 11184 "Tam bir "bon vivant"!" VO__COUNT__CH08__CHATTER__BANQUETHALL_FRUIT_HUGO__050__M__1
+TT 11184 "Tam bir “bon vivant”!" VO__COUNT__CH08__CHATTER__BANQUETHALL_FRUIT_HUGO__050__M__1
 TT 11185 "Elbette, askim." VO__COUNT__CH08__CHATTER__GARDENS_FOLLOWING__020__M__1
 TT 11186 "Bize, O'nun Annesine ve Babasina." VO__COUNT__CH08__CHATTER__GARDENS_HERITAGE_TALK__020__M__1
 TT 11187 "Böyle uzun bir yolculuk için epey gençsiniz. Ana babaniz nerede?" VO__COUNT__CH08__CHATTER__GARDENS_PARENTS__010__M__1
@@ -11472,7 +11472,7 @@ TT 11468 "Burada degilsen, neredesin?" VO__COUNT__GENERIC__PATROL__SWITCH_SEARCH
 TT 11469 "Nereye gittin?" VO__COUNT__GENERIC__PATROL__SWITCH_SEARCH_ALONE__001__M__5
 TT 11470 "Neredesin?" VO__COUNT__GENERIC__PATROL__SWITCH_SEARCH_ALONE__001__M__6
 TT 11471 "Buraya gelmekle dogru yaptiniz. Devam edelim. Bu... maceradan sonra yorgun olmalisiniz." VO__COUNTESS__CH08__CHATTER__BANQUETHALL_FRUIT_END__030__M__1
-TT 11472 "Tüm bunlarin epey resmî göründügünü biliyorum, ama lütfen... Burada ben "ekselanslari" degilim. Ben Anne'yim. Ben kendimim, o yüzden sen de kendin ol!" VO__COUNTESS__CH08__CHATTER__BANQUETHALL_FRUIT_HUGO__010__M__1
+TT 11472 "Tüm bunlarin epey resmî göründügünü biliyorum, ama lütfen... Burada ben “ekselanslari” degilim. Ben Anne'yim. Ben kendimim, o yüzden sen de kendin ol!" VO__COUNTESS__CH08__CHATTER__BANQUETHALL_FRUIT_HUGO__010__M__1
 TT 11473 "Eee?" VO__COUNTESS__CH08__CHATTER__BANQUETHALL_FRUIT_HUGO__030__M__1
 TT 11474 "Dikkatli ol. Çok besleyiciler." VO__COUNTESS__CH08__CHATTER__BANQUETHALL_FRUIT_HUGO__060__M__1
 TT 11475 "Öyle! Ve bu sarayin sadece küçük bir kismi! Ah, odaniza geçmeden önce biraz hurma ister misin?" VO__COUNTESS__CH08__CHATTER__BANQUETHALL_FRUIT_OFFER__010__M__1
@@ -12277,7 +12277,7 @@ TT 12273 "Simdi olmaz! Deniz tam surada!" VO__HUGO__CH07__CHATTER__SMELL_THE_SEA
 TT 12274 "Bak, adi buradaymis! Okuyamiyoruz..." VO__HUGO__CH07__CHATTER__SOUVENIR_1__010__M__1
 TT 12275 "Düsünsene, adini kaybetmek..." VO__HUGO__CH07__CHATTER__SOUVENIR_1__030__M__1
 TT 12276 "Yapabilir miyim?" VO__HUGO__CH07__CHATTER__SOUVENIR_1__050__M__1
-TT 12277 "Adini... "Hayatta Kalan" koyuyorum!" VO__HUGO__CH07__CHATTER__SOUVENIR_1__070__M__1
+TT 12277 "Adini... “Hayatta Kalan” koyuyorum!" VO__HUGO__CH07__CHATTER__SOUVENIR_1__070__M__1
 TT 12278 "Bir çizim mi?" VO__HUGO__CH07__CHATTER__SOUVENIR_CAVE__030__M__1
 TT 12279 "Ilk insanlar..." VO__HUGO__CH07__CHATTER__SOUVENIR_CAVE__050__M__1
 TT 12280 "Çok güzel." VO__HUGO__CH07__CHATTER__SOUVENIR_CAVE__080__M__1
@@ -12778,7 +12778,7 @@ TT 12774 "Göründügü kadar yüksek degil..." VO__HUGO__CH09__RTC__420_MOUNTAI
 TT 12775 "Daglari severim. Büyük ve yüksekler, o yüzden tepelerindeyken sen de büyük ve yüksek olursun!" VO__HUGO__CH09__RTC__420_MOUNTAIN_PATH__060__M__1
 TT 12776 "Hiçbir sey degismedi..." VO__HUGO__CH09__RTC__430_LIGHT__210__M__1
 TT 12777 "O su sihirli degil." VO__HUGO__CH09__RTC__430_LIGHT__220__M__1
-TT 12778 ""Basil"." VO__HUGO__CH09__RTC__430_LIGHT__290__M__1
+TT 12778 "“Basil”." VO__HUGO__CH09__RTC__430_LIGHT__290__M__1
 TT 12779 "Peki Aelia kim?" VO__HUGO__CH09__RTC__430_LIGHT__310__M__1
 TT 12780 "Onlara ne oldu?" VO__HUGO__CH09__RTC__440_THE_LOCATION__053__M__1
 TT 12781 "Ya Basilius? O nerede?!" VO__HUGO__CH09__RTC__440_THE_LOCATION__063__M__1
@@ -14158,7 +14158,7 @@ TT 14154 "EMPTY" VO__LUCAS__CH03__CHATTER__AFTER_SLIDE__010__M__1
 TT 14155 "Evet... Agzima biraz kaçti!" VO__LUCAS__CH03__CHATTER__AFTER_SLIDE__020__M__1
 TT 14156 "Panikledim!" VO__LUCAS__CH03__CHATTER__AFTER_SLIDE__040__M__1
 TT 14157 "O neydi?!" VO__LUCAS__CH03__CHATTER__ALLEY_MURDER__040__M__1
-TT 14158 "Daha önce hiç... böyle bir sey "kullandin" mi?" VO__LUCAS__CH03__CHATTER__AMICIA_LOWER__030__M__1
+TT 14158 "Daha önce hiç... böyle bir sey “kullandin” mi?" VO__LUCAS__CH03__CHATTER__AMICIA_LOWER__030__M__1
 TT 14159 "Su zincirden kurtulmanin bir yolu olmali..." VO__LUCAS__CH03__CHATTER__AMICIA_LOWER_OK__010__M__1
 TT 14160 "Baska bir giris olabilir." VO__LUCAS__CH03__CHATTER__ANOTHER_WAY__100__M__1
 TT 14161 "Açmayacagim. Içinden ates et. Tepkime için sürtünme lazim." VO__LUCAS__CH03__CHATTER__ARMING_BALLISTA__020__M__1
@@ -14553,7 +14553,7 @@ TT 14549 "Amicia, Düzen'in Marsilya'da özel binalari olacak... ekipman ve insa
 TT 14550 "Ha..." VO__LUCAS__CH04__CHATTER__RATS_THINKING__030__M__1
 TT 14551 "Joseph'e ulasir ulasmaz çabucak eve dönmeliyiz..." VO__LUCAS__CH04__CHATTER__REGION__010__M__1
 TT 14552 "Engizisyon'dan daha beterini yapabileceklerini düsünmemistim." VO__LUCAS__CH04__CHATTER__REGION__020__M__1
-TT 14553 "Umarim pilotumuz da öyledir." VO__LUCAS__CH04__CHATTER__SHORE__030__M__1
+TT 14553 "Umarim kaptanimiz da öyledir." VO__LUCAS__CH04__CHATTER__SHORE__030__M__1
 TT 14554 "Ona gerçekten bir sans vermedin..." VO__LUCAS__CH04__CHATTER__SIMON_DEAD_SAD__010__M__1
 TT 14555 "Evet..." VO__LUCAS__CH04__CHATTER__SIMON_END__020__M__1
 TT 14556 "Makul... görünüyor." VO__LUCAS__CH04__CHATTER__SIMON_GO_TO_CRANK__010__M__1
@@ -14575,7 +14575,7 @@ TT 14571 "Iyi görünüyor! Yak onu!" VO__LUCAS__CH04__CHATTER__TAR_AIM_OK__010_
 TT 14572 "Evet!" VO__LUCAS__CH04__CHATTER__TAR_SHOOT__011__M__1
 TT 14573 "Evet! Buradaki o son birikinti çoktan katranla dolu!" VO__LUCAS__CH04__CHATTER__TAR_SHOOT__020__M__1
 TT 14574 "Magister Vaudin'e adayi sormami istedin. Kulübesindeki fresk." VO__LUCAS__CH04__CHATTER__TO_LOOT__020__M__1
-TT 14575 ""Sadece" bir sembol dedi." VO__LUCAS__CH04__CHATTER__TO_LOOT__040__M__1
+TT 14575 "“Sadece” bir sembol dedi." VO__LUCAS__CH04__CHATTER__TO_LOOT__040__M__1
 TT 14576 "Bu sehrin eskiden Akdeniz'e açilan ticari bir kapi oldugunu duydum..." VO__LUCAS__CH04__CHATTER__TO_SOUVENIR__010__M__1
 TT 14577 "Daha ileri gitme, Amicia!" VO__LUCAS__CH04__CHATTER__TREMORS__030__M__1
 TT 14578 "Bu kapatma hepsini öldürtecek." VO__LUCAS__CH04__CHATTER__UPSTAIRS__020__M__1
@@ -15221,7 +15221,7 @@ TT 15217 "Anne kutsansin!" VO__PEOPLE_F1__CH08__CHATTER__REACHING_SQUARE__020__M
 TT 15218 "Ben de!" VO__PEOPLE_F1__CH08__CHATTER__THEATER_BACKGROUND__040__M__1
 TT 15219 "Çok yasa Kont Victor ve Kontes Emilie!" VO__PEOPLE_F1__CH09__CHATTER__FESTIVAL_BAR_IDLES_2__010__M__1
 TT 15220 "Hâlâ vaktimiz var... Ziyafet bu aksam, eminim daha pisirmeye baslamamislardir." VO__PEOPLE_F1__CH09__CHATTER__HUB_GOINGDOWN_CHARETTE__020__M__1
-TT 15221 ""Genç bir çocuk gibi taze olsunlar diye", evet... Yeni hizmetçiyi yollarim. Eli yumusaktir—onlari mahvetmez." VO__PEOPLE_F1__CH09__CHATTER__HUB_PALACE_NPC_DIAL_FLOW__020__M__1
+TT 15221 "“Genç bir çocuk gibi taze olsunlar diye”, evet... Yeni hizmetçiyi yollarim. Eli yumusaktir—onlari mahvetmez." VO__PEOPLE_F1__CH09__CHATTER__HUB_PALACE_NPC_DIAL_FLOW__020__M__1
 TT 15222 "Bir çiçek Çocuk için. Bir tane Anne için. Bir tane Baba için." VO__PEOPLE_F1__CH09__CHATTER__HUB_VILLAGE_FESTIVAL_NPC_CHAT__040__M__1
 TT 15223 "Hazir misin?" VO__PEOPLE_F1__CH09__CHATTER__HUB_VILLAGE_NPC_LATE__010__M__1
 TT 15224 "Töreni kaçirmak istemiyorum!" VO__PEOPLE_F1__CH09__CHATTER__HUB_VILLAGE_NPC_LATE__030__M__1
@@ -17370,7 +17370,7 @@ TT 17366 "Sokaklar kasaba muhafizi disinda herkese yasak!" VO__SOLDIER_N1__CH04_
 TT 17367 "Evet... ve hâlâ yakacak çok cesedimiz var." VO__SOLDIER_N1__CH04__CHATTER__RIGHT_SPEAR__020__M__1
 TT 17368 "Lanet... Haklisin... Umarim çocuklarimiz o çömleklerle çabuk gelir... yoksa..." VO__SOLDIER_N1__CH04__CHATTER__RIGHT_SPEAR__040__M__1
 TT 17369 "Katranimiz bitti ve cesetler gelmeye devam ediyor..." VO__SOLDIER_N1__CH04__CHATTER__SOLDIERS_PYRE__010__M__1
-TT 17370 "Bu "temizlik" degil... Bu insanlarin çogu hasta bile degildi! Canavar sehri bosaltiyor! Bu bir katliam!" VO__SOLDIER_N1__CH04__CHATTER__SOLDIERS_PYRE__030__M__1
+TT 17370 "Bu “temizlik” degil... Bu insanlarin çogu hasta bile degildi! Canavar sehri bosaltiyor! Bu bir katliam!" VO__SOLDIER_N1__CH04__CHATTER__SOLDIERS_PYRE__030__M__1
 TT 17371 "Aah!" VO__SOLDIER_N1__CH04__ONOM__SAFEHOUSE__050__M__1
 TT 17372 "Üç kisi benimle! Sen! Asagi in! Sen, yukari!" VO__SOLDIER_N1__CH06__CHATTER__CAPTAIN_ORDER_FOREST__040__M__1
 TT 17373 "Buradan! Bir ekip asagi inen bir yol buldu! Kimildayin!" VO__SOLDIER_N1__CH06__CHATTER__GORGE_ENTRY__060__M__1
@@ -17822,7 +17822,7 @@ TT 17818 "Neredeyse vardik! Sadece su son havuzu doldur!" VO__SOLDIER_N2__CH04__
 TT 17819 "Dur! Simdi daha ileri gitme! O etki uzun sürmez!" VO__SOLDIER_N2__CH04__CHATTER__AMPLIFY_LUCKY_USES__020__M__1
 TT 17820 "Evet! Dogrudan atesin içine katran at! Alevleri bir süre güçlendirir!" VO__SOLDIER_N2__CH04__CHATTER__AMPLIFY_TUTORIAL__030__M__1
 TT 17821 "Simdi git! O katran uzun süre yanmaz!" VO__SOLDIER_N2__CH04__CHATTER__AMPLIFY_TUTORIAL__090__M__1
-TT 17822 ""Simya"yi bilmeyebiliriz, ama katranla hayli hasir nesir olduk, tamam mi?" VO__SOLDIER_N2__CH04__CHATTER__AMPLIFY_TUTORIAL__126__M__1
+TT 17822 "“Simya”yi bilmeyebiliriz, ama katranla hayli hasir nesir olduk, tamam mi?" VO__SOLDIER_N2__CH04__CHATTER__AMPLIFY_TUTORIAL__126__M__1
 TT 17823 "O... gizli!" VO__SOLDIER_N2__CH04__CHATTER__AMPLIFY_TUTORIAL__140__M__1
 TT 17824 "Sey, iyi is çikardin!" VO__SOLDIER_N2__CH04__CHATTER__BACK_CITY__010__M__1
 TT 17825 "Bu gece kanunu çignemeye karar verdigin için sansliyim!" VO__SOLDIER_N2__CH04__CHATTER__BACK_CITY__012__M__1
@@ -17863,7 +17863,7 @@ TT 17859 "Bir dakika bekleyin!" VO__SOLDIER_N2__CH04__CHATTER__SLING_BRIDGE__020
 TT 17860 "Peki, nereye gidiyorsunuz bakalim?" VO__SOLDIER_N2__CH04__CHATTER__TO_THE_2ND_BASIN__010__M__1
 TT 17861 "Ikiniz de bir kapatmanin ortasinda oldugumuzu biliyorsunuz, degil mi?!" VO__SOLDIER_N2__CH04__CHATTER__TO_THE_2ND_BASIN__030__M__1
 TT 17862 "Hm, anliyorum..." VO__SOLDIER_N2__CH04__CHATTER__TO_THE_2ND_BASIN__050__M__1
-TT 17863 "Iyi takim çalismasi! Siviller için sasirtici derecede becerikliyiz." VO__SOLDIER_N2__CH04__CHATTER__TO_THE_3RD_BASIN__010__M__1
+TT 17863 "Iyi takim çalismasi! Siviller için sasirtici derecede beceriklisiniz." VO__SOLDIER_N2__CH04__CHATTER__TO_THE_3RD_BASIN__010__M__1
 TT 17864 "Havuzu yakmanin bir yolunu buldun mu?" VO__SOLDIER_N2__CH04__HELPER__1ST_LIGHT_1__010__M__1
 TT 17865 "Hadi! Alkolü havuza dök!" VO__SOLDIER_N2__CH04__HELPER__1ST_POUR_1__010__M__1
 TT 17866 "Ne bekliyorsun? O havuzu doldurmak için fiçiyi kullan!" VO__SOLDIER_N2__CH04__HELPER__1ST_POUR_2__010__M__1
@@ -18634,7 +18634,7 @@ TT 18630 "Burada kimseyi bulamam..." VO__SOLDIER_N3__GENERIC__PATROL__SWITCH_SEA
 TT 18631 "Burada hiçbir sey bulamiyorum..." VO__SOLDIER_N3__GENERIC__PATROL__SWITCH_SEARCH_ALONE__001__M__6
 TT 18632 "Nöbetimden sonra görüsürüz, tamam mi?" VO__SOLDIER_S1__CH02__CHATTER__GALLOW_ROMANCE__010__M__1
 TT 18633 "Biliyorum... Kont kaptana daha fazla yetki verdiginden beri böyle iste." VO__SOLDIER_S1__CH02__CHATTER__GALLOW_ROMANCE__030__M__1
-TT 18634 "Bir Sir Vaudin duydum, "Magister" degil..." VO__SOLDIER_S1__CH02__CHATTER__INVEST_GUARD__020__M__1
+TT 18634 "Bir Sir Vaudin duydum, “Magister” degil..." VO__SOLDIER_S1__CH02__CHATTER__INVEST_GUARD__020__M__1
 TT 18635 "Pazar yerini deneyin. Orada birkaç çiçekçi var. Sanirim onunla ara sira is yapiyorlar." VO__SOLDIER_S1__CH02__CHATTER__INVEST_GUARD__025__M__1
 TT 18636 "Arkanizda, pazarin diger tarafinda!" VO__SOLDIER_S1__CH02__CHATTER__INVEST_HERBORIST_GUARDHELP__020__M__1
 TT 18637 "Kimse giremez! Arena yasak bölge." VO__SOLDIER_S1__CH02__CHATTER__INVEST_SLUMS_GUARDS__010__M__1
@@ -18678,7 +18678,7 @@ TT 18674 "Siz acemiler, emirlerinizi aldiniz mi?" VO__SOLDIER_S1__CH04__CHATTER_
 TT 18675 "Hayatimiz buna bagli! Simdi dua etmeye baslayin ve gidelim!" VO__SOLDIER_S1__CH04__CHATTER__GATE__050__M__1
 TT 18676 "Guyenne'de oldugunda geriye toplu mezarlardan baska bir sey birakmadigini duydum..." VO__SOLDIER_S1__CH04__CHATTER__PASSAGE__050__M__1
 TT 18677 "Rahat birak beni! Bu çömlekleri kirmaya gücümüz yok!" VO__SOLDIER_S1__CH04__CHATTER__QUAI__070__M__1
-TT 18678 "Sehrin bu çömlekler saglam lazim! O yüzden sakin ol!" VO__SOLDIER_S1__CH04__CHATTER__QUAI__090__M__1
+TT 18678 "Bu çömlekler sehre saglam lazim! O yüzden sakin ol!" VO__SOLDIER_S1__CH04__CHATTER__QUAI__090__M__1
 TT 18679 "Hey! O da ne...?" VO__SOLDIER_S1__CH04__CHATTER__TREMORS__010__M__1
 TT 18680 "Bu bir halk sagligi meselesi. Hâlâ firsatin varken gitmeliydin, Joseph." VO__SOLDIER_S1__CH04__RTC__135_MEETING_JOSEPH__010__M__1
 TT 18681 "O zaman sözlesmeni iptal say. Liman kapatildi ve sen izinsiz giriyorsun." VO__SOLDIER_S1__CH04__RTC__135_MEETING_JOSEPH__030__M__1
@@ -19166,7 +19166,7 @@ TT 19162 "Sehrin vakti tükeniyor!" VO__SOLDIER_S2__CH04__CHATTER__QUAI__080__M_
 TT 19163 "Tartisma yeter, askerler! Kimildayin! Kimildayin!" VO__SOLDIER_S2__CH04__CHATTER__QUAI__100__M__1
 TT 19164 "Sey, bu temizleyicilerimizin ilerledigi anlamina gelir..." VO__SOLDIER_S2__CH04__CHATTER__SOLDIERS_PYRE__020__M__1
 TT 19165 "Hepsi muhtemelen hasta. Kimseyi disari birakma riskini alamayiz, bunu biliyorsun." VO__SOLDIER_S2__CH04__CHATTER__SOLDIERS_PYRE__040__M__1
-TT 19166 "Onlar... Onlar bu!" VO__SOLDIER_S2__CH04__CHATTER__TREMORS__020__M__1
+TT 19166 "Onlar... Iste onlar!" VO__SOLDIER_S2__CH04__CHATTER__TREMORS__020__M__1
 TT 19167 "Kimsiniz? Kaptan nerede?" VO__SOLDIER_S2__CH04__RTC__135_MEETING_JOSEPH__180__M__1
 TT 19168 "Kahretsin!" VO__SOLDIER_S2__CH04__RTC__135_MEETING_JOSEPH__190__M__1
 TT 19169 "DAVETSIZLER!" VO__SOLDIER_S2__CH04__RTC__135_MEETING_JOSEPH__200__M__1
@@ -19686,7 +19686,7 @@ TT 19682 "Rica ederim." VO__SOPHIA__CH08__RTC__349_SOPHIA__150__M__1
 TT 19683 "Pardon..." VO__SOPHIA__CH08__RTC__350_EARTH__110__M__1
 TT 19684 "...sadece yakinda karaya çikmaya hazirlanacagimizi söyleyecektim. Yardimin lazim olacak. Hazir olunca... gel beni gör..." VO__SOPHIA__CH08__RTC__350_EARTH__120__M__1
 TT 19685 "Ben kaliyorum! Burada birkaç sey onarip sonra size katilirim." VO__SOPHIA__CH08__RTC__360_HARBOR__060__M__1
-TT 19686 "Kulaga hos geliyor! Bu arada... Bu topraklar Kont'un yasasi altinda. "Uslu" durun, anladiniz mi?" VO__SOPHIA__CH08__RTC__360_HARBOR__080__M__1
+TT 19686 "Kulaga hos geliyor! Bu arada... Bu topraklar Kont'un yasasi altinda. “Uslu” durun, anladiniz mi?" VO__SOPHIA__CH08__RTC__360_HARBOR__080__M__1
 TT 19687 "O suyun içinde nasil duruyorlar?" VO__SOPHIA__CH09__CHATTER__1ST_STEPS__010__M__1
 TT 19688 "Bu, islerin düzelmeyecegi anlamina gelmez!" VO__SOPHIA__CH09__CHATTER__1ST_STEPS__070__M__1
 TT 19689 "Neredeyse vardik..." VO__SOPHIA__CH09__CHATTER__2ND_STEPS__010__M__1
@@ -19729,7 +19729,7 @@ TT 19725 "Onun hakkinda bu kadar gürültü kopardiklarina göre öyle olmali." 
 TT 19726 "Kitada neler oldugunun farkindalar mi acaba?" VO__SOPHIA__CH09__CHATTER__FESTIVAL_BAR__100__M__1
 TT 19727 "Içkiler de bu yüzden..." VO__SOPHIA__CH09__CHATTER__FESTIVAL_BAR__120__M__1
 TT 19728 "Lanet, hava isiniyor..." VO__SOPHIA__CH09__CHATTER__FIRST_STEPS__010__M__1
-TT 19729 ""Neredeyse" ne demek biliyor musun?" VO__SOPHIA__CH09__CHATTER__FIRST_STEPS__030__M__1
+TT 19729 "“Neredeyse” ne demek biliyor musun?" VO__SOPHIA__CH09__CHATTER__FIRST_STEPS__030__M__1
 TT 19730 "Peki, yukarida ne bulmayi umuyorsun?" VO__SOPHIA__CH09__CHATTER__FIRST_STEPS__050__M__1
 TT 19731 "Demek bir rüya ve bir kus, ha?" VO__SOPHIA__CH09__CHATTER__FOLLOWING_LOOK__010__M__1
 TT 19732 "Pekâlâ, neden olmasin..." VO__SOPHIA__CH09__CHATTER__FOLLOWING_LOOK__040__M__1
@@ -19844,7 +19844,7 @@ TT 19840 "Demek simdilik burada isimiz bitti?" VO__SOPHIA__CH09__CHATTER__SANCT_
 TT 19841 "Tabii ki iyiler. Bal yapiyorlar ve ben bali severim." VO__SOPHIA__CH09__CHATTER__SANCT_PATH_BEEKEEPERS__030__M__1
 TT 19842 "Lanet, bu askerler çok cana yakin. Onlara onca hakaret ettigim için neredeyse kötü hissediyorum." VO__SOPHIA__CH09__CHATTER__SANCT_PATH_SOLDIERS__010__M__1
 TT 19843 "Anladim... Kaç tane...?" VO__SOPHIA__CH09__CHATTER__SANCT_PATH_SOLDIERS__030__M__1
-TT 19844 "Ah, seni "is basinda" gördüm. Sasirmadim. Hünerin olmasa ölmüstüm." VO__SOPHIA__CH09__CHATTER__SANCT_PATH_SOLDIERS__050__M__1
+TT 19844 "Ah, seni “is basinda” gördüm. Sasirmadim. Hünerin olmasa ölmüstüm." VO__SOPHIA__CH09__CHATTER__SANCT_PATH_SOLDIERS__050__M__1
 TT 19845 "Latince bunlar!" VO__SOPHIA__CH09__CHATTER__SCROLLS_INTERACT__025__M__1
 TT 19846 "Okuyabilirim!... Gel bak! Sanirim bir sey buldum!" VO__SOPHIA__CH09__CHATTER__SCROLLS_INTERACT__040__M__1
 TT 19847 "Tramontane... Evet." VO__SOPHIA__CH09__CHATTER__SECRET_HOUSE__020__M__1
@@ -19912,7 +19912,7 @@ TT 19908 "Böyle minik bir yaratiktan ne isine yarar ki?" VO__SOPHIA__CH09__RTC_
 TT 19909 "Yoksa göründügünden daha mi faydalisin, küçük?" VO__SOPHIA__CH09__RTC__401_ANEWDAY__038__M__1
 TT 19910 "Demek geceyi onun yakalanisini Provence Kontu ve karisiyla kutlayarak geçirdiniz!" VO__SOPHIA__CH09__RTC__401_ANEWDAY__045__M__1
 TT 19911 "Pekâlâ! Damarina bastim!" VO__SOPHIA__CH09__RTC__401_ANEWDAY__060__M__1
-TT 19912 "Seni takiliyordum! Sadece "dostlarimin" gerçekte kim oldugunu bilmeyi severim... ve duyduklarim hosuma gitti! Gel, biraz yürüyelim." VO__SOPHIA__CH09__RTC__401_ANEWDAY__065__M__1
+TT 19912 "Seni takiliyordum! Sadece “dostlarimin” gerçekte kim oldugunu bilmeyi severim... ve duyduklarim hosuma gitti! Gel, biraz yürüyelim." VO__SOPHIA__CH09__RTC__401_ANEWDAY__065__M__1
 TT 19913 "Ada... Bu adanin haritasi." VO__SOPHIA__CH09__RTC__405_MAP__030__M__1
 TT 19914 "Yüzlerce yillik derim... Muhtemelen Bizans. Buralarda bunlardan bir sürü var." VO__SOPHIA__CH09__RTC__405_MAP__050__M__1
 TT 19915 "Hangi Düzen?" VO__SOPHIA__CH09__RTC__405_MAP__110__M__1
@@ -19920,7 +19920,7 @@ TT 19916 "Ama hiç kimsenin önünde diz çökmüyorsun. Anliyorum." VO__SOPHIA_
 TT 19917 "Peki buraya ne aramaya geldin?" VO__SOPHIA__CH09__RTC__405_MAP__160__M__1
 TT 19918 "Basit... Eger bu sembol önemli yerleri gösteriyorsa..." VO__SOPHIA__CH09__RTC__405_MAP__180__M__1
 TT 19919 "Su... Sey, onu kaçirmak epey zor." VO__SOPHIA__CH09__RTC__405_MAP__190__M__1
-TT 19920 "Onlara Las Madres deniyor. "Anneler"." VO__SOPHIA__CH09__RTC__405_MAP__194__M__1
+TT 19920 "Onlara Las Madres deniyor. “Anneler”." VO__SOPHIA__CH09__RTC__405_MAP__194__M__1
 TT 19921 "Biliyorum... sikici." VO__SOPHIA__CH09__RTC__405_MAP__200__M__1
 TT 19922 "Istersen. Söyledim ya. Sana borçluyum." VO__SOPHIA__CH09__RTC__405_MAP__230__M__1
 TT 19923 "Hayal kirikligina ugrama, daha varmadik..." VO__SOPHIA__CH09__RTC__420_MOUNTAIN_PATH__030__M__1
@@ -19930,7 +19930,7 @@ TT 19926 "onom" VO__SOPHIA__CH09__RTC__420_MOUNTAIN_PATH_ONOM__010__M__1
 TT 19927 "onom" VO__SOPHIA__CH09__RTC__420_MOUNTAIN_PATH_ONOM__020__M__1
 TT 19928 "Saka degil..." VO__SOPHIA__CH09__RTC__430_LIGHT__070__M__1
 TT 19929 "Onlarin Köz Çocugu mu?" VO__SOPHIA__CH09__RTC__430_LIGHT__090__M__1
-TT 19930 ""Prima Macula"... Bu giderek daha da iyiye gidiyor..." VO__SOPHIA__CH09__RTC__430_LIGHT__110__M__1
+TT 19930 "“Prima Macula”... Bu giderek daha da iyiye gidiyor..." VO__SOPHIA__CH09__RTC__430_LIGHT__110__M__1
 TT 19931 "Ve onu öldürüyor." VO__SOPHIA__CH09__RTC__430_LIGHT__130__M__1
 TT 19932 "Dur tahmin edeyim... Ölüm, savas, hastalik ve kitlik." VO__SOPHIA__CH09__RTC__430_LIGHT__150__M__1
 TT 19933 "Bana hepsi çilgin bir masal gibi geliyor..." VO__SOPHIA__CH09__RTC__430_LIGHT__180__M__1
@@ -19938,14 +19938,14 @@ TT 19934 "Durgun su pek sihirli olmaz." VO__SOPHIA__CH09__RTC__430_LIGHT__260__M
 TT 19935 "Görünüse göre bu yerin dahasi var... suranin arkasinda." VO__SOPHIA__CH09__RTC__430_LIGHT__320__M__1
 TT 19936 "Simyacilarin Tasiyici'nin basina gelen her seyi yazmis. Tarihe göre siralanmis... Son kayit 541 yilindaymis..." VO__SOPHIA__CH09__RTC__440_THE_LOCATION__020__M__1
 TT 19937 "Manastirdan beri Latince çalismadim ama Basilius'tan söz ediyor..." VO__SOPHIA__CH09__RTC__440_THE_LOCATION__040__M__1
-TT 19938 "...ve bir "Aelia Dragas"tan. Onun... "Koruyucusu"." VO__SOPHIA__CH09__RTC__440_THE_LOCATION__046__M__1
-TT 19939 "Düzen, Tasiyici'yi ondan almis. O isyan etmis ve bir "yuvarlak kule"nin yakininda tutuklanmis, onu bir kalenin içindeki bir... bir "capella"ya, bir sapele götürmüsler." VO__SOPHIA__CH09__RTC__440_THE_LOCATION__060__M__1
+TT 19938 "...ve bir “Aelia Dragas”tan. Onun... “Koruyucusu”." VO__SOPHIA__CH09__RTC__440_THE_LOCATION__046__M__1
+TT 19939 "Düzen, Tasiyici'yi ondan almis. O isyan etmis ve bir “yuvarlak kule”nin yakininda tutuklanmis, onu bir kalenin içindeki bir... bir “capella”ya, bir sapele götürmüsler." VO__SOPHIA__CH09__RTC__440_THE_LOCATION__060__M__1
 TT 19940 "Yazmiyor." VO__SOPHIA__CH09__RTC__440_THE_LOCATION__066__M__1
 TT 19941 "Daha erken gelmedikleri için sansliyiz." VO__SOPHIA__CH09__RTC__440_THE_LOCATION__110__M__1
 TT 19942 "Suradan mi?" VO__SOPHIA__CH09__RTC__440_THE_LOCATION__165__M__1
 TT 19943 "Deneyelim." VO__SOPHIA__CH09__RTC__440_THE_LOCATION__190__M__1
 TT 19944 "Mürettebatimla denizde tam bir hafta geçir... Pis koku anlayisini sonsuza dek degistirir." VO__SOPHIA__CH09__RTC__450_CROWNED__020__M__1
-TT 19945 "O Aelia'ya ne oldugunu ögrenmek istemiyor musun? Ve senin... "atana"?" VO__SOPHIA__CH09__RTC__450_CROWNED__060__M__1
+TT 19945 "O Aelia'ya ne oldugunu ögrenmek istemiyor musun? Ve senin... “atana”?" VO__SOPHIA__CH09__RTC__450_CROWNED__060__M__1
 TT 19946 "Öhö..." VO__SOPHIA__CH09__RTC__450_CROWNED_ONOM__020__M__1
 TT 19947 "Cüretkâr... ama inandirici." VO__SOPHIA__CH09__RTC__FIRST_RITUALS__110__M__1
 TT 19948 "Iyi misin?!" VO__SOPHIA__CH10__CHATTER__AFTER_EVENT_KNIFE__020__M__1
@@ -19971,7 +19971,7 @@ TT 19967 "Kimi sag kalir... Kimini deniz alir ve dalgalarin kucaginda sonsuza de
 TT 19968 "Sonra yengeçlere yem olurlar." VO__SOPHIA__CH10__CHATTER__BABY_BOAT__060__M__1
 TT 19969 "Rica ederim." VO__SOPHIA__CH10__CHATTER__BABY_BOAT__090__M__1
 TT 19970 "Belki biraz ates atlama ve baska... güvenli faaliyetler görürüz." VO__SOPHIA__CH10__CHATTER__BACK_ON_TRACK__030__M__1
-TT 19971 "Hayir, ama... o sembol sapelimiz olabilir mi?... Onu götürdükleri su "capella"!" VO__SOPHIA__CH10__CHATTER__BACK_TO_MAP__020__M__1
+TT 19971 "Hayir, ama... o sembol sapelimiz olabilir mi?... Onu götürdükleri su “capella”!" VO__SOPHIA__CH10__CHATTER__BACK_TO_MAP__020__M__1
 TT 19972 "Bir çizim... Yani, mabedin orada oldugunu bilince, sanirim su büyük süslü agaca giden yolda, muhtemelen yel degirmenlerinin ötesinde." VO__SOPHIA__CH10__CHATTER__BACK_TO_MAP__027__M__1
 TT 19973 "Sey, sana istedigin her seyi saglayabilirim!" VO__SOPHIA__CH10__CHATTER__BACK_TO_TOPIC__020__M__1
 TT 19974 "Burada... isimizi bitirelim, sonra seni bir geziye çikaririm, olur mu?" VO__SOPHIA__CH10__CHATTER__BACK_TO_TOPIC__050__M__1
@@ -20052,7 +20052,7 @@ TT 20048 "Hey, nereye gidecegini bilmiyorsan, su haritayi unutma." VO__SOPHIA__C
 TT 20049 "Yani... bu... o neydi bilmiyorum bile..." VO__SOPHIA__CH10__CHATTER__HUB2_GOINGDOWN_START__005__M__1
 TT 20050 "Pratik! Bunu sevdim! O kulenin nerede oldugunu bilmiyorsan su haritaya tekrar baksana?" VO__SOPHIA__CH10__CHATTER__HUB2_GOINGDOWN_START__020__M__1
 TT 20051 "Iste geldik! Görünüse göre asil senlikler basladi!" VO__SOPHIA__CH10__CHATTER__HUB2_NEW_THINGS__010__M__1
-TT 20052 "Annem varlikli bir aileden geliyordu. Babamin bir kaçakçi oldugunu ögrenince pek memnun olmadilar. Beni de bir manastira yolladilar—onun günahlarindan "arindirmak" için." VO__SOPHIA__CH10__CHATTER__HUB2_SOPHIA_STORY__010__M__1
+TT 20052 "Annem varlikli bir aileden geliyordu. Babamin bir kaçakçi oldugunu ögrenince pek memnun olmadilar. Beni de bir manastira yolladilar—onun günahlarindan “arindirmak” için." VO__SOPHIA__CH10__CHATTER__HUB2_SOPHIA_STORY__010__M__1
 TT 20053 "Günahkâr olup özgür olmayi yeglerim. Bu yüzden kaçtim. Babama katildim, ve..." VO__SOPHIA__CH10__CHATTER__HUB2_SOPHIA_STORY__030__M__1
 TT 20054 "Hey, etrafina bak. Sorun yok. Yüzyillar sonrasindayiz, degil mi?" VO__SOPHIA__CH10__CHATTER__HUB2_SOPHIA_STORY__070__M__1
 TT 20055 "Hm. Sessiz... Sanirim hepsi su ziyafette." VO__SOPHIA__CH10__CHATTER__HUB2_VILLAGE_NOMAP__010__M__1
@@ -20164,7 +20164,7 @@ TT 20160 "onom" VO__SOPHIA__CH10__RTC__480_ENTER_FORT_ONOM__010__M__1
 TT 20161 "Lanet manyaklar..." VO__SOPHIA__CH10__RTC__485_UNEXPECTED_STRIKE__140__M__1
 TT 20162 "Ne... oluyor... be?..." VO__SOPHIA__CH10__RTC__485_UNEXPECTED_STRIKE__290__M__1
 TT 20163 "Gidiyorum! Firsat bulunca arabaya saklan!" VO__SOPHIA__CH10__RTC__490_ENTER_FORT2__110__M__1
-TT 20164 ""Birini koru, hepsini koru."" VO__SOPHIA__CH10__RTC__495_LEGACY__020__M__1
+TT 20164 "“Birini koru, hepsini koru.”" VO__SOPHIA__CH10__RTC__495_LEGACY__020__M__1
 TT 20165 "Amma da güzel bir ahmaklar hanedanin varmis..." VO__SOPHIA__CH10__RTC__495_LEGACY__040__M__1
 TT 20166 "Yine bu sey... Neden?" VO__SOPHIA__CH10__RTC__495_LEGACY__060__M__1
 TT 20167 "Dur... Demek bu kadar kolay... Haritanin altinda mi? Öylece?" VO__SOPHIA__CH10__RTC__495_LEGACY__110__M__1

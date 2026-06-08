@@ -17,6 +17,12 @@ BASE = r"c:\XboxGames\A Plague Tale- Requiem - Windows\Content\_TR_TEST_BACKUP\t
 SUB = str.maketrans({'ş':'s','Ş':'S','ğ':'g','Ğ':'G','ı':'i','İ':'I'})
 def subst(s): return s.translate(SUB)
 
+# --- metin ici duz cift tirnak ciftlerini kivrik tirnaga cevir ---
+# Oyun formati: TT n "metin" KEY  -> metnin icindeki duz " ayristiriciyi bozar
+# (cumle erken kesilir, KEY ekrana sizar). Ingilizce orijinal de kivrik “ ” kullanir.
+def curlyquotes(s):
+    return re.sub(r'"([^"]*)"', lambda m: '“' + m.group(1) + '”', s)
+
 # --- tum tr_*.py dosyalarini yukle ---
 T = {}
 files = sorted(glob.glob(os.path.join(WORK, "tr_*.py")))
@@ -42,6 +48,7 @@ lines = raw.split(nl)
 pat = re.compile(r'^TT\s+(\d+)\s+"(.*)"\s+(\S+)\s*$')
 applied = 0
 missing_codes = []
+stray_quotes = []
 out = []
 for line in lines:
     m = pat.match(line)
@@ -53,7 +60,9 @@ for line in lines:
             tr_codes = set(re.findall(r'\{[^}]+\}', tr))
             if en_codes != tr_codes:
                 missing_codes.append((key, en_codes ^ tr_codes))
-            new = subst(tr)
+            new = curlyquotes(subst(tr))
+            if '"' in new:   # eslesmeyen tek tirnak: format bozar
+                stray_quotes.append((key, new))
             line = f'TT {num} "{new}" {key}'
             applied += 1
     out.append(line)
@@ -71,4 +80,10 @@ if missing_codes:
         print(f"   {k}: {diff}")
 else:
     print("Kod butunlugu: TAMAM (tum {STR_..} kodlari korunmus)")
+if stray_quotes:
+    print(f"!! ESLESMEYEN TEK TIRNAK ({len(stray_quotes)}) - format bozabilir:")
+    for k, v in stray_quotes[:15]:
+        print(f"   {k}: {v}")
+else:
+    print("Tirnak butunlugu: TAMAM (metin ici \" -> kivrik “ ”)")
 print("Yazildi:", OUT)
