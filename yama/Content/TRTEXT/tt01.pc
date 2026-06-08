@@ -15268,7 +15268,7 @@ TT 15264 "Dikkat et!" VO__PEOPLE_F2__CH04__CHATTER__RUN_BACK__030__M__1
 TT 15265 "Sence neydi o?" VO__PEOPLE_F2__CH04__RTC__140_FIRST_OUTBURST__110__M__1
 TT 15266 "Yalan yeter!" VO__PEOPLE_F2__CH04__RTC__140_FIRST_OUTBURST__160__M__1
 TT 15267 "Hey Jeannine, biraz tuzun kaldi mi acaba?" VO__PEOPLE_F2__CH06__CHATTER__FRIENDS_TALKING__010__M__1
-TT 15268 "Son gelen grupla daha da kalabaligiz. Daha çok tabak, daha büyük tencere demek." VO__PEOPLE_F2__CH06__CHATTER__FRIENDS_TALKING__030__M__1
+TT 15268 "Son gelen grupla daha da kalabaligiz. Daha çok bogaz, daha büyük tencere demek." VO__PEOPLE_F2__CH06__CHATTER__FRIENDS_TALKING__030__M__1
 TT 15269 "Haklisin..." VO__PEOPLE_F2__CH06__CHATTER__FRIENDS_TALKING__050__M__1
 TT 15270 "Âmin." VO__PEOPLE_F2__CH06__CHATTER__MASS__060__M__1
 TT 15271 "B-ben mi?" VO__PEOPLE_F2__CH06__CHATTER__PERREUX_IDLE__020__M__1

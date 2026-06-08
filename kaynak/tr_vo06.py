@@ -505,7 +505,7 @@ T = {
 "VO__KID_M1__CH06__CHATTER__STORYTELLER_SPEECH__090__M__1": "Çok güzel olacak.",
 "VO__PEOPLE_F1__CH06__CHATTER__PILGRIMS_REACTION__010__M__1": "Neler oluyor?!",
 "VO__PEOPLE_F2__CH06__CHATTER__FRIENDS_TALKING__010__M__1": "Hey Jeannine, biraz tuzun kaldı mı acaba?",
-"VO__PEOPLE_F2__CH06__CHATTER__FRIENDS_TALKING__030__M__1": "Son gelen grupla daha da kalabalığız. Daha çok tabak, daha büyük tencere demek.",
+"VO__PEOPLE_F2__CH06__CHATTER__FRIENDS_TALKING__030__M__1": "Son gelen grupla daha da kalabalığız. Daha çok boğaz, daha büyük tencere demek.",
 "VO__PEOPLE_F2__CH06__CHATTER__FRIENDS_TALKING__050__M__1": "Haklısın...",
 "VO__PEOPLE_F2__CH06__CHATTER__MASS__060__M__1": "Âmin.",
 "VO__PEOPLE_F2__CH06__CHATTER__PERREUX_IDLE__020__M__1": "B-ben mi?",
