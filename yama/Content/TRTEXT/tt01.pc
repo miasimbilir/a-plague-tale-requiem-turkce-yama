@@ -4651,7 +4651,7 @@ TT 4647 "Güzel, bu bir adim..." VO__AMICIA__CH05__CHATTER__CLIMB_CRATE__010__M_
 TT 4648 "Hâlâ çok yüksek... Yine bir araba lazim olacak..." VO__AMICIA__CH05__CHATTER__CLIMB_TOO_HIGH__010__M__1
 TT 4649 "O da ne?!" VO__AMICIA__CH05__CHATTER__COLLAPSING__005__M__1
 TT 4650 "Eyvah... Hayir, hayir, hayir!" VO__AMICIA__CH05__CHATTER__COLLAPSING__010__M__1
-TT 4651 "Onlar bu!" VO__AMICIA__CH05__CHATTER__COLLAPSING__030__M__1
+TT 4651 "Iste onlar!" VO__AMICIA__CH05__CHATTER__COLLAPSING__030__M__1
 TT 4652 "Pekâlâ... Ben geçecegim..." VO__AMICIA__CH05__CHATTER__CRANK_COMPANION__020__M__1
 TT 4653 "O fareler her yerde... Onlardan kurtulamayacagiz..." VO__AMICIA__CH05__CHATTER__CRANK_IDLE_1__012__M__1
 TT 4654 "Üzerinde çalisiyorum!" VO__AMICIA__CH05__CHATTER__CRANK_IDLE_2__020__M__1
@@ -4699,7 +4699,7 @@ TT 4695 "Onu neselendirebilecek her sey..." VO__AMICIA__CH05__CHATTER__FLOWER__0
 TT 4696 "Sunu bitirelim..." VO__AMICIA__CH05__CHATTER__FLOWER__030__M__1
 TT 4697 "Anne! Lucas hâlâ yaninda degil mi?!" VO__AMICIA__CH05__CHATTER__FROM_THE_BOAT__015__M__1
 TT 4698 "Nasil...? Ne yapiyor?!" VO__AMICIA__CH05__CHATTER__FROM_THE_BOAT__030__M__1
-TT 4699 "Çok saçma... Eglenmek için oynuyor olmaliyiz. Simdi onun parçalanmasini engellemek için oynuyoruz." VO__AMICIA__CH05__CHATTER__GOING_BACK__010__M__1
+TT 4699 "Çok saçma... Eglenmek için oynuyor olmaliyiz. Simdi onun dagilmasini engellemek için oynuyoruz." VO__AMICIA__CH05__CHATTER__GOING_BACK__010__M__1
 TT 4700 "Asla..." VO__AMICIA__CH05__CHATTER__GOING_BACK__030__M__1
 TT 4701 "Su saman balyasi iyi yanar gibi görünüyor!" VO__AMICIA__CH05__CHATTER__HAY__020__M__1
 TT 4702 "Ama hizli yanacak!" VO__AMICIA__CH05__CHATTER__HAY__030__M__1
@@ -4757,7 +4757,7 @@ TT 4753 "Hazirim!" VO__AMICIA__CH05__CHATTER__NEXT_CRANK__010__M__1
 TT 4754 "Sanirim yine yapmamiz gerekecek." VO__AMICIA__CH05__CHATTER__NEXT_CRANK_COMPANION__010__M__1
 TT 4755 "Hareket etmeye devam edelim..." VO__AMICIA__CH05__CHATTER__NEXT_CRANK_DONE__020__M__1
 TT 4756 "Yoldayiz Hugo!... Hâlâ korkuyor. Ona çabuk ulasmaliyim." VO__AMICIA__CH05__CHATTER__NEXT_CRANK_DONE__027__M__1
-TT 4757 "Kaybedilmis durumda Lucas, ve o da bunu biliyor." VO__AMICIA__CH05__CHATTER__NEXT_CRANK_DONE__050__M__1
+TT 4757 "Kendini kaybetmis durumda Lucas, ve o da bunu biliyor." VO__AMICIA__CH05__CHATTER__NEXT_CRANK_DONE__050__M__1
 TT 4758 "Evet..." VO__AMICIA__CH05__CHATTER__NEXT_CRANK_DONE__070__M__1
 TT 4759 "Simdi! Geliyorum!" VO__AMICIA__CH05__CHATTER__NEXT_CRANK_RELEASE__030__M__1
 TT 4760 "Hadi... Kimilda!" VO__AMICIA__CH05__CHATTER__NEXT_CRANK_RELEASE__040__M__1
@@ -9623,7 +9623,7 @@ TT 9619 "Arnaud'yu duydun! Durdur su seyi, hemen!" VO__BANDIT_S1__CH05__CHATTER_
 TT 9620 "Yakalayin onu!" VO__BANDIT_S1__CH05__CHATTER__RUN_TWO__030__M__1
 TT 9621 "Buradan!" VO__BANDIT_S1__CH05__CHATTER__SEARCHING__010__M__1
 TT 9622 "Hayir! Ama hâlâ burada olmali!" VO__BANDIT_S1__CH05__CHATTER__SEARCHING__040__M__1
-TT 9623 "Kendini tuzaga düsürmek asla öyle degildir!" VO__BANDIT_S1__CH05__CHATTER__SEARCHING__060__M__1
+TT 9623 "Kendini tuzaga düsürmek asla iyi bir fikir degildir!" VO__BANDIT_S1__CH05__CHATTER__SEARCHING__060__M__1
 TT 9624 "Hadi millet! Sadece çilgin bir kiz!" VO__BANDIT_S1__CH05__CHATTER__SHORE__010__M__1
 TT 9625 "Seni yakalayacagim, tatlim!" VO__BANDIT_S1__CH05__CHATTER__SHORE_CORNER__010__M__1
 TT 9626 "Evet... Milo'ya artik yetmis olmali!" VO__BANDIT_S1__CH10__CHATTER__ALMOST_DONE__020__M__1
