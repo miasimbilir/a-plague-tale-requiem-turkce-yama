@@ -3859,7 +3859,7 @@ TT 3855 "Burasi nereye çikiyor?" VO__AMICIA__CH02__CHATTER__STORAGE__010__M__1
 TT 3856 "Su koku..." VO__AMICIA__CH02__CHATTER__SULFUR_SMELL_LODGE__005__M__1
 TT 3857 "Epey kapali görünüyor... Aramaya devam edelim." VO__AMICIA__CH02__CHATTER__SULFUR_SMELL_LODGE__020__M__1
 TT 3858 "Yüksek yer... bu daha iyi..." VO__AMICIA__CH02__CHATTER__SUNLIGHT__005__M__1
-TT 3859 "Hizli nefes al. Ne kadar sürecegini bilmiyorum." VO__AMICIA__CH02__CHATTER__SUNLIGHT__020__M__1
+TT 3859 "Çabuk nefeslen. Ne kadar sürecegini bilmiyorum." VO__AMICIA__CH02__CHATTER__SUNLIGHT__020__M__1
 TT 3860 "Hayir. Ben... onlari hâlâ sevmiyorum." VO__AMICIA__CH02__CHATTER__SWORDS_STAND__020__M__1
 TT 3861 "Kiliçlar... öldürmek içindir." VO__AMICIA__CH02__CHATTER__SWORDS_STAND__040__M__1
 TT 3862 "Pekâlâ..." VO__AMICIA__CH02__CHATTER__TAKE_TORCH__020__M__1
@@ -8854,7 +8854,7 @@ TT 8850 "Dikkat, sinsidir o! Tam yani basinda olabilir!" VO__BANDIT_N1__CH01__CH
 TT 8851 "Burada kalamayiz! Hemen kaçmaliyiz!" VO__BANDIT_N1__CH02__CHATTER__ARENA_FIELD_AFTER_BANDIT_CHAT__010__M__1
 TT 8852 "Onlar buralardayken buraya asla ulasamaz!" VO__BANDIT_N1__CH02__CHATTER__ARENA_FIELD_AFTER_BANDIT_CHAT__030__M__1
 TT 8853 "Hey! Neler oluyor?!" VO__BANDIT_N1__CH02__CHATTER__ARENA_FIELD_RATS_BANDITRATS__010__M__1
-TT 8854 "Yalnizsin ve dünyanin bütün zamani bende. Sadece konus benimle..." VO__BANDIT_N1__CH02__CHATTER__BANDIT_LOOP__030__M__1
+TT 8854 "Yalnizsin ve benim de dünya kadar vaktim var. Sadece konus benimle..." VO__BANDIT_N1__CH02__CHATTER__BANDIT_LOOP__030__M__1
 TT 8855 "Adamin burada, bir yerlerde oldugunu biliyoruz... Biz biliyorsak, sen de biliyorsun." VO__BANDIT_N1__CH02__CHATTER__BANDIT_LOOP__050__M__1
 TT 8856 "Lanet bir simyaci aramaya geliyoruz, bir toplu mezar buluyoruz... Ama sorun degil, burada oturup ölümü bekleyelim..." VO__BANDIT_N1__CH02__CHATTER__BANDIT_LOOTING__010__M__1
 TT 8857 "Duymadin mi?! Kayip adamlarimiz var! Burada bir seyler dönüyor! Hadi simyaciyi alip bu lanet yerden gidelim!" VO__BANDIT_N1__CH02__CHATTER__GETTING_VAUDIN__020__M__1
