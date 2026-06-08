@@ -53,7 +53,7 @@ T = {
 "VO__AMICIA__CH05__CHATTER__CLIMB_TOO_HIGH__010__M__1": "Hâlâ çok yüksek... Yine bir araba lazım olacak...",
 "VO__AMICIA__CH05__CHATTER__COLLAPSING__005__M__1": "O da ne?!",
 "VO__AMICIA__CH05__CHATTER__COLLAPSING__010__M__1": "Eyvah... Hayır, hayır, hayır!",
-"VO__AMICIA__CH05__CHATTER__COLLAPSING__030__M__1": "İşte onlar!",
+"VO__AMICIA__CH05__CHATTER__COLLAPSING__030__M__1": "Geldiler!",
 "VO__AMICIA__CH05__CHATTER__CRANK_COMPANION__020__M__1": "Pekâlâ... Ben geçeceğim...",
 "VO__AMICIA__CH05__CHATTER__CRANK_IDLE_1__012__M__1": "O fareler her yerde... Onlardan kurtulamayacağız...",
 "VO__AMICIA__CH05__CHATTER__CRANK_IDLE_2__020__M__1": "Üzerinde çalışıyorum!",

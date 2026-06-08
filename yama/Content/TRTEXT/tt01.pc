@@ -4651,7 +4651,7 @@ TT 4647 "Güzel, bu bir adim..." VO__AMICIA__CH05__CHATTER__CLIMB_CRATE__010__M_
 TT 4648 "Hâlâ çok yüksek... Yine bir araba lazim olacak..." VO__AMICIA__CH05__CHATTER__CLIMB_TOO_HIGH__010__M__1
 TT 4649 "O da ne?!" VO__AMICIA__CH05__CHATTER__COLLAPSING__005__M__1
 TT 4650 "Eyvah... Hayir, hayir, hayir!" VO__AMICIA__CH05__CHATTER__COLLAPSING__010__M__1
-TT 4651 "Iste onlar!" VO__AMICIA__CH05__CHATTER__COLLAPSING__030__M__1
+TT 4651 "Geldiler!" VO__AMICIA__CH05__CHATTER__COLLAPSING__030__M__1
 TT 4652 "Pekâlâ... Ben geçecegim..." VO__AMICIA__CH05__CHATTER__CRANK_COMPANION__020__M__1
 TT 4653 "O fareler her yerde... Onlardan kurtulamayacagiz..." VO__AMICIA__CH05__CHATTER__CRANK_IDLE_1__012__M__1
 TT 4654 "Üzerinde çalisiyorum!" VO__AMICIA__CH05__CHATTER__CRANK_IDLE_2__020__M__1
@@ -19166,7 +19166,7 @@ TT 19162 "Sehrin vakti tükeniyor!" VO__SOLDIER_S2__CH04__CHATTER__QUAI__080__M_
 TT 19163 "Tartisma yeter, askerler! Kimildayin! Kimildayin!" VO__SOLDIER_S2__CH04__CHATTER__QUAI__100__M__1
 TT 19164 "Sey, bu temizleyicilerimizin ilerledigi anlamina gelir..." VO__SOLDIER_S2__CH04__CHATTER__SOLDIERS_PYRE__020__M__1
 TT 19165 "Hepsi muhtemelen hasta. Kimseyi disari birakma riskini alamayiz, bunu biliyorsun." VO__SOLDIER_S2__CH04__CHATTER__SOLDIERS_PYRE__040__M__1
-TT 19166 "Onlar... Iste onlar!" VO__SOLDIER_S2__CH04__CHATTER__TREMORS__020__M__1
+TT 19166 "Geliyorlar... Geliyorlar!" VO__SOLDIER_S2__CH04__CHATTER__TREMORS__020__M__1
 TT 19167 "Kimsiniz? Kaptan nerede?" VO__SOLDIER_S2__CH04__RTC__135_MEETING_JOSEPH__180__M__1
 TT 19168 "Kahretsin!" VO__SOLDIER_S2__CH04__RTC__135_MEETING_JOSEPH__190__M__1
 TT 19169 "DAVETSIZLER!" VO__SOLDIER_S2__CH04__RTC__135_MEETING_JOSEPH__200__M__1

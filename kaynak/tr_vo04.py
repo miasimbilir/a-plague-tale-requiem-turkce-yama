@@ -673,7 +673,7 @@ T = {
 "VO__SOLDIER_S2__CH04__CHATTER__QUAI__100__M__1": "Tartışma yeter, askerler! Kımıldayın! Kımıldayın!",
 "VO__SOLDIER_S2__CH04__CHATTER__SOLDIERS_PYRE__020__M__1": "Şey, bu temizleyicilerimizin ilerlediği anlamına gelir...",
 "VO__SOLDIER_S2__CH04__CHATTER__SOLDIERS_PYRE__040__M__1": "Hepsi muhtemelen hasta. Kimseyi dışarı bırakma riskini alamayız, bunu biliyorsun.",
-"VO__SOLDIER_S2__CH04__CHATTER__TREMORS__020__M__1": "Onlar... İşte onlar!",
+"VO__SOLDIER_S2__CH04__CHATTER__TREMORS__020__M__1": "Geliyorlar... Geliyorlar!",
 "VO__SOLDIER_S2__CH04__RTC__135_MEETING_JOSEPH__180__M__1": "Kimsiniz? Kaptan nerede?",
 "VO__SOLDIER_S2__CH04__RTC__135_MEETING_JOSEPH__200__M__1": "DAVETSİZLER!",
 }
