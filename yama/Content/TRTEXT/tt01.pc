@@ -8466,7 +8466,7 @@ TT 8462 "Ben de!" VO__ARNAUD__CH08__CHATTER__SAIL_PULL_DONE__015__M__1
 TT 8463 "Aynisina iki kez vurmaman gerekiyor, biliyorsun degil mi?" VO__ARNAUD__CH08__CHATTER__SAME_CROWN_THREE__010__M__1
 TT 8464 "EMPTY" VO__ARNAUD__CH08__CHATTER__SECOND_SHOT_FAIL__010__M__1
 TT 8465 "Dogra o taçlari!" VO__ARNAUD__CH08__CHATTER__SECOND_SHOT_SUCCESS__020__M__1
-TT 8466 "Gelir. Iyi bir bira birani asla kaçirmaz." VO__ARNAUD__CH08__CHATTER__SOPHIA_BOAT_FAR__030__M__1
+TT 8466 "Gelir. Iyi bir birayi asla kaçirmaz." VO__ARNAUD__CH08__CHATTER__SOPHIA_BOAT_FAR__030__M__1
 TT 8467 "Farkli kaptan, farkli adamlar, farkli diyar. Sanmiyorum." VO__ARNAUD__CH08__CHATTER__STREET_COUNT_ARMY__020__M__1
 TT 8468 "Bir yirtici kus derim... Küçük bir tane. Hizli avcilar, seytan kadar zeki." VO__ARNAUD__CH08__CHATTER__THEATER_FEATHER_FALCON__020__M__1
 TT 8469 "Iyi görünüyorsun, ufaklik." VO__ARNAUD__CH08__CHATTER__THEATER_FEATHER_FALCON__040__M__1
@@ -15443,7 +15443,7 @@ TT 15439 "Bu gürültü de ne?" VO__PEOPLE_F5__CH04__CHATTER__BARKS_CONFUSED__06
 TT 15440 "Elbette, Anne." VO__PEOPLE_F5__CH08__CHATTER__MAID_TALK__020__M__1
 TT 15441 "La Cuna'ya hos geldiniz!" VO__PEOPLE_F5__CH08__RTC__360_HARBOR__100__M__1
 TT 15442 "Bu senin için yavrum! Varliginizdan büyük onur duyuyoruz!" VO__PEOPLE_F5__CH08__RTC__360_HARBOR__110__M__1
-TT 15443 "Dogru! Aydinlik Günler boyunca bütün çocuklar kraldir! Tipki adamizi gözeten Köz Çocugu gibi. Varligin bir lütuftur, çünkü sen de Onun gibi geleceksin. Çünkü o hepimizi karanliktan kurtaracak." VO__PEOPLE_F5__CH08__RTC__360_HARBOR__140__M__1
+TT 15443 "Dogru! Aydinlik Günler boyunca bütün çocuklar kraldir! Tipki adamizi gözeten Köz Çocugu gibi. Varligin bir lütuftur, çünkü sen de tipki Onun gibi gelecegimizsin. Çünkü o hepimizi karanliktan kurtaracak." VO__PEOPLE_F5__CH08__RTC__360_HARBOR__140__M__1
 TT 15444 "Lütfen senliklerin tadini çikarin." VO__PEOPLE_F5__CH08__RTC__360_HARBOR__150__M__1
 TT 15445 "Ah, sorun degil! Hiçbir aksilik çikmamasina dikkat edin!" VO__PEOPLE_F5__CH09__CHATTER__BELIEVERS__010__M__1
 TT 15446 "Hey, yukaridakiler! Ögle yemegi hazir!" VO__PEOPLE_F5__CH09__CHATTER__HUB_VILLAGE_DINNER_READY__010__M__1
