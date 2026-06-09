@@ -482,7 +482,7 @@ T = {
 "VO__SOPHIA__CH11__CHATTER__CANT_GO__035__M__1": "Amicia...",
 "VO__SOPHIA__CH11__CHATTER__CANT_GO_INTERACT__020__M__1": "Bu kadarı fazla...",
 "VO__SOPHIA__CH11__CHATTER__CART_EXPLOSION_OK__030__M__1": "İşe yaradı mı?!",
-"VO__SOPHIA__CH11__CHATTER__CART_RESTING__010__M__1": "Bak... O arabada gördüğümüz aynı Rum ateşi fıçısından var...",
+"VO__SOPHIA__CH11__CHATTER__CART_RESTING__010__M__1": "Bak... Şu arabada gördüğümüz aynı Rum ateşi fıçısından var...",
 "VO__SOPHIA__CH11__CHATTER__CART_WONT_MOVE__020__M__1": "Yerde bir şey var...",
 "VO__SOPHIA__CH11__CHATTER__CARTPUZZLE_CRANK__010__M__1": "Bak, burada bir manivela...",
 "VO__SOPHIA__CH11__CHATTER__CAVE_SLOPE__020__M__1": "Vay, vay!",

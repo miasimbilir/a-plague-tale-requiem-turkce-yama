@@ -3545,7 +3545,7 @@ TT 3541 "Hadi... itelim..." VO__AMICIA__CH02__CHATTER__ARCADES_PP_CART_DOWN__020
 TT 3542 "Hadi, çabuk." VO__AMICIA__CH02__CHATTER__ARCADES_PP_CART_OK__010__M__1
 TT 3543 "Onu buraya biz getirdik... Onlari biz mahkûm ettik..." VO__AMICIA__CH02__CHATTER__ARCADES_PP_CART_PUSH__040__M__1
 TT 3544 "Evet, ama... gelisini görürlerdi..." VO__AMICIA__CH02__CHATTER__ARCADES_PP_CART_PUSH__060__M__1
-TT 3545 "Yukaridaki o kafes dogru boyutta görünüyor." VO__AMICIA__CH02__CHATTER__ARCADES_PP_CART_UP__020__M__1
+TT 3545 "Yukaridaki su kafes dogru boyutta görünüyor." VO__AMICIA__CH02__CHATTER__ARCADES_PP_CART_UP__020__M__1
 TT 3546 "Onlara bakma..." VO__AMICIA__CH02__CHATTER__ARCADES_PP_CART_UP__040__M__1
 TT 3547 "Hadi... çikmak için bir sey bulalim o zaman... çabuk!" VO__AMICIA__CH02__CHATTER__ARCADES_PP_INTRO_HELPER__020__M__1
 TT 3548 "Demek onlar da Vaudin'in pesinde..." VO__AMICIA__CH02__CHATTER__ARCADES_PP_INTRO2__010__M__1
@@ -4450,9 +4450,9 @@ TT 4446 "Hâlâ yolu kapatan bir tekne var!" VO__AMICIA__CH04__CHATTER__NEXT_3RD
 TT 4447 "Su alevlere dikkat..." VO__AMICIA__CH04__CHATTER__OIL_HOT__010__M__1
 TT 4448 "Buradan deneyelim..." VO__AMICIA__CH04__CHATTER__OIL_HOUSE_NEAR__010__M__1
 TT 4449 "Onu nasil geçecegiz?!" VO__AMICIA__CH04__CHATTER__OIL_TUTO__010__M__1
-TT 4450 "Yerdeki o sivi... çömleklerinden!" VO__AMICIA__CH04__CHATTER__OIL_TUTO__020__M__1
+TT 4450 "Yerdeki su sivi... çömleklerinden!" VO__AMICIA__CH04__CHATTER__OIL_TUTO__020__M__1
 TT 4451 "Evet... Evet... Deneyelim..." VO__AMICIA__CH04__CHATTER__OIL_TUTO__023__M__1
-TT 4452 "Bak! O kapiyi bir zincir kapatiyor! Onu kirabilir misin?!" VO__AMICIA__CH04__CHATTER__OIL_TUTO__024__M__1
+TT 4452 "Bak! Su kapiyi bir zincir kapatiyor! Onu kirabilir misin?!" VO__AMICIA__CH04__CHATTER__OIL_TUTO__024__M__1
 TT 4453 "Lütfen, sakin ol... Üzgün ve öfkeli olmaya hakkin var... Ama seni yari yolda birakmam, bunu biliyorsun..." VO__AMICIA__CH04__CHATTER__OPEN_SPACE__010__M__1
 TT 4454 "Çok geç. Devam et." VO__AMICIA__CH04__CHATTER__OPEN_SPACE_CRY__030__M__1
 TT 4455 "Uyumaya çalis Hugo. Bunu benim için yap..." VO__AMICIA__CH04__CHATTER__OPEN_SPACE_HELP__030__M__1
@@ -6039,7 +6039,7 @@ TT 6035 "Antika..." VO__AMICIA__CH09__RTC__405_MAP__040__M__1
 TT 6036 "Ne çizimi?" VO__AMICIA__CH09__RTC__405_MAP__080__M__1
 TT 6037 "Evet! Görüyorum!" VO__AMICIA__CH09__RTC__405_MAP__100__M__1
 TT 6038 "Çok eski bir simyaci düzeni." VO__AMICIA__CH09__RTC__405_MAP__120__M__1
-TT 6039 "Teknede bizi duydun, Sophia... Hugo hasta. Bulasici degil. Yine de düzen, canlari ne isterse yapmak için onu kilitlemek istedi, ama ben..." VO__AMICIA__CH09__RTC__405_MAP__130__M__1
+TT 6039 "Teknede bizi duydun, Sophia... Hugo hasta. Bulasici degil. Yine de Düzen, canlari ne isterse yapmak için onu kilitlemek istedi, ama ben..." VO__AMICIA__CH09__RTC__405_MAP__130__M__1
 TT 6040 "Ona ne yardim edebilirse." VO__AMICIA__CH09__RTC__405_MAP__170__M__1
 TT 6041 "Mantikli." VO__AMICIA__CH09__RTC__405_MAP__210__M__1
 TT 6042 "O zaman su Anneler'i ziyaret edelim mi?" VO__AMICIA__CH09__RTC__405_MAP__215__M__1
@@ -6138,7 +6138,7 @@ TT 6134 "Bakalim bu ne yapiyor..." VO__AMICIA__CH10__CHATTER__CHANDELIER_CRANK__
 TT 6135 "Kabul." VO__AMICIA__CH10__CHATTER__CHANDELIER_DOOR__030__M__1
 TT 6136 "Tuttum..." VO__AMICIA__CH10__CHATTER__CHANDELIER_HOLD__020__M__1
 TT 6137 "Sanirim bir avize!" VO__AMICIA__CH10__CHATTER__CHANDELIER_MOVING__020__M__1
-TT 6138 "O zincir dayaniyor gibi!" VO__AMICIA__CH10__CHATTER__CHANDELIER_MOVING__040__M__1
+TT 6138 "Su zincir dayaniyor gibi!" VO__AMICIA__CH10__CHATTER__CHANDELIER_MOVING__040__M__1
 TT 6139 "Tut! Çekiyorum!" VO__AMICIA__CH10__CHATTER__CHANDELIER_PULL__010__M__1
 TT 6140 "Sadece... sanssizlik." VO__AMICIA__CH10__CHATTER__CHANDELIER_ROPE__010__M__1
 TT 6141 "Su halata bakalim..." VO__AMICIA__CH10__CHATTER__CHANDELIER_ROPE_GRAB__020__M__1
@@ -8196,7 +8196,7 @@ TT 8192 "Temiz atis." VO__ARNAUD__CH07__CHATTER__ANCHOR_OK__010__M__1
 TT 8193 "Bu bir çapa. Çapalamak için yapilmis." VO__ARNAUD__CH07__CHATTER__ANCHOR_PULL__020__M__1
 TT 8194 "Kilitli bir karsi agirlik var!" VO__ARNAUD__CH07__CHATTER__ANCHOR_RELEASED__011__M__1
 TT 8195 "Yardim lazim mi?" VO__ARNAUD__CH07__CHATTER__ANCHOR_RELEASED__020__M__1
-TT 8196 "O zincir çapayi kilitliyor!" VO__ARNAUD__CH07__CHATTER__ANCHOR_SPOTTED__010__M__1
+TT 8196 "Su zincir çapayi kilitliyor!" VO__ARNAUD__CH07__CHATTER__ANCHOR_SPOTTED__010__M__1
 TT 8197 "Benim isim bu." VO__ARNAUD__CH07__CHATTER__ARNAUD_2ND_KILL__020__M__1
 TT 8198 "Ne olmus? Onun icabina bakarim... Sen söyle yeter—Emret, ben infaz edeyim." VO__ARNAUD__CH07__CHATTER__ARNAUD_KILL__030__M__1
 TT 8199 "Neredeyse vardik. Kardesin yakinda La Cuna'yi görecek." VO__ARNAUD__CH07__CHATTER__ARNAUD_LEVER__010__M__1
@@ -8381,7 +8381,7 @@ TT 8377 "Neyi bekliyorsun?!" VO__ARNAUD__CH07__HELPER__ANCHOR_RELEASED_ARNAUD_1_
 TT 8378 "Hadi! Kir su zinciri!" VO__ARNAUD__CH07__HELPER__ANCHOR_RELEASED_ARNAUD_2__010__M__1
 TT 8379 "Hey, fareler çocugun isi, degil mi? Buna bir sey yapamaz misin?" VO__ARNAUD__CH07__HELPER__RAT_MOVE_1__010__M__1
 TT 8380 "Su lanet balik kapakta sikismis!" VO__ARNAUD__CH07__HELPER__TRADPOOR_1__010__M__1
-TT 8381 "Hey! O kilit kapagi kapali tutuyor! Kir onu!" VO__ARNAUD__CH07__HELPER__TRADPOOR_2__010__M__1
+TT 8381 "Hey! Su kilit kapagi kapali tutuyor! Kir onu!" VO__ARNAUD__CH07__HELPER__TRADPOOR_2__010__M__1
 TT 8382 "Amicia! Su fareleri oyalayabilirsin, degil mi? Yani... senin isin bu." VO__ARNAUD__CH07__HELPER__USE_HAM_BOAT_1__010__M__1
 TT 8383 "Hey! Su balik! Iyi bir açi bulursan sapaninla onu indirebilirsin!" VO__ARNAUD__CH07__HELPER__USE_HAM_BOAT_2__010__M__1
 TT 8384 "Hmmm..." VO__ARNAUD__CH07__ONOM__LET_GO_OK__050__M__1
@@ -9041,7 +9041,7 @@ TT 9037 "Benimsin!" VO__BANDIT_N1__GENERIC__PATROL__ALERT_TAUNT__001__M__2
 TT 9038 "Hadi göster kendini o zaman!" VO__BANDIT_N1__GENERIC__PATROL__ALERT_TAUNT__001__M__3
 TT 9039 "Bu atesi kim çikardi?!" VO__BANDIT_N1__GENERIC__PATROL__BURNING__001__M__1
 TT 9040 "Bu ates nasil çikti..." VO__BANDIT_N1__GENERIC__PATROL__BURNING__001__M__2
-TT 9041 "O atesi çikaran da ne lan?!" VO__BANDIT_N1__GENERIC__PATROL__BURNING__001__M__3
+TT 9041 "Su atesi çikaran da ne lan?!" VO__BANDIT_N1__GENERIC__PATROL__BURNING__001__M__3
 TT 9042 "Birazdan biter." VO__BANDIT_N1__GENERIC__PATROL__CAPTURE__001__M__1
 TT 9043 "Isin bitti senin." VO__BANDIT_N1__GENERIC__PATROL__CAPTURE__001__M__2
 TT 9044 "Böyle bitecegini düsünmemistin, ha?" VO__BANDIT_N1__GENERIC__PATROL__CAPTURE__001__M__3
@@ -9203,10 +9203,10 @@ TT 9199 "Tuhaf ses, nedir o?" VO__BANDIT_N1__GENERIC__PATROL__SUSPICION_AUDIO_SP
 TT 9200 "Tuhaf geldi..." VO__BANDIT_N1__GENERIC__PATROL__SUSPICION_AUDIO_SPOTTER_ALONE__001__M__3
 TT 9201 "Su ateste tuhaf bir sey var! Gidip bakacagim!" VO__BANDIT_N1__GENERIC__PATROL__SUSPICION_LIGHT_SPOTTER__001__M__1
 TT 9202 "Su ates... Orada neler oluyor?!" VO__BANDIT_N1__GENERIC__PATROL__SUSPICION_LIGHT_SPOTTER__001__M__2
-TT 9203 "O ates tuhaflasiyor! Gidip bir bakacagim!" VO__BANDIT_N1__GENERIC__PATROL__SUSPICION_LIGHT_SPOTTER__001__M__3
+TT 9203 "Su ates tuhaflasiyor! Gidip bir bakacagim!" VO__BANDIT_N1__GENERIC__PATROL__SUSPICION_LIGHT_SPOTTER__001__M__3
 TT 9204 "Su atesin nesi var lan?!" VO__BANDIT_N1__GENERIC__PATROL__SUSPICION_LIGHT_SPOTTER_ALONE__001__M__1
 TT 9205 "Su atesin nesi var?!" VO__BANDIT_N1__GENERIC__PATROL__SUSPICION_LIGHT_SPOTTER_ALONE__001__M__2
-TT 9206 "O ates çildirmis mi ne?!" VO__BANDIT_N1__GENERIC__PATROL__SUSPICION_LIGHT_SPOTTER_ALONE__001__M__3
+TT 9206 "Su ates çildirmis mi ne?!" VO__BANDIT_N1__GENERIC__PATROL__SUSPICION_LIGHT_SPOTTER_ALONE__001__M__3
 TT 9207 "O bir kirbaçti! Gidip bakacagim!" VO__BANDIT_N1__GENERIC__PATROL__SUSPICION_SLING_SPOTTER__001__M__1
 TT 9208 "Bir çatirti duydum! Hemen dönerim!" VO__BANDIT_N1__GENERIC__PATROL__SUSPICION_SLING_SPOTTER__001__M__2
 TT 9209 "O çatirti nereden geldi? Bakacagim!" VO__BANDIT_N1__GENERIC__PATROL__SUSPICION_SLING_SPOTTER__001__M__3
@@ -9544,9 +9544,9 @@ TT 9540 "Lanet serseriler yukari çikti! Takip edelim onlari!" VO__BANDIT_N2__GE
 TT 9541 "Yukarida iyi saklansan iyi edersin!" VO__BANDIT_N2__GENERIC__PATROL__SEARCH_SPOTTER_UP_ALONE__001__M__1
 TT 9542 "Yukari tirmandigini gördüm! Bulacagim seni!" VO__BANDIT_N2__GENERIC__PATROL__SEARCH_SPOTTER_UP_ALONE__001__M__2
 TT 9543 "Nerede oldugunu biliyorum! Geri in buraya!" VO__BANDIT_N2__GENERIC__PATROL__SEARCH_SPOTTER_UP_ALONE__001__M__3
-TT 9544 "O duman nereden geldi? Bir baksam iyi olur..." VO__BANDIT_N2__GENERIC__PATROL__SMOKE__001__M__1
+TT 9544 "Su duman nereden geldi? Bir baksam iyi olur..." VO__BANDIT_N2__GENERIC__PATROL__SMOKE__001__M__1
 TT 9545 "Su duman... Daha yakindan baksam iyi olur." VO__BANDIT_N2__GENERIC__PATROL__SMOKE__001__M__2
-TT 9546 "O duman nereden geliyor?" VO__BANDIT_N2__GENERIC__PATROL__SMOKE__001__M__3
+TT 9546 "Su duman nereden geliyor?" VO__BANDIT_N2__GENERIC__PATROL__SMOKE__001__M__3
 TT 9547 "Yine oluyor..." VO__BANDIT_N2__GENERIC__PATROL__SUSPICION_AGAIN_SPOTTER__001__M__1
 TT 9548 "Yine mi? Saka olmali!" VO__BANDIT_N2__GENERIC__PATROL__SUSPICION_AGAIN_SPOTTER__001__M__2
 TT 9549 "Iste yine basladi! Bir bakacagim!" VO__BANDIT_N2__GENERIC__PATROL__SUSPICION_AGAIN_SPOTTER__001__M__3
@@ -10046,7 +10046,7 @@ TT 10042 "Asagida bir sey kimildadi!" VO__BANDIT_S1__GENERIC__STATIC__SUSPICION_
 TT 10043 "Asagida! Bir hareket gördüm!" VO__BANDIT_S1__GENERIC__STATIC__SUSPICION_SPOTTER_DOWN__001__M__3
 TT 10044 "Hey! Çimende bir hareket gördüm!" VO__BANDIT_S1__GENERIC__STATIC__SUSPICION_SPOTTER_GRASS__001__M__1
 TT 10045 "Iste! Çimende bir sey var!" VO__BANDIT_S1__GENERIC__STATIC__SUSPICION_SPOTTER_GRASS__001__M__2
-TT 10046 "O uzun çimen az önce kimildadi!" VO__BANDIT_S1__GENERIC__STATIC__SUSPICION_SPOTTER_GRASS__001__M__3
+TT 10046 "Su uzun çimen az önce kimildadi!" VO__BANDIT_S1__GENERIC__STATIC__SUSPICION_SPOTTER_GRASS__001__M__3
 TT 10047 "Orada bir seyler oluyor!" VO__BANDIT_S1__GENERIC__STATIC__SUSPICION_SPOTTER_INSIDE__001__M__1
 TT 10048 "Hey..! Orada bir sey kimildadi!" VO__BANDIT_S1__GENERIC__STATIC__SUSPICION_SPOTTER_INSIDE__001__M__2
 TT 10049 "Az önce orada bir hareket gördüm!" VO__BANDIT_S1__GENERIC__STATIC__SUSPICION_SPOTTER_INSIDE__001__M__3
@@ -10232,7 +10232,7 @@ TT 10228 "Isin bitti!" VO__BANDIT_S2__GENERIC__PATROL__ALERT_TAUNT__001__M__1
 TT 10229 "Su isi bitirelim!" VO__BANDIT_S2__GENERIC__PATROL__ALERT_TAUNT__001__M__2
 TT 10230 "Senin için her sey bitti artik!" VO__BANDIT_S2__GENERIC__PATROL__ALERT_TAUNT__001__M__3
 TT 10231 "Bir sey yaniyor!" VO__BANDIT_S2__GENERIC__PATROL__BURNING__001__M__1
-TT 10232 "O ates nereden çikti?!" VO__BANDIT_S2__GENERIC__PATROL__BURNING__001__M__2
+TT 10232 "Su ates nereden çikti?!" VO__BANDIT_S2__GENERIC__PATROL__BURNING__001__M__2
 TT 10233 "Bir sey tutustu!" VO__BANDIT_S2__GENERIC__PATROL__BURNING__001__M__3
 TT 10234 "Umarim bir cennet vardir." VO__BANDIT_S2__GENERIC__PATROL__CAPTURE__001__M__1
 TT 10235 "Buraya geldigine pisman oldun, eminim." VO__BANDIT_S2__GENERIC__PATROL__CAPTURE__001__M__2
@@ -10376,7 +10376,7 @@ TT 10372 "Geri in buraya, ödlek!" VO__BANDIT_S2__GENERIC__PATROL__SEARCH_SPOTTE
 TT 10373 "Yukarida güvende oldugunu mu saniyorsun?!" VO__BANDIT_S2__GENERIC__PATROL__SEARCH_SPOTTER_UP_ALONE__001__M__2
 TT 10374 "Seni yukarida bulamam mi sandin?!" VO__BANDIT_S2__GENERIC__PATROL__SEARCH_SPOTTER_UP_ALONE__001__M__3
 TT 10375 "Su duman... Baksam iyi olur!" VO__BANDIT_S2__GENERIC__PATROL__SMOKE__001__M__1
-TT 10376 "O duman nereden geliyor?" VO__BANDIT_S2__GENERIC__PATROL__SMOKE__001__M__2
+TT 10376 "Su duman nereden geliyor?" VO__BANDIT_S2__GENERIC__PATROL__SMOKE__001__M__2
 TT 10377 "Duman... burada mi?" VO__BANDIT_S2__GENERIC__PATROL__SMOKE__001__M__3
 TT 10378 "Ciddi olamazsin! Yine mi?!" VO__BANDIT_S2__GENERIC__PATROL__SUSPICION_AGAIN_SPOTTER__001__M__1
 TT 10379 "Yine mi? Bu da ne?" VO__BANDIT_S2__GENERIC__PATROL__SUSPICION_AGAIN_SPOTTER__001__M__2
@@ -10502,7 +10502,7 @@ TT 10498 "Asagida bir seyler oluyor!" VO__BANDIT_S2__GENERIC__STATIC__SUSPICION_
 TT 10499 "Gördün mü?! Asagida bir sey var!" VO__BANDIT_S2__GENERIC__STATIC__SUSPICION_SPOTTER_DOWN__001__M__2
 TT 10500 "Hareket! Asagida!" VO__BANDIT_S2__GENERIC__STATIC__SUSPICION_SPOTTER_DOWN__001__M__3
 TT 10501 "Sanirim çimende bir seyin kimildadigini gördüm!" VO__BANDIT_S2__GENERIC__STATIC__SUSPICION_SPOTTER_GRASS__001__M__1
-TT 10502 "O çimende bir sey kimildadi!" VO__BANDIT_S2__GENERIC__STATIC__SUSPICION_SPOTTER_GRASS__001__M__2
+TT 10502 "Su çimende bir sey kimildadi!" VO__BANDIT_S2__GENERIC__STATIC__SUSPICION_SPOTTER_GRASS__001__M__2
 TT 10503 "Çimende bir hareket gördüm!" VO__BANDIT_S2__GENERIC__STATIC__SUSPICION_SPOTTER_GRASS__001__M__3
 TT 10504 "Hey! Orada bir sey kimildadi!" VO__BANDIT_S2__GENERIC__STATIC__SUSPICION_SPOTTER_INSIDE__001__M__1
 TT 10505 "Yemin ederim orada bir sey gördüm!" VO__BANDIT_S2__GENERIC__STATIC__SUSPICION_SPOTTER_INSIDE__001__M__2
@@ -10955,7 +10955,7 @@ TT 10951 "O sesi ne çikardi...?" VO__BANDIT_S3__GENERIC__STATIC__SUSPICION_AUDI
 TT 10952 "Su atese ne oluyor? Git baksan iyi olur!" VO__BANDIT_S3__GENERIC__STATIC__SUSPICION_LIGHT_SPOTTER__001__M__1
 TT 10953 "Su atese ne oldu lan? Git bak!" VO__BANDIT_S3__GENERIC__STATIC__SUSPICION_LIGHT_SPOTTER__001__M__2
 TT 10954 "Git bak, su atesin nesi var!" VO__BANDIT_S3__GENERIC__STATIC__SUSPICION_LIGHT_SPOTTER__001__M__3
-TT 10955 "O ates ne yapiyor?!" VO__BANDIT_S3__GENERIC__STATIC__SUSPICION_LIGHT_SPOTTER_ALONE__001__M__1
+TT 10955 "Su ates ne yapiyor?!" VO__BANDIT_S3__GENERIC__STATIC__SUSPICION_LIGHT_SPOTTER_ALONE__001__M__1
 TT 10956 "Atese az önce ne oldu?!" VO__BANDIT_S3__GENERIC__STATIC__SUSPICION_LIGHT_SPOTTER_ALONE__001__M__2
 TT 10957 "Su atesin nesi var lan?!" VO__BANDIT_S3__GENERIC__STATIC__SUSPICION_LIGHT_SPOTTER_ALONE__001__M__3
 TT 10958 "Orada bir seyler oluyor." VO__BANDIT_S3__GENERIC__STATIC__SUSPICION_SPOTTER__001__M__1
@@ -12222,7 +12222,7 @@ TT 12218 "Ben burada yasardim! Tam denizin önünde..." VO__HUGO__CH07__CHATTER_
 TT 12219 "Çok yüksek..." VO__HUGO__CH07__CHATTER__GAP__010__M__1
 TT 12220 "Vuuh!" VO__HUGO__CH07__CHATTER__GAP__041__M__1
 TT 12221 "Tesekkürler!" VO__HUGO__CH07__CHATTER__GAP__050__M__1
-TT 12222 "Harika! Bu tekne harika! O kamara da harika! Su esyalara bak!" VO__HUGO__CH07__CHATTER__HUGO_CABIN__020__M__1
+TT 12222 "Harika! Bu tekne harika! Su kamara da harika! Su esyalara bak!" VO__HUGO__CH07__CHATTER__HUGO_CABIN__020__M__1
 TT 12223 "Amicia! Geldik!" VO__HUGO__CH07__CHATTER__HUGO_SIGNALS__010__M__1
 TT 12224 "Ne yapiyorsun?" VO__HUGO__CH07__CHATTER__HUGO_SOPHIA_CABIN__010__M__1
 TT 12225 "Bence onlar da alçak." VO__HUGO__CH07__CHATTER__HUGO_SOPHIA_CABIN__030__M__1
@@ -12677,7 +12677,7 @@ TT 12673 "Vay..." VO__HUGO__CH09__CHATTER__PROTECTOR_ROOM__005__M__1
 TT 12674 "Bir nehir... Yine Ingilizlere karsi deniz savasi oynayabiliriz!" VO__HUGO__CH09__CHATTER__RIVER_SPOT__010__M__1
 TT 12675 "Amicia... Ari insanlar!" VO__HUGO__CH09__CHATTER__SANCT_PATH_BEEKEEPERS__010__M__1
 TT 12676 "Ben de!" VO__HUGO__CH09__CHATTER__SANCT_PATH_BEEKEEPERS__040__M__1
-TT 12677 "O araba düstü!" VO__HUGO__CH09__CHATTER__SANCT_PATH_GATE__030__M__1
+TT 12677 "Su araba düstü!" VO__HUGO__CH09__CHATTER__SANCT_PATH_GATE__030__M__1
 TT 12678 "Bunlar ne?" VO__HUGO__CH09__CHATTER__SCROLLS_INTERACT__010__M__1
 TT 12679 "Dinle! Bahsettigi keçi bu mu?" VO__HUGO__CH09__CHATTER__SECRET_HOUSE__010__M__1
 TT 12680 "Sihirli bir delik!" VO__HUGO__CH09__CHATTER__SECRET_LADDER__020__M__1
@@ -13873,7 +13873,7 @@ TT 13869 "Evet, sefleri gelmeden Magister Vaudin'i çikarmaliyiz!" VO__LUCAS__CH
 TT 13870 "Çikiyorlar!" VO__LUCAS__CH02__CHATTER__ARENA_FIELD_RATS_HEROES__010__M__1
 TT 13871 "Berbatti... Tesekkürler." VO__LUCAS__CH02__CHATTER__ARENA_REUNITED_INTRO__010__M__1
 TT 13872 "Evet!... Ah! Bak!" VO__LUCAS__CH02__CHATTER__ARENA_TOWER_AMICIA_MOVES__010__M__1
-TT 13873 "O duvar bir kapi! Çok ilkel!" VO__LUCAS__CH02__CHATTER__ARENA_TOWER_DONE__010__M__1
+TT 13873 "Su duvar bir kapi! Amma da eskiymis!" VO__LUCAS__CH02__CHATTER__ARENA_TOWER_DONE__010__M__1
 TT 13874 "Bir giris holü bu..." VO__LUCAS__CH02__CHATTER__ARENA_TOWER_INTRO__010__M__1
 TT 13875 "Kapi görmüyorum. Ama su tür demir çanlar var. Bak, gezegen sembolleri tasiyorlar. Ve burada, Günes tam ortalarinda. Gezegenlerin sirasi dogru degil." VO__LUCAS__CH02__CHATTER__ARENA_TOWER_INTRO__030__M__1
 TT 13876 "Her çanin altinda anahtar için kilitler var. Tek bir büyük mekanizma!" VO__LUCAS__CH02__CHATTER__ARENA_TOWER_INTRO__050__M__1
@@ -14009,7 +14009,7 @@ TT 14005 "Senin suçun degil." VO__LUCAS__CH02__CHATTER__INVEST_OUTSIDE_INTRO__0
 TT 14006 "Saklaniyordur belki?" VO__LUCAS__CH02__CHATTER__INVEST_SLUMS_DANGER_OUTRO__020__M__1
 TT 14007 "Sorun degil, gel! Arenanin etrafindan dolasiriz." VO__LUCAS__CH02__CHATTER__INVEST_SLUMS_GUARDS__041__M__1
 TT 14008 "Ne çok ev var..." VO__LUCAS__CH02__CHATTER__INVEST_SLUMS_INTRO__020__M__1
-TT 14009 "Amicia... Duvardaki o sembol!" VO__LUCAS__CH02__CHATTER__INVEST_SLUMS_SYMBOL__010__M__1
+TT 14009 "Amicia... Duvardaki su sembol!" VO__LUCAS__CH02__CHATTER__INVEST_SLUMS_SYMBOL__010__M__1
 TT 14010 "Evet! Burada!" VO__LUCAS__CH02__CHATTER__INVEST_SLUMS_SYMBOL__030__M__1
 TT 14011 "Eee, kanunu çignemeye hazir misin?" VO__LUCAS__CH02__CHATTER__INVEST_SLUMS_UP__020__M__1
 TT 14012 "Yukarida bir kapi var..." VO__LUCAS__CH02__CHATTER__INVEST_SLUMS_UP_HELPER__050__M__1
@@ -14283,7 +14283,7 @@ TT 14279 "Yukarida bir krank var!" VO__LUCAS__CH03__CHATTER__LOOKING_FOR_CART__0
 TT 14280 "Bir sey olmali..." VO__LUCAS__CH03__CHATTER__LOOKING_FOR_CART__030__M__1
 TT 14281 "Sey, bilmiyorum! Burasi darmadagin! Olabilir..." VO__LUCAS__CH03__CHATTER__LOOKING_FOR_CART__060__M__1
 TT 14282 "Iste! Bir araba buldum!" VO__LUCAS__CH03__CHATTER__LOOKING_FOR_CART__070__M__1
-TT 14283 "O araba Amicia... köpek üzümü içinde olabilir! Belki sapanin da!" VO__LUCAS__CH03__CHATTER__LOOT_CART__070__M__1
+TT 14283 "Su araba Amicia... köpek üzümü içinde olabilir! Belki sapanin da!" VO__LUCAS__CH03__CHATTER__LOOT_CART__070__M__1
 TT 14284 "Daha akillica, evet." VO__LUCAS__CH03__CHATTER__LOOT_CART__090__M__1
 TT 14285 "Kuru bitkiler, tozlar..." VO__LUCAS__CH03__CHATTER__LUCAS_LOOKING_1__010__M__1
 TT 14286 "Aramaya devam et..." VO__LUCAS__CH03__CHATTER__LUCAS_LOOKING_1__020__M__1
@@ -14297,7 +14297,7 @@ TT 14293 "Hemen simdi!" VO__LUCAS__CH03__CHATTER__LUCAS_ORDER_LOWER__020__M__1
 TT 14294 "Hey!" VO__LUCAS__CH03__CHATTER__LUCAS_RELEASE__010__M__1
 TT 14295 "Aah!" VO__LUCAS__CH03__CHATTER__LUCAS_SCREAM_1__005__M__1
 TT 14296 "Aah! Dur!" VO__LUCAS__CH03__CHATTER__LUCAS_SCREAM_2__005__M__1
-TT 14297 "Amicia... O zinciri kirabilirsin!" VO__LUCAS__CH03__CHATTER__LUCAS_WAITING__010__M__1
+TT 14297 "Amicia... Su zinciri kirabilirsin!" VO__LUCAS__CH03__CHATTER__LUCAS_WAITING__010__M__1
 TT 14298 "Biri!" VO__LUCAS__CH03__CHATTER__MEET_MURDERER__020__M__1
 TT 14299 "Eyvah, bir asker!" VO__LUCAS__CH03__CHATTER__MEET_MURDERER__040__M__1
 TT 14300 "Firlatacak!" VO__LUCAS__CH03__CHATTER__MEET_MURDERER__095__M__1
@@ -14545,7 +14545,7 @@ TT 14541 "Hayir! Dogaçlama yapiyorum!" VO__LUCAS__CH04__CHATTER__POURING_ALCOHO
 TT 14542 "Su mangal... itilebiliyor..." VO__LUCAS__CH04__CHATTER__PUSHABLE_BRAZIER__010__M__1
 TT 14543 "Katran... iste bunu yapti, bu sey mucize yaratiyor." VO__LUCAS__CH04__CHATTER__PUZZLE_END__010__M__1
 TT 14544 "Ona gerek yok..." VO__LUCAS__CH04__CHATTER__PUZZLE_END__030__M__1
-TT 14545 "O ates... yanan odun degil..." VO__LUCAS__CH04__CHATTER__PYRE__010__M__1
+TT 14545 "Su ates... yanan odun degil..." VO__LUCAS__CH04__CHATTER__PYRE__010__M__1
 TT 14546 "Cesetler..." VO__LUCAS__CH04__CHATTER__PYRE__015__M__1
 TT 14547 "Iste geldiler..." VO__LUCAS__CH04__CHATTER__QUAI__065__M__1
 TT 14548 "Eh, bu bir adim!" VO__LUCAS__CH04__CHATTER__RAT_BURST__020__M__1
@@ -14573,7 +14573,7 @@ TT 14569 "Sey, pek faydasi yok." VO__LUCAS__CH04__CHATTER__STAIRS__030__M__1
 TT 14570 "Degilsin. Ben buradayim." VO__LUCAS__CH04__CHATTER__STAIRS__050__M__1
 TT 14571 "Iyi görünüyor! Yak onu!" VO__LUCAS__CH04__CHATTER__TAR_AIM_OK__010__M__1
 TT 14572 "Evet!" VO__LUCAS__CH04__CHATTER__TAR_SHOOT__011__M__1
-TT 14573 "Evet! Buradaki o son birikinti çoktan katranla dolu!" VO__LUCAS__CH04__CHATTER__TAR_SHOOT__020__M__1
+TT 14573 "Evet! Buradaki su son birikinti çoktan katranla dolu!" VO__LUCAS__CH04__CHATTER__TAR_SHOOT__020__M__1
 TT 14574 "Magister Vaudin'e adayi sormami istedin. Kulübesindeki fresk." VO__LUCAS__CH04__CHATTER__TO_LOOT__020__M__1
 TT 14575 "“Sadece” bir sembol dedi." VO__LUCAS__CH04__CHATTER__TO_LOOT__040__M__1
 TT 14576 "Bu sehrin eskiden Akdeniz'e açilan ticari bir kapi oldugunu duydum..." VO__LUCAS__CH04__CHATTER__TO_SOUVENIR__010__M__1
@@ -14581,7 +14581,7 @@ TT 14577 "Daha ileri gitme, Amicia!" VO__LUCAS__CH04__CHATTER__TREMORS__030__M__
 TT 14578 "Bu kapatma hepsini öldürtecek." VO__LUCAS__CH04__CHATTER__UPSTAIRS__020__M__1
 TT 14579 "Su duvara bak..." VO__LUCAS__CH04__CHATTER__UPSTAIRS__040__M__1
 TT 14580 "Yaklasalim..." VO__LUCAS__CH04__CHATTER__UPSTAIRS__060__M__1
-TT 14581 "Bak— arkadaki o gözetleme kulesi limana açiliyor!" VO__LUCAS__CH04__CHATTER__VISTA_TOWER__010__M__1
+TT 14581 "Bak— arkadaki su gözetleme kulesi limana açiliyor!" VO__LUCAS__CH04__CHATTER__VISTA_TOWER__010__M__1
 TT 14582 "Arabalarindaki o kafesler... Sanirim... arenadan cesetler!" VO__LUCAS__CH04__CHATTER__VISTA_TOWER__025__M__1
 TT 14583 "Amicia... Oraya vardigimizda... sapanini çekmeyeceksin, tamam mi? Bir baska... ahir... durumuna ihtiyacimiz yok. Yani... artik asker öldürmek yok." VO__LUCAS__CH04__CHATTER__VISTA_TOWER__050__M__1
 TT 14584 "Bir tezgâh!" VO__LUCAS__CH04__CHATTER__WORKBENCH__010__M__1
@@ -14602,7 +14602,7 @@ TT 14598 "Yakalamaya hazir olunca söyle!" VO__LUCAS__CH04__HELPER__JAR_DONE_HAN
 TT 14599 "Amicia! Malzemeleri ne zaman atmami istedigini söyle!" VO__LUCAS__CH04__HELPER__JAR_DONE_HANGAR_CATCH_2__010__M__1
 TT 14600 "Amicia! Ikinci havuzu bir Ignifer'le yakabilir misin?!" VO__LUCAS__CH04__HELPER__LIGHT_BASIN_2__010__M__1
 TT 14601 "Belki o krank fiçiyi hareket ettiriyor... Ama oraya nasil gidilir bilmiyorum..." VO__LUCAS__CH04__HELPER__LOCK_SHOT_HANGAR_1__010__M__1
-TT 14602 "Bak! O kapiyi bir zincir kapatiyor! Onu kirabilir misin?!" VO__LUCAS__CH04__HELPER__LOCK_SHOT_HANGAR_2__010__M__1
+TT 14602 "Bak! Su kapiyi bir zincir kapatiyor! Onu kirabilir misin?!" VO__LUCAS__CH04__HELPER__LOCK_SHOT_HANGAR_2__010__M__1
 TT 14603 "Amicia! Onu hareket ettirmemi ister misin?" VO__LUCAS__CH04__HELPER__LUCAS_ORDER_1__010__M__1
 TT 14604 "Köprüyü ne zaman hareket ettirmemi istedigini söyle!" VO__LUCAS__CH04__HELPER__LUCAS_ORDER_2__010__M__1
 TT 14605 "Sana gelemiyorum Amicia! Tekne yolumu kesiyor!" VO__LUCAS__CH04__HELPER__LUCAS_STUCK_1__010__M__1
@@ -14613,7 +14613,7 @@ TT 14609 "Asagi inecek bir yol bulmaliyiz..." VO__LUCAS__CH04__HELPER__OPEN_TRAP
 TT 14610 "Amicia! Bu kapakta bana yardim et!" VO__LUCAS__CH04__HELPER__OPEN_TRAPDOOR_DOCK_2__010__M__1
 TT 14611 "Amicia! Sanirim o zinciri kirarsan geçebilecek!" VO__LUCAS__CH04__HELPER__SECOND_BRIDGE_SIMON_2__010__M__1
 TT 14612 "O askere yolu açmamiz gerek." VO__LUCAS__CH04__HELPER__SLING_BRIDGE_1__010__M__1
-TT 14613 "Köprüdeki o zinciri görüyor musun? Buradan vurabilir misin?" VO__LUCAS__CH04__HELPER__SLING_BRIDGE_2__010__M__1
+TT 14613 "Köprüdeki su zinciri görüyor musun? Buradan vurabilir misin?" VO__LUCAS__CH04__HELPER__SLING_BRIDGE_2__010__M__1
 TT 14614 "Havuzlarin arasina bir çömlek katran at!" VO__LUCAS__CH04__HELPER__TAR_POT_SHOOT_HANGAR_1__010__M__1
 TT 14615 "Amicia! Yere bir çömlek katran atman gerek!" VO__LUCAS__CH04__HELPER__TAR_POT_SHOOT_HANGAR_2__010__M__1
 TT 14616 "Katrani yak, Amicia!" VO__LUCAS__CH04__HELPER__TAR_SHOOT_HANGAR_1__010__M__1
@@ -15666,7 +15666,7 @@ TT 15662 "Otlarin arasina! Yakalayalim onlari!" VO__PEOPLE_M1__GENERIC__PATROL__
 TT 15663 "Otlarin arasina daldilar!" VO__PEOPLE_M1__GENERIC__PATROL__SEARCH_SPOTTER_GRASS__001__M__2
 TT 15664 "Uzun otlar! Oradalar!" VO__PEOPLE_M1__GENERIC__PATROL__SEARCH_SPOTTER_GRASS__001__M__3
 TT 15665 "Hadi ama! Uzun otlar seni kurtarmaz!" VO__PEOPLE_M1__GENERIC__PATROL__SEARCH_SPOTTER_GRASS_ALONE__001__M__1
-TT 15666 "Seni o otlarin arasinda bulamayacagimi mi saniyorsun!?" VO__PEOPLE_M1__GENERIC__PATROL__SEARCH_SPOTTER_GRASS_ALONE__001__M__2
+TT 15666 "Seni su otlarin arasinda bulamayacagimi mi saniyorsun!?" VO__PEOPLE_M1__GENERIC__PATROL__SEARCH_SPOTTER_GRASS_ALONE__001__M__2
 TT 15667 "Otlar seni koruyamaz! Çik disari!" VO__PEOPLE_M1__GENERIC__PATROL__SEARCH_SPOTTER_GRASS_ALONE__001__M__3
 TT 15668 "O da ne, yine mi? Gidip baksam iyi olur." VO__PEOPLE_M1__GENERIC__PATROL__SUSPICION_AGAIN_SPOTTER__001__M__1
 TT 15669 "Yine mi?! Baksam iyi olur..." VO__PEOPLE_M1__GENERIC__PATROL__SUSPICION_AGAIN_SPOTTER__001__M__2
@@ -15883,7 +15883,7 @@ TT 15879 "Alçaklarin suraya saklandigini gördüm!" VO__PEOPLE_M2__GENERIC__PAT
 TT 15880 "Tam sunun arkasina sigindilar. Gidiyorum!" VO__PEOPLE_M2__GENERIC__PATROL__SEARCH_SPOTTER_COVER__001__M__2
 TT 15881 "Suraya saklandilar! Yakalayin onlari!" VO__PEOPLE_M2__GENERIC__PATROL__SEARCH_SPOTTER_COVER__001__M__3
 TT 15882 "Sunun arkasina mi saklaniyorsun? Kötü fikir!" VO__PEOPLE_M2__GENERIC__PATROL__SEARCH_SPOTTER_COVER_ALONE__001__M__1
-TT 15883 "O siper seni kurtarmaz!" VO__PEOPLE_M2__GENERIC__PATROL__SEARCH_SPOTTER_COVER_ALONE__001__M__2
+TT 15883 "Su siper seni kurtarmaz!" VO__PEOPLE_M2__GENERIC__PATROL__SEARCH_SPOTTER_COVER_ALONE__001__M__2
 TT 15884 "Sunun arkasinda güvende oldugunu mu saniyorsun?" VO__PEOPLE_M2__GENERIC__PATROL__SEARCH_SPOTTER_COVER_ALONE__001__M__3
 TT 15885 "Uzun otlarin arasina girdiler! Eminim!" VO__PEOPLE_M2__GENERIC__PATROL__SEARCH_SPOTTER_GRASS__001__M__1
 TT 15886 "Otlarin arasina girdiler!" VO__PEOPLE_M2__GENERIC__PATROL__SEARCH_SPOTTER_GRASS__001__M__2
@@ -16314,9 +16314,9 @@ TT 16310 "Orada oldugunu biliyorum... Kaçamazsin!" VO__PEOPLE_M4__GENERIC__PATR
 TT 16311 "Suraya saklandiklarini gördüm! Arayin otlari!" VO__PEOPLE_M4__GENERIC__PATROL__SEARCH_SPOTTER_GRASS__001__M__1
 TT 16312 "Su otlarin arasindalar! Peslerinden!" VO__PEOPLE_M4__GENERIC__PATROL__SEARCH_SPOTTER_GRASS__001__M__2
 TT 16313 "Otlarin arasina girdiler! Takip edin onlari!" VO__PEOPLE_M4__GENERIC__PATROL__SEARCH_SPOTTER_GRASS__001__M__3
-TT 16314 "O otlarin arasinda uzaga gidemezsin, inan bana!" VO__PEOPLE_M4__GENERIC__PATROL__SEARCH_SPOTTER_GRASS_ALONE__001__M__1
+TT 16314 "Su otlarin arasinda uzaga gidemezsin, inan bana!" VO__PEOPLE_M4__GENERIC__PATROL__SEARCH_SPOTTER_GRASS_ALONE__001__M__1
 TT 16315 "Otlar senin için güvenli bir yer degil!" VO__PEOPLE_M4__GENERIC__PATROL__SEARCH_SPOTTER_GRASS_ALONE__001__M__2
-TT 16316 "O otlar acinasi bir saklanma yeri!" VO__PEOPLE_M4__GENERIC__PATROL__SEARCH_SPOTTER_GRASS_ALONE__001__M__3
+TT 16316 "Su otlar acinasi bir saklanma yeri!" VO__PEOPLE_M4__GENERIC__PATROL__SEARCH_SPOTTER_GRASS_ALONE__001__M__3
 TT 16317 "Yine bir sey oluyor... Gidiyorum!" VO__PEOPLE_M4__GENERIC__PATROL__SUSPICION_AGAIN_SPOTTER__001__M__1
 TT 16318 "Yine bir sey mi?! Bakmam lazim..." VO__PEOPLE_M4__GENERIC__PATROL__SUSPICION_AGAIN_SPOTTER__001__M__2
 TT 16319 "Yine... Olamaz..?! Neler oluyor bakacagim..." VO__PEOPLE_M4__GENERIC__PATROL__SUSPICION_AGAIN_SPOTTER__001__M__3
@@ -16908,7 +16908,7 @@ TT 16904 "Nereye gittigini gördüm! Hemen asagidayim!" VO__SOLDIER_B1__GENERIC_
 TT 16905 "Onlari otlarin arasindan kovalayacagim! Yanima!" VO__SOLDIER_B1__GENERIC__PATROL__SEARCH_SPOTTER_GRASS__001__M__1
 TT 16906 "Onlari otlarin arasindan çikaralim!" VO__SOLDIER_B1__GENERIC__PATROL__SEARCH_SPOTTER_GRASS__001__M__2
 TT 16907 "Davetsizler otlarin arasina girdi!" VO__SOLDIER_B1__GENERIC__PATROL__SEARCH_SPOTTER_GRASS__001__M__3
-TT 16908 "Seni o otlarin arasindan bizzat sürükleyip çikaracagim!" VO__SOLDIER_B1__GENERIC__PATROL__SEARCH_SPOTTER_GRASS_ALONE__001__M__1
+TT 16908 "Seni su otlarin arasindan bizzat sürükleyip çikaracagim!" VO__SOLDIER_B1__GENERIC__PATROL__SEARCH_SPOTTER_GRASS_ALONE__001__M__1
 TT 16909 "Otlarin arasina mi saklaniyorsun?" VO__SOLDIER_B1__GENERIC__PATROL__SEARCH_SPOTTER_GRASS_ALONE__001__M__2
 TT 16910 "Otlarin arasina girdigini gördüm!" VO__SOLDIER_B1__GENERIC__PATROL__SEARCH_SPOTTER_GRASS_ALONE__001__M__3
 TT 16911 "Sunun altina girdiler! Onlari bizzat sürükleyip çikaracagim." VO__SOLDIER_B1__GENERIC__PATROL__SEARCH_SPOTTER_INSIDE__001__M__1
@@ -16923,7 +16923,7 @@ TT 16919 "Yukari tirmandilar! Yakalayin onlari!" VO__SOLDIER_B1__GENERIC__PATROL
 TT 16920 "Yukarida saklanabilecegini sanma!" VO__SOLDIER_B1__GENERIC__PATROL__SEARCH_SPOTTER_UP_ALONE__001__M__1
 TT 16921 "Yukari tirmandigini biliyorum! Seni kurtarmaz!" VO__SOLDIER_B1__GENERIC__PATROL__SEARCH_SPOTTER_UP_ALONE__001__M__2
 TT 16922 "Nereye gittigini gördüm! Hemen yukari geliyorum!" VO__SOLDIER_B1__GENERIC__PATROL__SEARCH_SPOTTER_UP_ALONE__001__M__3
-TT 16923 "O duman da ne? Emin olalim." VO__SOLDIER_B1__GENERIC__PATROL__SMOKE__001__M__1
+TT 16923 "Su duman da ne? Emin olalim." VO__SOLDIER_B1__GENERIC__PATROL__SMOKE__001__M__1
 TT 16924 "Bu duman da ne böyle?" VO__SOLDIER_B1__GENERIC__PATROL__SMOKE__001__M__2
 TT 16925 "Duman mi? Burada mi? Tuhaf..." VO__SOLDIER_B1__GENERIC__PATROL__SMOKE__001__M__3
 TT 16926 "Yine mi?! Orada neler oluyor bakalim!" VO__SOLDIER_B1__GENERIC__PATROL__SUSPICION_AGAIN_SPOTTER__001__M__1
@@ -17720,7 +17720,7 @@ TT 17716 "Seni ödlek! Geri çik buraya!" VO__SOLDIER_N1__GENERIC__PATROL__SEARC
 TT 17717 "Asagi atladigini biliyorum! Iyi saklansan iyi edersin!" VO__SOLDIER_N1__GENERIC__PATROL__SEARCH_SPOTTER_DOWN_ALONE__001__M__2
 TT 17718 "Seni asagida bulamayacagimi mi saniyorsun?!" VO__SOLDIER_N1__GENERIC__PATROL__SEARCH_SPOTTER_DOWN_ALONE__001__M__3
 TT 17719 "Isleri bitti, çimendeler!" VO__SOLDIER_N1__GENERIC__PATROL__SEARCH_SPOTTER_GRASS__001__M__1
-TT 17720 "O çimenin bir yerindeler!" VO__SOLDIER_N1__GENERIC__PATROL__SEARCH_SPOTTER_GRASS__001__M__2
+TT 17720 "Su çimenin bir yerindeler!" VO__SOLDIER_N1__GENERIC__PATROL__SEARCH_SPOTTER_GRASS__001__M__2
 TT 17721 "Çimene sigindiklarini gördüm!" VO__SOLDIER_N1__GENERIC__PATROL__SEARCH_SPOTTER_GRASS__001__M__3
 TT 17722 "Çimende, ha?! Daha akilli olursun sanmistim!" VO__SOLDIER_N1__GENERIC__PATROL__SEARCH_SPOTTER_GRASS_ALONE__001__M__1
 TT 17723 "Seni çimenden ayaklarindan sürükleyecegim, söz veriyorum." VO__SOLDIER_N1__GENERIC__PATROL__SEARCH_SPOTTER_GRASS_ALONE__001__M__2
@@ -18198,8 +18198,8 @@ TT 18194 "Izinsiz girenler çimene girdi!" VO__SOLDIER_N2__GENERIC__PATROL__SEAR
 TT 18195 "Çimende saklaniyorlar! Peslerinden gidecegim!" VO__SOLDIER_N2__GENERIC__PATROL__SEARCH_SPOTTER_GRASS__001__M__2
 TT 18196 "Çimende, benimle arayin!" VO__SOLDIER_N2__GENERIC__PATROL__SEARCH_SPOTTER_GRASS__001__M__3
 TT 18197 "Çik o çimenden!" VO__SOLDIER_N2__GENERIC__PATROL__SEARCH_SPOTTER_GRASS_ALONE__001__M__1
-TT 18198 "O çimen seni sonsuza dek saklamaz." VO__SOLDIER_N2__GENERIC__PATROL__SEARCH_SPOTTER_GRASS_ALONE__001__M__2
-TT 18199 "O çimenin seni kurtaracagini gerçekten mi saniyorsun?!" VO__SOLDIER_N2__GENERIC__PATROL__SEARCH_SPOTTER_GRASS_ALONE__001__M__3
+TT 18198 "Su çimen seni sonsuza dek saklamaz." VO__SOLDIER_N2__GENERIC__PATROL__SEARCH_SPOTTER_GRASS_ALONE__001__M__2
+TT 18199 "Su çimenin seni kurtaracagini gerçekten mi saniyorsun?!" VO__SOLDIER_N2__GENERIC__PATROL__SEARCH_SPOTTER_GRASS_ALONE__001__M__3
 TT 18200 "Sanirim oranin altindalar! Bakacagim!" VO__SOLDIER_N2__GENERIC__PATROL__SEARCH_SPOTTER_INSIDE__001__M__1
 TT 18201 "Oranin altina girdiler! Yakalayacagim onlari!" VO__SOLDIER_N2__GENERIC__PATROL__SEARCH_SPOTTER_INSIDE__001__M__2
 TT 18202 "Oranin altinda saklaniyorlar! Peslerindeyim!" VO__SOLDIER_N2__GENERIC__PATROL__SEARCH_SPOTTER_INSIDE__001__M__3
@@ -18214,7 +18214,7 @@ TT 18210 "Geri in buraya! Sadece isi daha da kötülestiriyorsun!" VO__SOLDIER_N
 TT 18211 "Tirmandigini gördüm!" VO__SOLDIER_N2__GENERIC__PATROL__SEARCH_SPOTTER_UP_ALONE__001__M__3
 TT 18212 "Su dumanin nesi var lan?" VO__SOLDIER_N2__GENERIC__PATROL__SMOKE__001__M__1
 TT 18213 "Bu duman da ne?" VO__SOLDIER_N2__GENERIC__PATROL__SMOKE__001__M__2
-TT 18214 "O duman normal degil... Bakalim..." VO__SOLDIER_N2__GENERIC__PATROL__SMOKE__001__M__3
+TT 18214 "Su duman normal degil... Bakalim..." VO__SOLDIER_N2__GENERIC__PATROL__SMOKE__001__M__3
 TT 18215 "Yine neler oluyor? Bunu çabuk kontrol etsem iyi olur..." VO__SOLDIER_N2__GENERIC__PATROL__SUSPICION_AGAIN_SPOTTER__001__M__1
 TT 18216 "Yine oluyor! Gözünü açik tut." VO__SOLDIER_N2__GENERIC__PATROL__SUSPICION_AGAIN_SPOTTER__001__M__2
 TT 18217 "Yine mi?! Gidip bir bakacagim!" VO__SOLDIER_N2__GENERIC__PATROL__SUSPICION_AGAIN_SPOTTER__001__M__3
@@ -18559,7 +18559,7 @@ TT 18555 "Az önce buradaydilar!" VO__SOLDIER_N3__GENERIC__PATROL__SEARCH_SPOTTE
 TT 18556 "Yakindalar! Bulalim onlari." VO__SOLDIER_N3__GENERIC__PATROL__SEARCH_SPOTTER__001__M__3
 TT 18557 "Tam orada arkada! Benimle gel!" VO__SOLDIER_N3__GENERIC__PATROL__SEARCH_SPOTTER_COVER__001__M__1
 TT 18558 "Orada arkada sinmisler! Gidiyorum!" VO__SOLDIER_N3__GENERIC__PATROL__SEARCH_SPOTTER_COVER__001__M__2
-TT 18559 "O siperin arkasina saklanmaya çalisiyorlar! Yakaladim onlari!" VO__SOLDIER_N3__GENERIC__PATROL__SEARCH_SPOTTER_COVER__001__M__3
+TT 18559 "Su siperin arkasina saklanmaya çalisiyorlar! Yakaladim onlari!" VO__SOLDIER_N3__GENERIC__PATROL__SEARCH_SPOTTER_COVER__001__M__3
 TT 18560 "Orada arkada mi saklaniyorsun, ha?! Bana göre yeterince zeki degilsin!" VO__SOLDIER_N3__GENERIC__PATROL__SEARCH_SPOTTER_COVER_ALONE__001__M__1
 TT 18561 "Orada arkada oldugunu biliyorum... Yakinda pisman olacaksin!" VO__SOLDIER_N3__GENERIC__PATROL__SEARCH_SPOTTER_COVER_ALONE__001__M__2
 TT 18562 "Onun arkasinda güvende degilsin!" VO__SOLDIER_N3__GENERIC__PATROL__SEARCH_SPOTTER_COVER_ALONE__001__M__3
@@ -18574,7 +18574,7 @@ TT 18570 "Uzun çimenin bir yerinde saklaniyorlar!" VO__SOLDIER_N3__GENERIC__PAT
 TT 18571 "Uzun çimene girdiler! Beni takip edin!" VO__SOLDIER_N3__GENERIC__PATROL__SEARCH_SPOTTER_GRASS__001__M__3
 TT 18572 "Çimende kaçamayacaksin!" VO__SOLDIER_N3__GENERIC__PATROL__SEARCH_SPOTTER_GRASS_ALONE__001__M__1
 TT 18573 "Çimende oynamayi birak, yine de yakalayacagim seni." VO__SOLDIER_N3__GENERIC__PATROL__SEARCH_SPOTTER_GRASS_ALONE__001__M__2
-TT 18574 "Seni o çimenden kendim sürükleyip çikaracagim!" VO__SOLDIER_N3__GENERIC__PATROL__SEARCH_SPOTTER_GRASS_ALONE__001__M__3
+TT 18574 "Seni su çimenden kendim sürükleyip çikaracagim!" VO__SOLDIER_N3__GENERIC__PATROL__SEARCH_SPOTTER_GRASS_ALONE__001__M__3
 TT 18575 "Oranin altina girdiler! Hallediyorum!" VO__SOLDIER_N3__GENERIC__PATROL__SEARCH_SPOTTER_INSIDE__001__M__1
 TT 18576 "Izinsiz girenler oranin altinda! Yakalayin onlari!" VO__SOLDIER_N3__GENERIC__PATROL__SEARCH_SPOTTER_INSIDE__001__M__2
 TT 18577 "Oranin altindalar! Yakalayin onlari!" VO__SOLDIER_N3__GENERIC__PATROL__SEARCH_SPOTTER_INSIDE__001__M__3
@@ -18588,8 +18588,8 @@ TT 18584 "Yukarisi senin için güvenli degil!" VO__SOLDIER_N3__GENERIC__PATROL_
 TT 18585 "Tirmandigini gördüm! Yine de bulacagim seni!" VO__SOLDIER_N3__GENERIC__PATROL__SEARCH_SPOTTER_UP_ALONE__001__M__2
 TT 18586 "Yukarida uzun süre saklanamayacaksin!" VO__SOLDIER_N3__GENERIC__PATROL__SEARCH_SPOTTER_UP_ALONE__001__M__3
 TT 18587 "Duman..? Neler oluyor..?" VO__SOLDIER_N3__GENERIC__PATROL__SMOKE__001__M__1
-TT 18588 "O duman nereden geliyor?" VO__SOLDIER_N3__GENERIC__PATROL__SMOKE__001__M__2
-TT 18589 "O dumani çikaran ne lan?" VO__SOLDIER_N3__GENERIC__PATROL__SMOKE__001__M__3
+TT 18588 "Su duman nereden geliyor?" VO__SOLDIER_N3__GENERIC__PATROL__SMOKE__001__M__2
+TT 18589 "Su dumani çikaran ne lan?" VO__SOLDIER_N3__GENERIC__PATROL__SMOKE__001__M__3
 TT 18590 "Yine mi? Bu normal degil, bakacagim!" VO__SOLDIER_N3__GENERIC__PATROL__SUSPICION_AGAIN_SPOTTER__001__M__1
 TT 18591 "Yine olmasin!? Bir sey olmadigindan emin olacagim!" VO__SOLDIER_N3__GENERIC__PATROL__SUSPICION_AGAIN_SPOTTER__001__M__2
 TT 18592 "Yine bir sey... Sunu kontrol edelim!" VO__SOLDIER_N3__GENERIC__PATROL__SUSPICION_AGAIN_SPOTTER__001__M__3
@@ -19005,10 +19005,10 @@ TT 19001 "Istedigin kadar asagida saklan! Yine de bulacagim seni!" VO__SOLDIER_S
 TT 19002 "Asagida oldugunu biliyorum! Çabuk saklansan iyi edersin!" VO__SOLDIER_S1__GENERIC__PATROL__SEARCH_SPOTTER_DOWN_ALONE__001__M__3
 TT 19003 "Çimende kayboldular! Peslerinden gidiyorum!" VO__SOLDIER_S1__GENERIC__PATROL__SEARCH_SPOTTER_GRASS__001__M__1
 TT 19004 "Orada çimene girdiler!" VO__SOLDIER_S1__GENERIC__PATROL__SEARCH_SPOTTER_GRASS__001__M__2
-TT 19005 "O çimendeler!" VO__SOLDIER_S1__GENERIC__PATROL__SEARCH_SPOTTER_GRASS__001__M__3
+TT 19005 "Su çimendeler!" VO__SOLDIER_S1__GENERIC__PATROL__SEARCH_SPOTTER_GRASS__001__M__3
 TT 19006 "Çimende mi saklaniyorsun? Akillica bir karar degil." VO__SOLDIER_S1__GENERIC__PATROL__SEARCH_SPOTTER_GRASS_ALONE__001__M__1
-TT 19007 "O çimen seni saklamaz! Geliyorum!" VO__SOLDIER_S1__GENERIC__PATROL__SEARCH_SPOTTER_GRASS_ALONE__001__M__2
-TT 19008 "Çik o çimenden!" VO__SOLDIER_S1__GENERIC__PATROL__SEARCH_SPOTTER_GRASS_ALONE__001__M__3
+TT 19007 "Su çimen seni saklamaz! Geliyorum!" VO__SOLDIER_S1__GENERIC__PATROL__SEARCH_SPOTTER_GRASS_ALONE__001__M__2
+TT 19008 "Çik su çimenden!" VO__SOLDIER_S1__GENERIC__PATROL__SEARCH_SPOTTER_GRASS_ALONE__001__M__3
 TT 19009 "Oranin altina girdiler! Takip edecegim onlari!" VO__SOLDIER_S1__GENERIC__PATROL__SEARCH_SPOTTER_INSIDE__001__M__1
 TT 19010 "Oranin altinda saklaniyorlar! Ben hallederim!" VO__SOLDIER_S1__GENERIC__PATROL__SEARCH_SPOTTER_INSIDE__001__M__2
 TT 19011 "Arkami kolla, onlari oradan çikaracagim!" VO__SOLDIER_S1__GENERIC__PATROL__SEARCH_SPOTTER_INSIDE__001__M__3
@@ -19104,7 +19104,7 @@ TT 19100 "Çimene girdiler! Peslerinden gidin!" VO__SOLDIER_S1__GENERIC__STATIC_
 TT 19101 "Davetsiz misafirler çimene girdi! Çikarin onlari!" VO__SOLDIER_S1__GENERIC__STATIC__SEARCH_SPOTTER_GRASS__001__M__3
 TT 19102 "Bir tutam çimenin seni kurtaracagini mi saniyorsun?!" VO__SOLDIER_S1__GENERIC__STATIC__SEARCH_SPOTTER_GRASS_ALONE__001__M__1
 TT 19103 "Çimende ne kadar saklanabilirsin saniyorsun?" VO__SOLDIER_S1__GENERIC__STATIC__SEARCH_SPOTTER_GRASS_ALONE__001__M__2
-TT 19104 "O çimenin seni benden saklayacagini mi saniyorsun?!" VO__SOLDIER_S1__GENERIC__STATIC__SEARCH_SPOTTER_GRASS_ALONE__001__M__3
+TT 19104 "Su çimenin seni benden saklayacagini mi saniyorsun?!" VO__SOLDIER_S1__GENERIC__STATIC__SEARCH_SPOTTER_GRASS_ALONE__001__M__3
 TT 19105 "Oranin altinda bir yerdeler! Yakalayin onlari!" VO__SOLDIER_S1__GENERIC__STATIC__SEARCH_SPOTTER_INSIDE__001__M__1
 TT 19106 "Oranin altinda saklaniyorlar! Gidin!" VO__SOLDIER_S1__GENERIC__STATIC__SEARCH_SPOTTER_INSIDE__001__M__2
 TT 19107 "Oranin altina girdiler! Yakalayin onlari!" VO__SOLDIER_S1__GENERIC__STATIC__SEARCH_SPOTTER_INSIDE__001__M__3
@@ -19461,12 +19461,12 @@ TT 19457 "Davetsiz misafirler asagi atladi! Takip ediyorum onlari!" VO__SOLDIER_
 TT 19458 "Asagiya, pesinden geliyorum!" VO__SOLDIER_S2__GENERIC__PATROL__SEARCH_SPOTTER_DOWN_ALONE__001__M__1
 TT 19459 "Benden bu kadar kolay kurtulacagini sanma! Asagi iniyorum!" VO__SOLDIER_S2__GENERIC__PATROL__SEARCH_SPOTTER_DOWN_ALONE__001__M__2
 TT 19460 "Asagida saklanamayacaksin! Bulacagim seni!" VO__SOLDIER_S2__GENERIC__PATROL__SEARCH_SPOTTER_DOWN_ALONE__001__M__3
-TT 19461 "O çimenin bir yerindeler!" VO__SOLDIER_S2__GENERIC__PATROL__SEARCH_SPOTTER_GRASS__001__M__1
+TT 19461 "Su çimenin bir yerindeler!" VO__SOLDIER_S2__GENERIC__PATROL__SEARCH_SPOTTER_GRASS__001__M__1
 TT 19462 "Uzun süre sakli kalamayacaksin!" VO__SOLDIER_S2__GENERIC__PATROL__SEARCH_SPOTTER_GRASS__001__M__2
-TT 19463 "O çimenin bir yerindeler! Gözünüzü açik tutun!" VO__SOLDIER_S2__GENERIC__PATROL__SEARCH_SPOTTER_GRASS__001__M__3
+TT 19463 "Su çimenin bir yerindeler! Gözünüzü açik tutun!" VO__SOLDIER_S2__GENERIC__PATROL__SEARCH_SPOTTER_GRASS__001__M__3
 TT 19464 "Çimene saklanma! Isi çok kolaylastiriyorsun!" VO__SOLDIER_S2__GENERIC__PATROL__SEARCH_SPOTTER_GRASS_ALONE__001__M__1
-TT 19465 "O çimen seni uzun süre saklamaz!" VO__SOLDIER_S2__GENERIC__PATROL__SEARCH_SPOTTER_GRASS_ALONE__001__M__2
-TT 19466 "O çimen kaçmana yardim etmeyecek!" VO__SOLDIER_S2__GENERIC__PATROL__SEARCH_SPOTTER_GRASS_ALONE__001__M__3
+TT 19465 "Su çimen seni uzun süre saklamaz!" VO__SOLDIER_S2__GENERIC__PATROL__SEARCH_SPOTTER_GRASS_ALONE__001__M__2
+TT 19466 "Su çimen kaçmana yardim etmeyecek!" VO__SOLDIER_S2__GENERIC__PATROL__SEARCH_SPOTTER_GRASS_ALONE__001__M__3
 TT 19467 "Oranin altina girdiler! Yakalayacagim onlari!" VO__SOLDIER_S2__GENERIC__PATROL__SEARCH_SPOTTER_INSIDE__001__M__1
 TT 19468 "Oranin altinda saklaniyorlar! Peslerinden gidecegim!" VO__SOLDIER_S2__GENERIC__PATROL__SEARCH_SPOTTER_INSIDE__001__M__2
 TT 19469 "Oranin altina girdiklerini gördüm! Ben hallederim!" VO__SOLDIER_S2__GENERIC__PATROL__SEARCH_SPOTTER_INSIDE__001__M__3
@@ -19481,7 +19481,7 @@ TT 19477 "Yukarida saklanmanin iyi bir fikir oldugunu mu saniyorsun?! Geliyorum!
 TT 19478 "Yukarida saklanamayacaksin! Bulacagim seni!" VO__SOLDIER_S2__GENERIC__PATROL__SEARCH_SPOTTER_UP_ALONE__001__M__3
 TT 19479 "Burada biraz duman var... Neler oluyor?" VO__SOLDIER_S2__GENERIC__PATROL__SMOKE__001__M__1
 TT 19480 "Ates olmayan yerden duman çikmaz. Emin olsam iyi olur..." VO__SOLDIER_S2__GENERIC__PATROL__SMOKE__001__M__2
-TT 19481 "O duman da ne? Nasil olur?" VO__SOLDIER_S2__GENERIC__PATROL__SMOKE__001__M__3
+TT 19481 "Su duman da ne? Nasil olur?" VO__SOLDIER_S2__GENERIC__PATROL__SMOKE__001__M__3
 TT 19482 "Üst üste iki kez mi? Bir terslik var..." VO__SOLDIER_S2__GENERIC__PATROL__SUSPICION_AGAIN_SPOTTER__001__M__1
 TT 19483 "Yine mi?! Bakmam lazim..." VO__SOLDIER_S2__GENERIC__PATROL__SUSPICION_AGAIN_SPOTTER__001__M__2
 TT 19484 "Iki kez mi?! Gidip bakacagim..." VO__SOLDIER_S2__GENERIC__PATROL__SUSPICION_AGAIN_SPOTTER__001__M__3
@@ -19559,10 +19559,10 @@ TT 19555 "Asagi indigini gördüm!" VO__SOLDIER_S2__GENERIC__STATIC__SEARCH_SPOT
 TT 19556 "Asagida kaçamayacaksin!" VO__SOLDIER_S2__GENERIC__STATIC__SEARCH_SPOTTER_DOWN_ALONE__001__M__3
 TT 19557 "Çimene girdiler! Kaçmalarina izin vermeyin!" VO__SOLDIER_S2__GENERIC__STATIC__SEARCH_SPOTTER_GRASS__001__M__1
 TT 19558 "Çimende kayboldular! Acele edin!" VO__SOLDIER_S2__GENERIC__STATIC__SEARCH_SPOTTER_GRASS__001__M__2
-TT 19559 "Sanirim o çimende saklaniyorlar! Bulun onlari!" VO__SOLDIER_S2__GENERIC__STATIC__SEARCH_SPOTTER_GRASS__001__M__3
-TT 19560 "O çimene saklanmak yapacagin son hata olacak." VO__SOLDIER_S2__GENERIC__STATIC__SEARCH_SPOTTER_GRASS_ALONE__001__M__1
-TT 19561 "Ha?! O çimende saklanmanin ne anlami var?" VO__SOLDIER_S2__GENERIC__STATIC__SEARCH_SPOTTER_GRASS_ALONE__001__M__2
-TT 19562 "Basini o çimenden çikar! Bize bir sans ver!" VO__SOLDIER_S2__GENERIC__STATIC__SEARCH_SPOTTER_GRASS_ALONE__001__M__3
+TT 19559 "Sanirim su çimende saklaniyorlar! Bulun onlari!" VO__SOLDIER_S2__GENERIC__STATIC__SEARCH_SPOTTER_GRASS__001__M__3
+TT 19560 "Su çimene saklanmak yapacagin son hata olacak." VO__SOLDIER_S2__GENERIC__STATIC__SEARCH_SPOTTER_GRASS_ALONE__001__M__1
+TT 19561 "Ha?! Su çimende saklanmanin ne anlami var?" VO__SOLDIER_S2__GENERIC__STATIC__SEARCH_SPOTTER_GRASS_ALONE__001__M__2
+TT 19562 "Basini su çimenden çikar! Bize bir sans ver!" VO__SOLDIER_S2__GENERIC__STATIC__SEARCH_SPOTTER_GRASS_ALONE__001__M__3
 TT 19563 "Oranin altina girdiler! Acele edin!" VO__SOLDIER_S2__GENERIC__STATIC__SEARCH_SPOTTER_INSIDE__001__M__1
 TT 19564 "Ben burada nöbet tutarim, siz onlari oradan çikarin!" VO__SOLDIER_S2__GENERIC__STATIC__SEARCH_SPOTTER_INSIDE__001__M__2
 TT 19565 "Gidin onlari oranin altindan çikarin!" VO__SOLDIER_S2__GENERIC__STATIC__SEARCH_SPOTTER_INSIDE__001__M__3
@@ -19637,7 +19637,7 @@ TT 19633 "Amicia! Nerede oldugunu bilmiyorum ama su çapanin kaldirilmasi lazim!
 TT 19634 "Ana yelkeni aç yoksa bu lanet yerden asla ayrilamayiz!" VO__SOPHIA__CH07__HELPER__SAILS_ORDER_MAINSAIL_1__010__M__1
 TT 19635 "Amicia, ana yelkeni baglamak için kandilisa halatini asagi çek!" VO__SOPHIA__CH07__HELPER__SAILS_ORDER_MAINSAIL_2__010__M__1
 TT 19636 "Amicia! Iskeleye çik ve yelkene bir bak!" VO__SOPHIA__CH07__HELPER__SAILS_STUCK_TOGETHER_1__010__M__1
-TT 19637 "Iskeleye çik ve yelkeni kurtarmak için o kilidi kir!" VO__SOPHIA__CH07__HELPER__SAILS_STUCK_TOGETHER_2__010__M__1
+TT 19637 "Iskeleye çik ve yelkeni kurtarmak için su kilidi kir!" VO__SOPHIA__CH07__HELPER__SAILS_STUCK_TOGETHER_2__010__M__1
 TT 19638 "Birakin geçsin." VO__SOPHIA__CH07__RTC__300_SMUGGLER__030__M__1
 TT 19639 "Arnaud... O les yiyen fareler bile seni istemedi..." VO__SOPHIA__CH07__RTC__300_SMUGGLER__050__M__1
 TT 19640 "Suna bak..." VO__SOPHIA__CH07__RTC__300_SMUGGLER__060__M__1
@@ -20217,7 +20217,7 @@ TT 20213 "Canim..." VO__SOPHIA__CH11__CHATTER__CANT_GO__015__M__1
 TT 20214 "Amicia..." VO__SOPHIA__CH11__CHATTER__CANT_GO__035__M__1
 TT 20215 "Bu kadari fazla..." VO__SOPHIA__CH11__CHATTER__CANT_GO_INTERACT__020__M__1
 TT 20216 "Ise yaradi mi?!" VO__SOPHIA__CH11__CHATTER__CART_EXPLOSION_OK__030__M__1
-TT 20217 "Bak... O arabada gördügümüz ayni Rum atesi fiçisindan var..." VO__SOPHIA__CH11__CHATTER__CART_RESTING__010__M__1
+TT 20217 "Bak... Su arabada gördügümüz ayni Rum atesi fiçisindan var..." VO__SOPHIA__CH11__CHATTER__CART_RESTING__010__M__1
 TT 20218 "Yerde bir sey var..." VO__SOPHIA__CH11__CHATTER__CART_WONT_MOVE__020__M__1
 TT 20219 "Bak, burada bir manivela..." VO__SOPHIA__CH11__CHATTER__CARTPUZZLE_CRANK__010__M__1
 TT 20220 "Vay, vay!" VO__SOPHIA__CH11__CHATTER__CAVE_SLOPE__020__M__1

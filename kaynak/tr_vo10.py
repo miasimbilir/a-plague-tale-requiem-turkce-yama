@@ -60,7 +60,7 @@ T = {
 "VO__AMICIA__CH10__CHATTER__CHANDELIER_DOOR__030__M__1": "Kabul.",
 "VO__AMICIA__CH10__CHATTER__CHANDELIER_HOLD__020__M__1": "Tuttum...",
 "VO__AMICIA__CH10__CHATTER__CHANDELIER_MOVING__020__M__1": "Sanırım bir avize!",
-"VO__AMICIA__CH10__CHATTER__CHANDELIER_MOVING__040__M__1": "O zincir dayanıyor gibi!",
+"VO__AMICIA__CH10__CHATTER__CHANDELIER_MOVING__040__M__1": "Şu zincir dayanıyor gibi!",
 "VO__AMICIA__CH10__CHATTER__CHANDELIER_PULL__010__M__1": "Tut! Çekiyorum!",
 "VO__AMICIA__CH10__CHATTER__CHANDELIER_ROPE__010__M__1": "Sadece... şanssızlık.",
 "VO__AMICIA__CH10__CHATTER__CHANDELIER_ROPE_GRAB__020__M__1": "Şu halata bakalım...",

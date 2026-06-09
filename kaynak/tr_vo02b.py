@@ -82,7 +82,7 @@ T = {
 "VO__LUCAS__CH02__CHATTER__INVEST_SLUMS_DANGER_OUTRO__020__M__1": "Saklanıyordur belki?",
 "VO__LUCAS__CH02__CHATTER__INVEST_SLUMS_GUARDS__041__M__1": "Sorun değil, gel! Arenanın etrafından dolaşırız.",
 "VO__LUCAS__CH02__CHATTER__INVEST_SLUMS_INTRO__020__M__1": "Ne çok ev var...",
-"VO__LUCAS__CH02__CHATTER__INVEST_SLUMS_SYMBOL__010__M__1": "Amicia... Duvardaki o sembol!",
+"VO__LUCAS__CH02__CHATTER__INVEST_SLUMS_SYMBOL__010__M__1": "Amicia... Duvardaki şu sembol!",
 "VO__LUCAS__CH02__CHATTER__INVEST_SLUMS_SYMBOL__030__M__1": "Evet! Burada!",
 "VO__LUCAS__CH02__CHATTER__INVEST_SLUMS_UP__020__M__1": "Eee, kanunu çiğnemeye hazır mısın?",
 "VO__LUCAS__CH02__CHATTER__INVEST_SLUMS_UP_HELPER__050__M__1": "Yukarıda bir kapı var...",
