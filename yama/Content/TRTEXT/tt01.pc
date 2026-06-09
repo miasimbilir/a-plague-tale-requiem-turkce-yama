@@ -3361,10 +3361,10 @@ TT 3357 "Hâlleder! Gitmeliyiz Hugo! Yakalarlarsa bizi öldürürler!" VO__AMICI
 TT 3358 "Sst! Sessiz ol!" VO__AMICIA__CH01__CHATTER__HELP_TONIN__040__M__1
 TT 3359 "Amazon Amicia!" VO__AMICIA__CH01__CHATTER__HIDESEEK_BEGIN__050__M__1
 TT 3360 "Evet... Onlari da kullanabiliriz." VO__AMICIA__CH01__CHATTER__HIDESEEK_BEGIN__075__M__1
-TT 3361 "Yaninda duracagim kralim!" VO__AMICIA__CH01__CHATTER__HIDESEEK_BEGIN__090__M__1
+TT 3361 "Yaninizda olacagim kralim!" VO__AMICIA__CH01__CHATTER__HIDESEEK_BEGIN__090__M__1
 TT 3362 "Lucas..." VO__AMICIA__CH01__CHATTER__HIDESEEK_END__020__M__1
-TT 3363 "Pekâlâ, git çalis! Biz biraz daha kalacagiz." VO__AMICIA__CH01__CHATTER__HIDESEEK_END__065__M__1
-TT 3364 "Nasil istersen, iyi Kral!" VO__AMICIA__CH01__CHATTER__HIDESEEK_END__090__M__1
+TT 3363 "Pekâlâ, git çalis! Biz biraz daha buralardayiz." VO__AMICIA__CH01__CHATTER__HIDESEEK_END__065__M__1
+TT 3364 "Nasil isterseniz, yüce kralim!" VO__AMICIA__CH01__CHATTER__HIDESEEK_END__090__M__1
 TT 3365 "Güzel, simdi gözümüzü ondan ayirmayalim!" VO__AMICIA__CH01__CHATTER__HIDESEEK_ROUND_1__020__M__1
 TT 3366 "Nefes almayi unutma kralim..." VO__AMICIA__CH01__CHATTER__HIDESEEK_ROUND_1_BEGIN__020__M__1
 TT 3367 "Hadi, umutsuzluga kapilma..." VO__AMICIA__CH01__CHATTER__HIDESEEK_ROUND_1_LOST__030__M__1
@@ -3463,9 +3463,9 @@ TT 3459 "Öf!" VO__AMICIA__CH01__ONOM__FIRE_HOUSE__010__M__1
 TT 3460 "Öksürük öksürük." VO__AMICIA__CH01__ONOM__VISTA_ROOF__001__M__1
 TT 3461 "Kosmaya devam et!" VO__AMICIA__CH01__RTC__010_OPENING__060__M__1
 TT 3462 "Basaracagiz!" VO__AMICIA__CH01__RTC__010_OPENING__066__M__1
-TT 3463 "Hey, yavasla—zalimimizi yoracaksin..." VO__AMICIA__CH01__RTC__010_OPENING__115__M__1
-TT 3464 "Hadi... Bugün uzun bir yol katettik! Lütfen, annem onu yormaya çalis dedi..." VO__AMICIA__CH01__RTC__010_OPENING__205__M__1
-TT 3465 "Cesur ol büyücü! Savasin bitmekten çok uzak!" VO__AMICIA__CH01__RTC__010_OPENING__215__M__1
+TT 3463 "Hey, yavasla biraz—kötü adamimizi yoracaksin..." VO__AMICIA__CH01__RTC__010_OPENING__115__M__1
+TT 3464 "Hadi ama... Uzun bir yol kat ettik bugün! Lütfen, annem onu yorman lazim dedi..." VO__AMICIA__CH01__RTC__010_OPENING__205__M__1
+TT 3465 "Korkma büyücü! Savasin henüz bitmedi!" VO__AMICIA__CH01__RTC__010_OPENING__215__M__1
 TT 3466 "onom" VO__AMICIA__CH01__RTC__010_OPENING_ONOM__010__M__1
 TT 3467 "onom" VO__AMICIA__CH01__RTC__010_OPENING_ONOM__030__M__1
 TT 3468 "onom" VO__AMICIA__CH01__RTC__010_OPENING_ONOM__050__M__1
@@ -4578,8 +4578,8 @@ TT 4574 "onom" VO__AMICIA__CH04__RTC__124_CONDEMNED_ONOM__010__M__1
 TT 4575 "Henüz ölmedi..." VO__AMICIA__CH04__RTC__130_ENTER_SHIPYARD_AREA__020__M__1
 TT 4576 "Anladim. Öldürme yok, fark edilme yok. Hadi su tekneyi alalim." VO__AMICIA__CH04__RTC__130_ENTER_SHIPYARD_AREA__040__M__1
 TT 4577 "Evet, ve bela geliyor. Hareket etmeliyiz." VO__AMICIA__CH04__RTC__135_MEETING_JOSEPH__060__M__1
-TT 4578 "Joseph! Bekle!" VO__AMICIA__CH04__RTC__135_MEETING_JOSEPH__120__M__1
-TT 4579 "Magister Vaudin adina buradayiz! Sehirden ayrilmamiz gerek!" VO__AMICIA__CH04__RTC__135_MEETING_JOSEPH__140__M__1
+TT 4578 "Joseph! Dur!" VO__AMICIA__CH04__RTC__135_MEETING_JOSEPH__120__M__1
+TT 4579 "Magister Vaudin gönderdi bizi! Kasabadan ayrilmamiz lazim!" VO__AMICIA__CH04__RTC__135_MEETING_JOSEPH__140__M__1
 TT 4580 "Evet! Hadi!" VO__AMICIA__CH04__RTC__135_MEETING_JOSEPH__220__M__1
 TT 4581 "Bizi yari yolda birakmadigin için tesekkürler!" VO__AMICIA__CH04__RTC__140_FIRST_OUTBURST__010__M__1
 TT 4582 "Sehirde, gitmeye hazirlaniyorlar. Benim..." VO__AMICIA__CH04__RTC__140_FIRST_OUTBURST__040__M__1
@@ -6228,7 +6228,7 @@ TT 6224 "Bu daha da beter..." VO__AMICIA__CH10__CHATTER__IDLE_FORT_1__020__M__1
 TT 6225 "Basaracagiz." VO__AMICIA__CH10__CHATTER__IDLE_FORT_1__040__M__1
 TT 6226 "Nasil hissediyorsun, Hugo?" VO__AMICIA__CH10__CHATTER__IDLE_FORT_2__010__M__1
 TT 6227 "Söz... veriyorum, geçecek." VO__AMICIA__CH10__CHATTER__IDLE_FORT_2__030__M__1
-TT 6228 "Sana koymalarina izin verme. Sen bundan daha iyisin." VO__AMICIA__CH10__CHATTER__IDLE_FORT_3__020__M__1
+TT 6228 "Seni etkilemelerine izin verme. Sen bundan daha iyisin." VO__AMICIA__CH10__CHATTER__IDLE_FORT_3__020__M__1
 TT 6229 "Yanimizda kal..." VO__AMICIA__CH10__CHATTER__IDLE_FORT_4__020__M__1
 TT 6230 "Firsat bulur bulmaz gidecegiz, sana söz veriyorum." VO__AMICIA__CH10__CHATTER__IDLE_FORT_4__040__M__1
 TT 6231 "Olacak." VO__AMICIA__CH10__CHATTER__IDLE_FORT_5__030__M__1
@@ -6275,7 +6275,7 @@ TT 6271 "Sss!" VO__AMICIA__CH10__CHATTER__RELIEVED__010__M__1
 TT 6272 "Baska ne oldugunu görmüyorum..." VO__AMICIA__CH10__CHATTER__RELIEVED__040__M__1
 TT 6273 "Eee, o kule artik bizim mi?" VO__AMICIA__CH10__CHATTER__REUNION__040__M__1
 TT 6274 "Buradasin..." VO__AMICIA__CH10__CHATTER__REUNITED_WITH_SOPHIA__030__M__1
-TT 6275 "Kötü durumda, Sophia! Bundan bir çikis yolu görüyor musun?!" VO__AMICIA__CH10__CHATTER__REUNITED_WITH_SOPHIA__050__M__1
+TT 6275 "Durum kötü, Sophia! Bundan bir çikis yolu görüyor musun?!" VO__AMICIA__CH10__CHATTER__REUNITED_WITH_SOPHIA__050__M__1
 TT 6276 "Elbette!" VO__AMICIA__CH10__CHATTER__REUNITED_WITH_SOPHIA__080__M__1
 TT 6277 "Surada ne var?" VO__AMICIA__CH10__CHATTER__ROPE_RUINS_PICKUP__010__M__1
 TT 6278 "Sanirim bir sey buldum..." VO__AMICIA__CH10__CHATTER__ROPE_RUINS_PULLED__010__M__1
@@ -6393,7 +6393,7 @@ TT 6389 "Sey..." VO__AMICIA__CH11__CHATTER__AFTER_EXPLOSION__050__M__1
 TT 6390 "O da ne?" VO__AMICIA__CH11__CHATTER__BARRELS__010__M__1
 TT 6391 "Zaten çoktan gitmis. Devam edelim." VO__AMICIA__CH11__CHATTER__BARRELS__030__M__1
 TT 6392 "Seni yukari itecegim! Devam et!" VO__AMICIA__CH11__CHATTER__BEAM_WALK__020__M__1
-TT 6393 "Tarikatin muhafizlari, herhâlde. Aelia'nin izini yine bulduk." VO__AMICIA__CH11__CHATTER__BODIES_GROUND__020__M__1
+TT 6393 "Düzen'in muhafizlari, herhâlde. Aelia'nin izini yine bulduk." VO__AMICIA__CH11__CHATTER__BODIES_GROUND__020__M__1
 TT 6394 "Üstüne gitmisler, sanirim." VO__AMICIA__CH11__CHATTER__BODIES_GROUND__040__M__1
 TT 6395 "Kosmaya devam et! Arkana bakma!" VO__AMICIA__CH11__CHATTER__BRIDGE_COLLAPSE__020__M__1
 TT 6396 "Evet... Evet! Nihayet!" VO__AMICIA__CH11__CHATTER__BRIDGE_INCOMING__020__M__1
@@ -6480,7 +6480,7 @@ TT 6476 "Aynen. Devam edelim, belki görürüz? Eger... fazla korkmadiysa..." VO
 TT 6477 "Inanilmaz..." VO__AMICIA__CH11__CHATTER__FEATHER_SPOT__010__M__1
 TT 6478 "Dur... Bir seyler oluyor." VO__AMICIA__CH11__CHATTER__FIRE_LINE__010__M__1
 TT 6479 "Tamam, bu mangallar kimildatilabiliyor..." VO__AMICIA__CH11__CHATTER__FIRST_PULL_BEGIN__010__M__1
-TT 6480 "Tarikat siçanlarla nasil bas edilecegini biliyor..." VO__AMICIA__CH11__CHATTER__FIRST_PULL_BEGIN__030__M__1
+TT 6480 "Düzen siçanlarla nasil bas edilecegini biliyor..." VO__AMICIA__CH11__CHATTER__FIRST_PULL_BEGIN__030__M__1
 TT 6481 "Bu da bir sey..." VO__AMICIA__CH11__CHATTER__FIRST_PULL_OVER__010__M__1
 TT 6482 "Hadi!" VO__AMICIA__CH11__CHATTER__FIRST_PUSH__010__M__1
 TT 6483 "Güzel, itilebiliyorlar da! Bir el atar misin?" VO__AMICIA__CH11__CHATTER__FIRST_PUSH_START__010__M__1
@@ -6510,7 +6510,7 @@ TT 6506 "Dur! Bana güvenmen gerek!" VO__AMICIA__CH11__CHATTER__GOING_DOWN_2__09
 TT 6507 "Yavas ol..." VO__AMICIA__CH11__CHATTER__GRABBING_TANK__010__M__1
 TT 6508 "Hey! Buradayim!" VO__AMICIA__CH11__CHATTER__GREEK_FIRE_PASS__010__M__1
 TT 6509 "Mükemmel!" VO__AMICIA__CH11__CHATTER__GREEK_FIRE_PASS__060__M__1
-TT 6510 "Yine Tarikat muhafizlari..." VO__AMICIA__CH11__CHATTER__HALL_PUZZLE_DONE__010__M__1
+TT 6510 "Yine Düzen muhafizlari..." VO__AMICIA__CH11__CHATTER__HALL_PUZZLE_DONE__010__M__1
 TT 6511 "Onlarla tek basina basa çikmis, inanamiyorum..." VO__AMICIA__CH11__CHATTER__HALL_PUZZLE_DONE__020__M__1
 TT 6512 "Çok... kararliymis. O, onun için... her seymis." VO__AMICIA__CH11__CHATTER__HALL_PUZZLE_DONE__040__M__1
 TT 6513 "Ne oldugunu... biliyor musun?" VO__AMICIA__CH11__CHATTER__HALL_PUZZLE_DONE__060__M__1
@@ -6594,7 +6594,7 @@ TT 6590 "Güzel... Bir bakalim..." VO__AMICIA__CH11__CHATTER__SECOND_PULL_OVER__
 TT 6591 "Daha derine iniyoruz." VO__AMICIA__CH11__CHATTER__SLOPE_EDGE__010__M__1
 TT 6592 "Bu... burayi gösteren bir harita. Raylari ve mangallari görebiliyorsun..." VO__AMICIA__CH11__CHATTER__SOUVENIR_BARBICAN__010__M__1
 TT 6593 "Haklisin! Avlu burasi, bütün mangallariyla...! Peki sunlar ne?" VO__AMICIA__CH11__CHATTER__SOUVENIR_BARBICAN__040__M__1
-TT 6594 "Tarikatin bu kadar yayildigindan haberim yoktu..." VO__AMICIA__CH11__CHATTER__SOUVENIR_BARBICAN__060__M__1
+TT 6594 "Düzen'in bu kadar yayildigindan haberim yoktu..." VO__AMICIA__CH11__CHATTER__SOUVENIR_BARBICAN__060__M__1
 TT 6595 "Bir Veba... Hadi... Hadi gidelim." VO__AMICIA__CH11__CHATTER__SOUVENIR_BARBICAN__090__M__1
 TT 6596 "Bak... Çocuk kiyafetleri, oyuncaklar..." VO__AMICIA__CH11__CHATTER__SOUVENIR_GATE__010__M__1
 TT 6597 "Demek ki yakinda... Su kapinin ötesinde bir yerde!" VO__AMICIA__CH11__CHATTER__SOUVENIR_GATE__050__M__1
@@ -6843,7 +6843,7 @@ TT 6839 "Anne..." VO__AMICIA__CH12__RTC__610_A_BANQUET__040__M__1
 TT 6840 "Anne!" VO__AMICIA__CH12__RTC__610_A_BANQUET__056__M__1
 TT 6841 "Sorun degil, merak etme... Bizi nasil buldun?" VO__AMICIA__CH12__RTC__610_A_BANQUET__080__M__1
 TT 6842 "Evet, altinci yüzyilda. Basilius adinda bir çocuk. Onu bulduk... özellikle onun için tasarlanmis bir Düzen zindaninda zincirlenmis hâlde..." VO__AMICIA__CH12__RTC__610_A_BANQUET__150__M__1
-TT 6843 "... Sanirim son esigine ulastiginda panikledi onlar. Onu Koruyucusundan kopardilar. Oraya kilitlediler... olacaklari... kontrol altinda tutmak için." VO__AMICIA__CH12__RTC__610_A_BANQUET__156__M__1
+TT 6843 "... Sanirim son esigine ulastiginda paniklediler. Onu Koruyucusundan kopardilar. Oraya kilitlediler... olacaklari... kontrol altinda tutmak için." VO__AMICIA__CH12__RTC__610_A_BANQUET__156__M__1
 TT 6844 "Evet... Anne, Magister Vaudin Hugo'nun lanetli oldugunu söyledi, ama Düzen'in inandigi bu, geçmiste Basilius'la yaptiklari hataya dayaniyor. Eger onun da Koruyucusu olsaydi, tipki Hugo'nun bizler gibi, eminim hiçbir sey olmazdi..." VO__AMICIA__CH12__RTC__610_A_BANQUET__180__M__1
 TT 6845 "Bir düsün... Yollardaki son aylarda, sakin olan zamanlarda, her sey gayet yolundaydi. O iyiydi." VO__AMICIA__CH12__RTC__610_A_BANQUET__190__M__1
 TT 6846 "Içimden bir ses diyor ki... güvenli bir yere yerlesip orada bir aile olarak yasarsak..." VO__AMICIA__CH12__RTC__610_A_BANQUET__210__M__1
@@ -6853,7 +6853,7 @@ TT 6849 "Peki. Beni ona götür." VO__AMICIA__CH12__RTC__610_A_BANQUET__300__M__
 TT 6850 "EMPTY" VO__AMICIA__CH12__RTC__620_DECEIVED__010__M__1
 TT 6851 "Ne... Neden?!" VO__AMICIA__CH12__RTC__620_DECEIVED__015__M__1
 TT 6852 "Neyden emin?!" VO__AMICIA__CH12__RTC__620_DECEIVED__030__M__1
-TT 6853 "Hayir, hayir... Dinle... Bu konuda hepiniz tamamen yaniliyorsunuz! Tarikatiniz... Her sey!" VO__AMICIA__CH12__RTC__620_DECEIVED__050__M__1
+TT 6853 "Hayir, hayir... Dinle... Bu konuda hepiniz tamamen yaniliyorsunuz! Düzen'iniz... Her sey!" VO__AMICIA__CH12__RTC__620_DECEIVED__050__M__1
 TT 6854 "onom" VO__AMICIA__CH12__RTC__620_DECEIVED_ONOM__020__M__1
 TT 6855 "onom" VO__AMICIA__CH12__RTC__620_DECEIVED_ONOM__030__M__1
 TT 6856 "onom" VO__AMICIA__CH12__RTC__620_DECEIVED_ONOM__040__M__1
@@ -11132,13 +11132,13 @@ TT 11128 "Lanet olsun! Asla basaramazsiniz sanmistim! Gelin!" VO__BOATMAN__CH04_
 TT 11129 "Gitmeye haziriz!" VO__BOATMAN__CH04__CHATTER__BOAT__050__M__1
 TT 11130 "Kimildayin! Onlar... geri gelmeden... ya da daha beterinden önce!" VO__BOATMAN__CH04__CHATTER__BOAT__080__M__1
 TT 11131 "Devam edin, ben sizi korumaya devam ederim!" VO__BOATMAN__CH04__CHATTER__THANKS_JOSEPH__020__M__1
-TT 11132 "Bir müsteri bekliyorum ve sözlesmelerime her zaman sadik kalirim, dostum." VO__BOATMAN__CH04__RTC__135_MEETING_JOSEPH__020__M__1
+TT 11132 "Müsterimi bekliyorum. Ben her zaman sözüme sadik kalirim arkadasim." VO__BOATMAN__CH04__RTC__135_MEETING_JOSEPH__020__M__1
 TT 11133 "Pekâlâ, bak ne diyecegim? Gidecek daha iyi yerlerim var." VO__BOATMAN__CH04__RTC__135_MEETING_JOSEPH__070__M__1
 TT 11134 "Hadi ama!" VO__BOATMAN__CH04__RTC__135_MEETING_JOSEPH__090__M__1
-TT 11135 "Bak ne diyecegim? Defol!" VO__BOATMAN__CH04__RTC__135_MEETING_JOSEPH__110__M__1
-TT 11136 "Oldugun yerde kal!" VO__BOATMAN__CH04__RTC__135_MEETING_JOSEPH__130__M__1
-TT 11137 "Sence ne yapiyorum? Burasi darmadagin!" VO__BOATMAN__CH04__RTC__135_MEETING_JOSEPH__150__M__1
-TT 11138 "Pekâlâ, pekâlâ! Bir sonraki iskelede bulusalim!" VO__BOATMAN__CH04__RTC__135_MEETING_JOSEPH__170__M__1
+TT 11135 "Bak ne diyecegim? Siktir git!" VO__BOATMAN__CH04__RTC__135_MEETING_JOSEPH__110__M__1
+TT 11136 "Oldugunuz yerde kalin!" VO__BOATMAN__CH04__RTC__135_MEETING_JOSEPH__130__M__1
+TT 11137 "Sence ne yapiyorum? Burasi bir felaket!" VO__BOATMAN__CH04__RTC__135_MEETING_JOSEPH__150__M__1
+TT 11138 "Peki, tamam! Sonraki iskelede bulusalim!" VO__BOATMAN__CH04__RTC__135_MEETING_JOSEPH__170__M__1
 TT 11139 "Kimildayin! Hemen!" VO__BOATMAN__CH04__RTC__135_MEETING_JOSEPH__210__M__1
 TT 11140 "Sey, üzerine düseni yaptin... Simdi grubun geri kalani nerede?" VO__BOATMAN__CH04__RTC__140_FIRST_OUTBURST__030__M__1
 TT 11141 "Neler oluyor?" VO__BOATMAN__CH04__RTC__140_FIRST_OUTBURST__050__M__1
@@ -11659,12 +11659,12 @@ TT 11655 "Ne... istiyorsun...?" VO__HUGO__CH01__CHATTER__GET_UP__012__M__1
 TT 11656 "Ona zarar vermelerine izin veremeyiz!" VO__HUGO__CH01__CHATTER__HELP_TONIN__010__M__1
 TT 11657 "Ama belki onu da öldürürler!" VO__HUGO__CH01__CHATTER__HELP_TONIN__030__M__1
 TT 11658 "Mevkiine dön Amicia! Dalin arkasina!" VO__HUGO__CH01__CHATTER__HELPER_POSITION__010__M__1
-TT 11659 "Hain Lucas kalemi istila ediyor!" VO__HUGO__CH01__CHATTER__HIDESEEK_BEGIN__010__M__1
-TT 11660 "Amicia! Çok güçlü! Saklanmaliyiz!" VO__HUGO__CH01__CHATTER__HIDESEEK_BEGIN__030__M__1
+TT 11659 "Hain Lucas kaleme saldiriyor!" VO__HUGO__CH01__CHATTER__HIDESEEK_BEGIN__010__M__1
+TT 11660 "Amicia! Çok güçlü! Saklanmamiz lazim!" VO__HUGO__CH01__CHATTER__HIDESEEK_BEGIN__030__M__1
 TT 11661 "Surada baska harabeler var!" VO__HUGO__CH01__CHATTER__HIDESEEK_BEGIN__070__M__1
-TT 11662 "Gel Amazon Amicia! Iyi bir saklanma yeri bulmaliyiz!" VO__HUGO__CH01__CHATTER__HIDESEEK_BEGIN__080__M__1
+TT 11662 "Amazon Amicia! Saklanacak bir yer bulmamiz lazim!" VO__HUGO__CH01__CHATTER__HIDESEEK_BEGIN__080__M__1
 TT 11663 "Geliyor, geliyor!" VO__HUGO__CH01__CHATTER__HIDESEEK_COUNTING__130__M__1
-TT 11664 "Ama sen bir simyacisin!" VO__HUGO__CH01__CHATTER__HIDESEEK_END__040__M__1
+TT 11664 "Sen zaten simyacisin!" VO__HUGO__CH01__CHATTER__HIDESEEK_END__040__M__1
 TT 11665 "Çok korktun!" VO__HUGO__CH01__CHATTER__HIDESEEK_END__050__M__1
 TT 11666 "Gel! Kalenin geri kalanini görelim!" VO__HUGO__CH01__CHATTER__HIDESEEK_END__085__M__1
 TT 11667 "Evet! Gelirse yer degistiririz!" VO__HUGO__CH01__CHATTER__HIDESEEK_ROUND_1__023__M__1
@@ -11737,12 +11737,12 @@ TT 11733 "Ha... ha..." VO__HUGO__CH01__ONOM__CHARGE__030__M__1
 TT 11734 "Ah..." VO__HUGO__CH01__ONOM__FINAL_CRISIS__010__M__1
 TT 11735 "Yaaah!" VO__HUGO__CH01__ONOM__FIRST_STEPS__070__M__1
 TT 11736 "Ic, ic!" VO__HUGO__CH01__ONOM__TUTO_ORDER_CRAWL__050__M__1
-TT 11737 "Tam arkamizda Amicia! Bizi yakalayacak!" VO__HUGO__CH01__RTC__010_OPENING__050__M__1
+TT 11737 "Tam arkamizda Amicia! Yakalayacak bizi!" VO__HUGO__CH01__RTC__010_OPENING__050__M__1
 TT 11738 "Çok hizli!" VO__HUGO__CH01__RTC__010_OPENING__063__M__1
 TT 11739 "Eyvah! Kule!" VO__HUGO__CH01__RTC__010_OPENING__068__M__1
 TT 11740 "Geliyor!" VO__HUGO__CH01__RTC__010_OPENING__070__M__1
-TT 11741 "Hadi büyücü! Yakala bizi!" VO__HUGO__CH01__RTC__010_OPENING__100__M__1
-TT 11742 "Bu senin kulen! Kötü bir kule!" VO__HUGO__CH01__RTC__010_OPENING__130__M__1
+TT 11741 "Hadisene büyücü! Yakala bizi!" VO__HUGO__CH01__RTC__010_OPENING__100__M__1
+TT 11742 "Iste senin kulen! Kötülük dolu!" VO__HUGO__CH01__RTC__010_OPENING__130__M__1
 TT 11743 "EMPTY" VO__HUGO__CH01__RTC__010_OPENING__135__M__1
 TT 11744 "onom" VO__HUGO__CH01__RTC__010_OPENING_ONOM__020__M__1
 TT 11745 "onom" VO__HUGO__CH01__RTC__010_OPENING_ONOM__040__M__1
@@ -13776,9 +13776,9 @@ TT 13772 "onom" VO__LEADER__CH10__RTC__500_FRESCOE_ONOM__140__M__1
 TT 13773 "Annen nerede oldugumuzu merak edecek." VO__LUCAS__CH01__CHATTER__FIRST_STEPS__010__M__1
 TT 13774 "Evet..." VO__LUCAS__CH01__CHATTER__FIRST_STEPS__030__M__1
 TT 13775 "Bir kale..." VO__LUCAS__CH01__CHATTER__FIRST_STEPS__060__M__1
-TT 13776 "Evet! Ve seni bir böcege dönüstürecegim!" VO__LUCAS__CH01__CHATTER__HIDESEEK_BEGIN__020__M__1
-TT 13777 "Ona kadar sayacagim! Sonra pesinize gelecegim Kral Hugo ve..." VO__LUCAS__CH01__CHATTER__HIDESEEK_BEGIN__040__M__1
-TT 13778 "Tabii ki... O hâlde HEMEN GIDIN!" VO__LUCAS__CH01__CHATTER__HIDESEEK_BEGIN__060__M__1
+TT 13776 "Evet! Ve seni böcege dönüstürecegim!" VO__LUCAS__CH01__CHATTER__HIDESEEK_BEGIN__020__M__1
+TT 13777 "Ona kadar sayacagim! Sonra pesinize düsecegim Kral Hugo ve..." VO__LUCAS__CH01__CHATTER__HIDESEEK_BEGIN__040__M__1
+TT 13778 "Peki... O zaman HADI GIDIN!" VO__LUCAS__CH01__CHATTER__HIDESEEK_BEGIN__060__M__1
 TT 13779 "Biiir!" VO__LUCAS__CH01__CHATTER__HIDESEEK_COUNTING__010__M__1
 TT 13780 "Iki!" VO__LUCAS__CH01__CHATTER__HIDESEEK_COUNTING__020__M__1
 TT 13781 "Üç!" VO__LUCAS__CH01__CHATTER__HIDESEEK_COUNTING__030__M__1
@@ -13816,8 +13816,8 @@ TT 13812 "Onom" VO__LUCAS__CH01__ONOM__HIDESEEK_CHECK_COVER__010__M__2
 TT 13813 "Onom" VO__LUCAS__CH01__ONOM__HIDESEEK_CHECK_COVER__010__M__3
 TT 13814 "Onom" VO__LUCAS__CH01__ONOM__HIDESEEK_CHECK_COVER__010__M__4
 TT 13815 "Lanet bögürtlenler!" VO__LUCAS__CH01__RTC__010_OPENING__090__M__1
-TT 13816 "Benim için çok hizlisin..." VO__LUCAS__CH01__RTC__010_OPENING__095__M__1
-TT 13817 "Bu hiç yorulmaz mi? Gerçekten çalismaya dönmeliyim..." VO__LUCAS__CH01__RTC__010_OPENING__200__M__1
+TT 13816 "Benden hizlisiniz..." VO__LUCAS__CH01__RTC__010_OPENING__095__M__1
+TT 13817 "Hiç yorulmaz mi bu? Gerçekten çalismam lazim artik..." VO__LUCAS__CH01__RTC__010_OPENING__200__M__1
 TT 13818 "onom" VO__LUCAS__CH01__RTC__010_OPENING_ONOM__080__M__1
 TT 13819 "onom" VO__LUCAS__CH01__RTC__010_OPENING_ONOM__090__M__1
 TT 13820 "onom" VO__LUCAS__CH01__RTC__010_OPENING_ONOM__110__M__1
@@ -14624,8 +14624,8 @@ TT 14620 "Peki Magistra." VO__LUCAS__CH04__RTC__124_CONDEMNED__300__M__1
 TT 14621 "Amicia... Gelmelisin." VO__LUCAS__CH04__RTC__124_CONDEMNED__310__M__1
 TT 14622 "Üzgünüm Amicia, Hugo için..." VO__LUCAS__CH04__RTC__130_ENTER_SHIPYARD_AREA__010__M__1
 TT 14623 "Pekâlâ... Unutma: artik asker öldürmek yok. Artik bizi öldürmek yok." VO__LUCAS__CH04__RTC__130_ENTER_SHIPYARD_AREA__030__M__1
-TT 14624 "Adamimiz o." VO__LUCAS__CH04__RTC__135_MEETING_JOSEPH__050__M__1
-TT 14625 "Lütfen! Burada sikistik! Yanimizda bir çocuk var!" VO__LUCAS__CH04__RTC__135_MEETING_JOSEPH__160__M__1
+TT 14624 "Adam o iste." VO__LUCAS__CH04__RTC__135_MEETING_JOSEPH__050__M__1
+TT 14625 "Lütfen! Burada mahsur kaldik! Yanimizda bir çocuk var!" VO__LUCAS__CH04__RTC__135_MEETING_JOSEPH__160__M__1
 TT 14626 "Ve... yardim eli için..." VO__LUCAS__CH04__RTC__140_FIRST_OUTBURST__020__M__1
 TT 14627 "Dikkatli ol!" VO__LUCAS__CH04__RTC__140_FIRST_OUTBURST__090__M__1
 TT 14628 "onom" VO__LUCAS__CH04__RTC__140_FIRST_OUTBURST_ONOM__010__M__1
@@ -18680,8 +18680,8 @@ TT 18676 "Guyenne'de oldugunda geriye toplu mezarlardan baska bir sey birakmadig
 TT 18677 "Rahat birak beni! Bu çömlekleri kirmaya gücümüz yok!" VO__SOLDIER_S1__CH04__CHATTER__QUAI__070__M__1
 TT 18678 "Bu çömlekler sehre saglam lazim! O yüzden sakin ol!" VO__SOLDIER_S1__CH04__CHATTER__QUAI__090__M__1
 TT 18679 "Hey! O da ne...?" VO__SOLDIER_S1__CH04__CHATTER__TREMORS__010__M__1
-TT 18680 "Bu bir halk sagligi meselesi. Hâlâ firsatin varken gitmeliydin, Joseph." VO__SOLDIER_S1__CH04__RTC__135_MEETING_JOSEPH__010__M__1
-TT 18681 "O zaman sözlesmeni iptal say. Liman kapatildi ve sen izinsiz giriyorsun." VO__SOLDIER_S1__CH04__RTC__135_MEETING_JOSEPH__030__M__1
+TT 18680 "Halk sagligi meselesi bu. Firsatin varken gitmeliydin, Joseph." VO__SOLDIER_S1__CH04__RTC__135_MEETING_JOSEPH__010__M__1
+TT 18681 "O zaman isin iptal oldu say. Liman kapatildi ve senin iznin yok." VO__SOLDIER_S1__CH04__RTC__135_MEETING_JOSEPH__030__M__1
 TT 18682 "Hayir. Çok sey gördün. Seni tutukluyorum!" VO__SOLDIER_S1__CH04__RTC__135_MEETING_JOSEPH__073__M__1
 TT 18683 "Aaargh!" VO__SOLDIER_S1__CH04__RTC__135_MEETING_JOSEPH_ONOM__010__M__1
 TT 18684 "Sokaga çikma yasagi hâlâ geçerli! Evlerinize dönün!" VO__SOLDIER_S1__CH04__RTC__140_FIRST_OUTBURST__140__M__1
@@ -19167,8 +19167,8 @@ TT 19163 "Tartisma yeter, askerler! Kimildayin! Kimildayin!" VO__SOLDIER_S2__CH0
 TT 19164 "Sey, bu temizleyicilerimizin ilerledigi anlamina gelir..." VO__SOLDIER_S2__CH04__CHATTER__SOLDIERS_PYRE__020__M__1
 TT 19165 "Hepsi muhtemelen hasta. Kimseyi disari birakma riskini alamayiz, bunu biliyorsun." VO__SOLDIER_S2__CH04__CHATTER__SOLDIERS_PYRE__040__M__1
 TT 19166 "Geliyorlar... Geliyorlar!" VO__SOLDIER_S2__CH04__CHATTER__TREMORS__020__M__1
-TT 19167 "Kimsiniz? Kaptan nerede?" VO__SOLDIER_S2__CH04__RTC__135_MEETING_JOSEPH__180__M__1
-TT 19168 "Kahretsin!" VO__SOLDIER_S2__CH04__RTC__135_MEETING_JOSEPH__190__M__1
+TT 19167 "Siz kimsiniz? Kaptan nerede?" VO__SOLDIER_S2__CH04__RTC__135_MEETING_JOSEPH__180__M__1
+TT 19168 "Siktir!" VO__SOLDIER_S2__CH04__RTC__135_MEETING_JOSEPH__190__M__1
 TT 19169 "DAVETSIZLER!" VO__SOLDIER_S2__CH04__RTC__135_MEETING_JOSEPH__200__M__1
 TT 19170 "Aaargh!" VO__SOLDIER_S2__CH04__RTC__135_MEETING_JOSEPH_ONOM__020__M__1
 TT 19171 "Fareler! Onlari savunuyorlar!" VO__SOLDIER_S2__CH06__CHATTER__BEGINNING_RATMOVE__090__M__1
@@ -20294,7 +20294,7 @@ TT 20290 "Bir tür tapinak mi?" VO__SOPHIA__CH11__CHATTER__LIGHT__050__M__1
 TT 20291 "Sagda! Isik görüyorum!" VO__SOPHIA__CH11__CHATTER__MOONLIGHT__010__M__1
 TT 20292 "Evet! Disarisi!" VO__SOPHIA__CH11__CHATTER__MOONLIGHT__020__M__1
 TT 20293 "Ha... Gidelim." VO__SOPHIA__CH11__CHATTER__OPENED_GATE_CORRIDOR__020__M__1
-TT 20294 "Yerde, bak... Yine Tarikatin sembolü mü?" VO__SOPHIA__CH11__CHATTER__ORDER_SIGN__010__M__1
+TT 20294 "Yerde, bak... Yine Düzen'in sembolü mü?" VO__SOPHIA__CH11__CHATTER__ORDER_SIGN__010__M__1
 TT 20295 "Hemen buradayim!" VO__SOPHIA__CH11__CHATTER__OUT_OF_SIGHT__030__M__1
 TT 20296 "Ve eminim ki sag kalanlar vardir! Saraylari bir kale gibi!" VO__SOPHIA__CH11__CHATTER__PUSHING_CART__010__M__1
 TT 20297 "Geri çekil, Hugo... Iste geliyor!" VO__SOPHIA__CH11__CHATTER__PUSHING_TANK__010__M__1
