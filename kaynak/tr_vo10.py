@@ -176,7 +176,7 @@ T = {
 "VO__AMICIA__CH10__CHATTER__PORTCULLIS_INSIDE__010__M__1": "Onu kaldırmamız lazım...",
 "VO__AMICIA__CH10__CHATTER__PORTCULLIS_MOVING__020__M__1": "Biliyorum...",
 "VO__AMICIA__CH10__CHATTER__PORTCULLIS_MOVING__040__M__1": "Pek değil... Ama gidelim.",
-"VO__AMICIA__CH10__CHATTER__PORTCULLIS_NEAR__010__M__1": "Kapının üstündeyiz... Krank yakında olmalı...",
+"VO__AMICIA__CH10__CHATTER__PORTCULLIS_NEAR__010__M__1": "Kapının üstündeyiz... Krank yakınlarda olmalı...",
 "VO__AMICIA__CH10__CHATTER__PORTCULLIS_OPENED__030__M__1": "Onların icabına bakarız. Artık çok yakınız.",
 "VO__AMICIA__CH10__CHATTER__POST_RAT_CTRL_KILL__050__M__1": "Buna... alışacaksın...",
 "VO__AMICIA__CH10__CHATTER__PRISM_1ST_MOVE__020__M__1": "Geri döndüğün için teşekkürler.",

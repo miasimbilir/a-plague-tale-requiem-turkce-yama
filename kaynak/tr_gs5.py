@@ -225,7 +225,7 @@ T = {
 "VO__SOLDIER_S1__GENERIC__PATROL__SWITCH_SEARCH_ALONE__001__M__6": "Burası temiz.",
 "VO__SOLDIER_S1__GENERIC__STATIC__ALERT_ALONE__001__M__1": "Kıpırdama, duydun mu?!",
 "VO__SOLDIER_S1__GENERIC__STATIC__ALERT_ALONE__001__M__2": "Sen! Olduğun yerde kal!",
-"VO__SOLDIER_S1__GENERIC__STATIC__ALERT_ALONE__001__M__3": "Buraya kadar gelebilirsin!",
+"VO__SOLDIER_S1__GENERIC__STATIC__ALERT_ALONE__001__M__3": "Buraya kadar! Daha ileri gidemezsin!",
 "VO__SOLDIER_S1__GENERIC__STATIC__HIT_SEARCH_ALONE__001__M__1": "Bana bir daha vuramayacaksın, söz veriyorum!",
 "VO__SOLDIER_S1__GENERIC__STATIC__HIT_SEARCH_ALONE__001__M__2": "Bir fırsat daha bulamadan durduracağım seni!",
 "VO__SOLDIER_S1__GENERIC__STATIC__HIT_SEARCH_ALONE__001__M__3": "Kim yaptı bunu?!",

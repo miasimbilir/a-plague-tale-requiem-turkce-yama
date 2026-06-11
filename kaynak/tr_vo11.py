@@ -214,7 +214,7 @@ T = {
 "VO__AMICIA__CH11__CHATTER__SOUVENIR_BARBICAN__060__M__1": "Düzen'in bu kadar yayıldığından haberim yoktu...",
 "VO__AMICIA__CH11__CHATTER__SOUVENIR_BARBICAN__090__M__1": "Bir Veba... Hadi... Hadi gidelim.",
 "VO__AMICIA__CH11__CHATTER__SOUVENIR_GATE__010__M__1": "Bak... Çocuk kıyafetleri, oyuncaklar...",
-"VO__AMICIA__CH11__CHATTER__SOUVENIR_GATE__050__M__1": "Demek ki yakında... Şu kapının ötesinde bir yerde!",
+"VO__AMICIA__CH11__CHATTER__SOUVENIR_GATE__050__M__1": "Demek ki yakınlarda... Şu kapının ötesinde bir yerde!",
 "VO__AMICIA__CH11__CHATTER__SOUVENIR_GATE__070__M__1": "Sıradan bir çocuk değil... Göreceğiz. Şu kapıya geri dönelim...",
 "VO__AMICIA__CH11__CHATTER__STAIRS_VISTA__020__M__1": "Tanrım... Sanki bir... katedral gibi...",
 "VO__AMICIA__CH11__CHATTER__STAIRS_VISTA__050__M__1": "Evet. Bütün bunların merkezinde... Son eşiğin yapacağı şeye... benziyor... Aelia ona ulaşamadı... Ve olan bu oldu...",

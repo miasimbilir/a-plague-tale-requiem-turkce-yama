@@ -171,7 +171,7 @@ T = {
 "VO__BEATRICE__CH12__RTC__610_A_BANQUET__226__M__1": "Dağlardaki o evimizi hatırla. Orada çok iyi oluruz!",
 "VO__BEATRICE__CH12__RTC__610_A_BANQUET__285__M__1": "Evet.",
 "VO__BEATRICE__CH12__RTC__610_A_BANQUET__295__M__1": "Seni bekleyeceğiz. Şimdilik burada dışarıdan daha güvendeyiz zaten.",
-"VO__BEATRICE__CH12__RTC__630_THE_BALLROOM__012__M__1": "Hugo geçmişinin yaralarını iyileştirmeyecek. İçindeki boşluğu doldurmayacak. Öleceksin. Herkes ölecek.",
+"VO__BEATRICE__CH12__RTC__630_THE_BALLROOM__012__M__1": "Hugo, senin geçmişinin yaralarını iyileştirmeyecek. İçindeki boşluğu doldurmayacak. Öleceksin. Herkes ölecek.",
 "VO__BEATRICE__CH12__RTC__630_THE_BALLROOM__019__M__1": "Amicia...",
 "VO__BEATRICE__CH12__RTC__640_DUEL__210__M__1": "Hayır! Amicia! Hayır! ... Lütfen.",
 "VO__BEATRICE__CH12__RTC__650_AMICIAS_CALL__001__M__1": "Lütfen dur... LÜTFEN! DUR! Bir anneden diğerine.",
