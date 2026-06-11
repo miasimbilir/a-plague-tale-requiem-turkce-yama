@@ -7288,7 +7288,7 @@ TT 7284 "Kayboldum, Hugo! Ne yapacagimi bilmiyorum!" VO__AMICIA__CH16__CHATTER__
 TT 7285 "Yani... bir çikis lazim bana..." VO__AMICIA__CH16__CHATTER__A_PHOENIX_LIE_LOST__030__M__1
 TT 7286 "Lanet kuslar, birakin beni!... Hadi, dümdüz kos..." VO__AMICIA__CH16__CHATTER__A_PHOENIX_LIE_TRYING_EXIT__010__M__1
 TT 7287 "Dosdogru ileri... Eninde sonunda çikarsin." VO__AMICIA__CH16__CHATTER__A_PHOENIX_LIE_TRYING_EXIT__020__M__1
-TT 7288 "Devam et... Hugo yakinda... Önce Lucas'i bulmak lazim." VO__AMICIA__CH16__CHATTER__AFTER_FALL__010__M__1
+TT 7288 "Devam et... Hugo yakinlarda... Önce Lucas'i bulmak lazim." VO__AMICIA__CH16__CHATTER__AFTER_FALL__010__M__1
 TT 7289 "Bana... ne oluyor?... Hissediyorum..." VO__AMICIA__CH16__CHATTER__BREAKING_TRAP__005__M__1
 TT 7290 "Ne gerekiyorsa yapacagim... Seni... görmek istiyorum." VO__AMICIA__CH16__CHATTER__BREAKING_TRAP__020__M__1
 TT 7291 "Evet... bu iste, galiba... Devam et..." VO__AMICIA__CH16__CHATTER__BREAKING_TRAP_FEEL__010__M__1
@@ -7344,7 +7344,7 @@ TT 7340 "Hayir! Kahrolun!" VO__AMICIA__CH16__CHATTER__GOLEM_COLLAPSING_SECOND__0
 TT 7341 "Hayir... Hayir! Kahrolun!" VO__AMICIA__CH16__CHATTER__GOLEM_COLLAPSING_THIRD__010__M__1
 TT 7342 "Bir yol olmali!" VO__AMICIA__CH16__CHATTER__GOLEM_LOOP_2__010__M__1
 TT 7343 "Anladigimi onlara göstermek için..." VO__AMICIA__CH16__CHATTER__GOLEM_LOOP_2__030__M__1
-TT 7344 "Ha... O seyler yakinda... Bu sefer daha iyisini yap... Dogru yap bunu!" VO__AMICIA__CH16__CHATTER__GOLEM_LOOP_2_BACK__010__M__1
+TT 7344 "Ha... O seyler yaklasti... Bu sefer daha iyisini yap... Dogru yap bunu!" VO__AMICIA__CH16__CHATTER__GOLEM_LOOP_2_BACK__010__M__1
 TT 7345 "Mangal onlari durduramaz... Daha keskin olmalisin!" VO__AMICIA__CH16__CHATTER__GOLEM_LOOP_2_BACK__020__M__1
 TT 7346 "Bunu ne için yapiyorsun? Bu savas hiçbir yere varmiyor. Biliyorsun..." VO__AMICIA__CH16__CHATTER__GOLEM_LOOP_3_KEEP_KILLING__010__M__1
 TT 7347 "Buna son ver! Söndür su atesi! Teslim ol... Onun için..." VO__AMICIA__CH16__CHATTER__GOLEM_LOOP_3_KEEP_KILLING__020__M__1
@@ -13272,7 +13272,7 @@ TT 13268 "Ama bu büyük bir hata. Su an o kadar çok insan ölüyor ki, hissede
 TT 13269 "Ama..." VO__HUGO__CH16__CHATTER__DEATH_MOVE__080__M__1
 TT 13270 "Var... Eskiden yapmayacagin bir sey." VO__HUGO__CH16__CHATTER__GOLEM_LOOP_2__020__M__1
 TT 13271 "Yine basliyorsun..." VO__HUGO__CH16__CHATTER__GOLEM_LOOP_3_KILLING_1__005__M__1
-TT 13272 "Aradigin cevap yakinda... Bir koruma yanilsamasi..." VO__HUGO__CH16__CHATTER__GOLEM_LOOP_3_KILLING_1__020__M__1
+TT 13272 "Aradigin cevap yakinlarda... Bir koruma yanilsamasi..." VO__HUGO__CH16__CHATTER__GOLEM_LOOP_3_KILLING_1__020__M__1
 TT 13273 "Evet. Çok eskiden kalma bir sembol... geçmis inançlarindan..." VO__HUGO__CH16__CHATTER__GOLEM_LOOP_3_KILLING_1__040__M__1
 TT 13274 "Seni geride tutan bu alev. Söndür onu. Acisiz olacak..." VO__HUGO__CH16__CHATTER__GOLEM_LOOP_3_KILLING_2__030__M__1
 TT 13275 "Onlar düsman degil. Kendinle baris. Lütfen..." VO__HUGO__CH16__CHATTER__GOLEM_LOOP_4_KILLING_2__010__M__1
