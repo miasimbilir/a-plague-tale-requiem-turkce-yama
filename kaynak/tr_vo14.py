@@ -76,7 +76,7 @@ T = {
 "VO__AMICIA__CH14__RTC__800_LEAVING__100__M__1": "Ama o artık iyileşecek. Hepimiz iyileşeceğiz.",
 "VO__AMICIA__CH14__RTC__800_LEAVING__160__M__1": "Bakın kim nihayet kibar olmaya karar vermiş...",
 "VO__AMICIA__CH14__RTC__800_LEAVING__180__M__1": "Savaş bitti, Arnaud. Hepimiz biraz dinlenmeyi hak ettik. Sen de denemelisin.",
-"VO__AMICIA__CH14__RTC__800_LEAVING__220__M__1": "Lanet olsun, Kont!",
+"VO__AMICIA__CH14__RTC__800_LEAVING__220__M__1": "Kahretsin, Kont bu!",
 "VO__AMICIA__CH14__RTC__801_IMPACT__020__M__1": "Lucas! Sophia!",
 "VO__AMICIA__CH14__RTC__801_IMPACT__030__M__1": "Hayır!",
 "VO__AMICIA__CH14__RTC__801_IMPACT__050__M__1": "Çok fazlalar, Arnaud!",

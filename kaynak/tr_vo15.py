@@ -202,7 +202,7 @@ T = {
 "VO__PEOPLE_F2__CH15__CHATTER__SPECTATORS_2__020__M__1": "Sanki... cehennemin dibinden geliyor...",
 "VO__PEOPLE_F2__CH15__CHATTER__SPECTATORS_3__030__M__1": "Yeter! Çocukları daha da korkutuyorsun!",
 "VO__PEOPLE_F3__CH15__CHATTER__REFUGEES__050__M__1": "Yapamıyorum... Bacağım...",
-"VO__PEOPLE_F3__CH15__CHATTER__SPECTATORS_4__010__M__1": "Hemen gidiyoruz! Git ninenı bul! Ve eski battaniyeyi al!",
+"VO__PEOPLE_F3__CH15__CHATTER__SPECTATORS_4__010__M__1": "Hemen gidiyoruz! Git nineni bul! Ve eski battaniyeyi al!",
 "VO__PEOPLE_F4__CH15__CHATTER__GATE_BARRICADE__080__M__1": "Ya hâlâ içeride olanlar?!",
 "VO__PEOPLE_F4__CH15__CHATTER__REFUGEES__045__M__1": "Kalk! Lütfen kalk!",
 "VO__PEOPLE_F4__CH15__CHATTER__REFUGEES__060__M__1": "Kalkmalısın! Seni burada bırakmayacağım!",

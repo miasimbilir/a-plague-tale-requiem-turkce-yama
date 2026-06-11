@@ -7165,7 +7165,7 @@ TT 7161 "Hepimiz kurtulamadik." VO__AMICIA__CH14__RTC__800_LEAVING__090__M__1
 TT 7162 "Ama o artik iyilesecek. Hepimiz iyilesecegiz." VO__AMICIA__CH14__RTC__800_LEAVING__100__M__1
 TT 7163 "Bakin kim nihayet kibar olmaya karar vermis..." VO__AMICIA__CH14__RTC__800_LEAVING__160__M__1
 TT 7164 "Savas bitti, Arnaud. Hepimiz biraz dinlenmeyi hak ettik. Sen de denemelisin." VO__AMICIA__CH14__RTC__800_LEAVING__180__M__1
-TT 7165 "Lanet olsun, Kont!" VO__AMICIA__CH14__RTC__800_LEAVING__220__M__1
+TT 7165 "Kahretsin, Kont bu!" VO__AMICIA__CH14__RTC__800_LEAVING__220__M__1
 TT 7166 "Lucas! Sophia!" VO__AMICIA__CH14__RTC__801_IMPACT__020__M__1
 TT 7167 "Hayir!" VO__AMICIA__CH14__RTC__801_IMPACT__030__M__1
 TT 7168 "Çok fazlalar, Arnaud!" VO__AMICIA__CH14__RTC__801_IMPACT__050__M__1
